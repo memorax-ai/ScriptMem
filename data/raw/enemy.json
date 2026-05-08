@@ -1,0 +1,1401 @@
+[
+  {
+    "qa": [
+      {
+        "qa_type": "single_choice",
+        "question": "Taken together, Billing’s repeated oath-heavy outbursts most strongly suggest what underlying shift in his stance toward the Stockmanns over the course of the exchange?\n\nA. He remains consistently supportive, using profanity mainly to signal camaraderie rather than disapproval.\nB. He moves from vague suspicion to firm moral condemnation, ending in a decision to distance himself socially from them.\nC. He shifts from being shocked by gossip to deciding he must privately reconcile with the Stockmanns to verify the truth.\nD. He is primarily angry at himself for being naive, and his final refusal is directed at his own habits rather than at the Stockmanns.\nE. He moves from incredulous disbelief to harsh moral condemnation, but his final outburst reflects only momentary frustration—he is still willing to keep up friendly social contact with the Stockmanns.\nF. He moves from initial skepticism to impressed approval of what he hears, and his last oath signals a renewed resolve to join the Stockmanns socially rather than distance himself.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He remains consistently supportive, using profanity mainly to signal camaraderie rather than disapproval.",
+          "B. He moves from vague suspicion to firm moral condemnation, ending in a decision to distance himself socially from them.",
+          "C. He shifts from being shocked by gossip to deciding he must privately reconcile with the Stockmanns to verify the truth.",
+          "D. He is primarily angry at himself for being naive, and his final refusal is directed at his own habits rather than at the Stockmanns.",
+          "E. He moves from incredulous disbelief to harsh moral condemnation, but his final outburst reflects only momentary frustration—he is still willing to keep up friendly social contact with the Stockmanns.",
+          "F. He moves from initial skepticism to impressed approval of what he hears, and his last oath signals a renewed resolve to join the Stockmanns socially rather than distance himself."
+        ],
+        "answer": "B. He moves from vague suspicion to firm moral condemnation, ending in a decision to distance himself socially from them."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What does Hovstad’s reaction most strongly imply about how the water-supply “discovery” will function once it enters public debate?\n\nA. It will mainly serve to protect existing authorities by redirecting blame onto vague social decay rather than identifiable decision-makers.\nB. It will be treated less as a technical health issue and more as leverage to challenge the town’s underlying power structure.\nC. It will be quietly resolved through private discussion among elites, since circulating the report is framed as harmless and temporary.\nD. It will be framed as exposing a broad civic “morass” that needs reform, but the debate will stay largely at the level of general social decay rather than becoming a direct challenge to specific powerholders.\nE. It will remain a narrow scientific dispute, because the key actors involved approach it primarily as a matter of evidence and expertise.\nF. It will be treated in public as largely a narrow, technical matter, since Hovstad sees it as isolated and the report is portrayed as potentially harmful if circulated too quickly—so it will be handled cautiously rather than used as political leverage.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. It will mainly serve to protect existing authorities by redirecting blame onto vague social decay rather than identifiable decision-makers.",
+          "B. It will be treated less as a technical health issue and more as leverage to challenge the town’s underlying power structure.",
+          "C. It will be quietly resolved through private discussion among elites, since circulating the report is framed as harmless and temporary.",
+          "D. It will be framed as exposing a broad civic “morass” that needs reform, but the debate will stay largely at the level of general social decay rather than becoming a direct challenge to specific powerholders.",
+          "E. It will remain a narrow scientific dispute, because the key actors involved approach it primarily as a matter of evidence and expertise.",
+          "F. It will be treated in public as largely a narrow, technical matter, since Hovstad sees it as isolated and the report is portrayed as potentially harmful if circulated too quickly—so it will be handled cautiously rather than used as political leverage."
+        ],
+        "answer": "B. It will be treated less as a technical health issue and more as leverage to challenge the town’s underlying power structure."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Across Dr. Stockmann’s speech, what is the most accurate interpretation of his shift from discussing the Baths to denouncing the town’s moral foundations?\n\nA. He broadens the Baths controversy into a denunciation of civic falsehood, arguing that the town’s moral life is poisoned chiefly by its leaders’ deceit while the majority goes along more out of ignorance than guilt.\nB. He abandons the water issue because he lacks proof, so he pivots to vague moral rhetoric to keep the crowd’s attention.\nC. He argues that the town’s moral decay is an unfortunate side effect of economic ambition, not something driven by the majority.\nD. He reframes a technical health scandal as evidence of a deeper, systemic civic corruption sustained by the majority’s complicity.\nE. He mainly blames a small circle of officials for lying, while portraying the broader public as essentially misled but innocent.\nF. He narrows the Baths issue to a straightforward poisoning problem and then, only secondarily, suggests the town’s moral foundations are merely partly tainted—placing the main blame on a small ruling minority rather than on the majority.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He broadens the Baths controversy into a denunciation of civic falsehood, arguing that the town’s moral life is poisoned chiefly by its leaders’ deceit while the majority goes along more out of ignorance than guilt.",
+          "B. He abandons the water issue because he lacks proof, so he pivots to vague moral rhetoric to keep the crowd’s attention.",
+          "C. He argues that the town’s moral decay is an unfortunate side effect of economic ambition, not something driven by the majority.",
+          "D. He reframes a technical health scandal as evidence of a deeper, systemic civic corruption sustained by the majority’s complicity.",
+          "E. He mainly blames a small circle of officials for lying, while portraying the broader public as essentially misled but innocent.",
+          "F. He narrows the Baths issue to a straightforward poisoning problem and then, only secondarily, suggests the town’s moral foundations are merely partly tainted—placing the main blame on a small ruling minority rather than on the majority."
+        ],
+        "answer": "D. He reframes a technical health scandal as evidence of a deeper, systemic civic corruption sustained by the majority’s complicity."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What underlying psychological shift best explains why Dr. Stockmann ends up framing the Baths as something he personally \"hatched,\" rather than just a civic project he contributed to?\n\nA. His bitterness about being sent north makes him reject the town’s people, so he casts the Baths as his private creation in order to distance himself from them.\nB. Because he doubts his own usefulness as a physician, he retreats into daydreaming and exaggerates his role in the Baths to compensate for professional inadequacy.\nC. His long years in a bleak northern posting leave him craving recognition, so when he returns to the town he loves he recasts the Baths as something he personally “hatched” to claim overdue credit—less a shift in belonging than a bid for status.\nD. His early affection for the town naturally matures into civic ambition, so he treats the Baths as a straightforward extension of long-held local pride.\nE. Idealized nostalgia for his hometown collides with years of degrading isolation and perceived misdeployment, pushing him to convert long-delayed belonging into a self-authored mission.\nF. Because he had begun to suspect the town never really loved him back and his idea for the Baths arose almost by accident, he later overcorrects by narrating it as something he deliberately “hatched,” turning a chance contribution into a self-protective story of authorship.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. His bitterness about being sent north makes him reject the town’s people, so he casts the Baths as his private creation in order to distance himself from them.",
+          "B. Because he doubts his own usefulness as a physician, he retreats into daydreaming and exaggerates his role in the Baths to compensate for professional inadequacy.",
+          "C. His long years in a bleak northern posting leave him craving recognition, so when he returns to the town he loves he recasts the Baths as something he personally “hatched” to claim overdue credit—less a shift in belonging than a bid for status.",
+          "D. His early affection for the town naturally matures into civic ambition, so he treats the Baths as a straightforward extension of long-held local pride.",
+          "E. Idealized nostalgia for his hometown collides with years of degrading isolation and perceived misdeployment, pushing him to convert long-delayed belonging into a self-authored mission.",
+          "F. Because he had begun to suspect the town never really loved him back and his idea for the Baths arose almost by accident, he later overcorrects by narrating it as something he deliberately “hatched,” turning a chance contribution into a self-protective story of authorship."
+        ],
+        "answer": "E. Idealized nostalgia for his hometown collides with years of degrading isolation and perceived misdeployment, pushing him to convert long-delayed belonging into a self-authored mission."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What does Morten’s reply most strongly reveal about how he treats Ejlif’s implied constraint on his wish?\n\nA. He treats the constraint as impossible to satisfy and abandons the wish as unrealistic.\nB. He accepts the constraint as real and immediately reframes his plan as something he can adapt to in order to keep the original goal.\nC. He misunderstands the constraint as a mere opinion and asks Ejlif to justify it with evidence.\nD. He acknowledges the constraint but treats it as a strict requirement that would automatically make him a pagan, implying the change is inevitable rather than something he actively chooses to accommodate his wish.\nE. He rejects the constraint as irrelevant and insists his wish stands without any change in beliefs or identity.\nF. He takes Ejlif’s implied condition as a firm barrier and answers as if he can’t meet it—suggesting his wish must be scaled back because becoming a pagan isn’t really an option for him.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He treats the constraint as impossible to satisfy and abandons the wish as unrealistic.",
+          "B. He accepts the constraint as real and immediately reframes his plan as something he can adapt to in order to keep the original goal.",
+          "C. He misunderstands the constraint as a mere opinion and asks Ejlif to justify it with evidence.",
+          "D. He acknowledges the constraint but treats it as a strict requirement that would automatically make him a pagan, implying the change is inevitable rather than something he actively chooses to accommodate his wish.",
+          "E. He rejects the constraint as irrelevant and insists his wish stands without any change in beliefs or identity.",
+          "F. He takes Ejlif’s implied condition as a firm barrier and answers as if he can’t meet it—suggesting his wish must be scaled back because becoming a pagan isn’t really an option for him."
+        ],
+        "answer": "B. He accepts the constraint as real and immediately reframes his plan as something he can adapt to in order to keep the original goal."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What do the exchanges most strongly suggest about how the label \"pagan\" is functioning for the speakers in this moment?\n\nA. It is mainly a private spiritual confession, and the speakers avoid implying any broader social consequences from it.\nB. It is primarily an accusation meant to isolate someone socially, and the others respond by rejecting the label’s legitimacy.\nC. It is being treated as a negotiable identity—initially posed as a strict prerequisite, then reframed as an adoptable stance and even a coming norm.\nD. It is being treated as a label one can choose to wear, but mainly as a provocative self-description in the moment rather than something the group expects to spread widely.\nE. It is being used as a fixed birth-based category that the speakers treat as largely unchangeable despite some joking.\nF. It is functioning as a stable religious category that Morten cannot realistically adopt, with Billing’s remark underscoring that Morten already embodies it and the others will eventually follow.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. It is mainly a private spiritual confession, and the speakers avoid implying any broader social consequences from it.",
+          "B. It is primarily an accusation meant to isolate someone socially, and the others respond by rejecting the label’s legitimacy.",
+          "C. It is being treated as a negotiable identity—initially posed as a strict prerequisite, then reframed as an adoptable stance and even a coming norm.",
+          "D. It is being treated as a label one can choose to wear, but mainly as a provocative self-description in the moment rather than something the group expects to spread widely.",
+          "E. It is being used as a fixed birth-based category that the speakers treat as largely unchangeable despite some joking.",
+          "F. It is functioning as a stable religious category that Morten cannot realistically adopt, with Billing’s remark underscoring that Morten already embodies it and the others will eventually follow."
+        ],
+        "answer": "C. It is being treated as a negotiable identity—initially posed as a strict prerequisite, then reframed as an adoptable stance and even a coming norm."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What do Dr. Stockmann’s instructions to Ejlif and Morten most strongly imply about how authority and discipline actually function in his household?\n\nA. He maintains authority through affectionate trust and selective blind spots, letting small mischief slide while still directing them.\nB. He has largely lost authority, and the boys’ open defiance shows that his requests are ignored in practice.\nC. He keeps authority by issuing clear, routine orders but assumes the boys’ honesty, treating any minor rule-breaking as too trivial to acknowledge rather than as something he tolerates on purpose.\nD. He enforces strict obedience through close monitoring and punishment, so the boys avoid taking liberties.\nE. He delegates household control to Petra, and the boys’ remarks reflect that they fear her more than their father.\nF. He preserves discipline by singling out Morten as the habitual cigar-thief and swapping the boys’ tasks to remind them who is in charge, implying his authority works through pointed suspicion and corrective pressure more than indulgent trust.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He maintains authority through affectionate trust and selective blind spots, letting small mischief slide while still directing them.",
+          "B. He has largely lost authority, and the boys’ open defiance shows that his requests are ignored in practice.",
+          "C. He keeps authority by issuing clear, routine orders but assumes the boys’ honesty, treating any minor rule-breaking as too trivial to acknowledge rather than as something he tolerates on purpose.",
+          "D. He enforces strict obedience through close monitoring and punishment, so the boys avoid taking liberties.",
+          "E. He delegates household control to Petra, and the boys’ remarks reflect that they fear her more than their father.",
+          "F. He preserves discipline by singling out Morten as the habitual cigar-thief and swapping the boys’ tasks to remind them who is in charge, implying his authority works through pointed suspicion and corrective pressure more than indulgent trust."
+        ],
+        "answer": "A. He maintains authority through affectionate trust and selective blind spots, letting small mischief slide while still directing them."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Taken together, what do the characters' remarks most strongly suggest about how 'pagan' identity is being treated in this exchange?\n\nA. As a personal choice Morten could make to match a Viking ideal, but still framed as an unusual exception rather than something likely to become widespread\nB. As an identity restricted to historical Vikings and therefore unavailable to contemporary people\nC. As a temporary joke that none of the speakers genuinely endorses\nD. As a flexible social label that can be adopted, and even expected to spread, rather than a fixed inherited faith\nE. As a private belief that must be kept hidden to avoid social punishment\nF. As a label that’s essentially irrelevant to being a Viking, since one can remain Christian without becoming pagan and the group expects Christianity—not paganism—to spread\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. As a personal choice Morten could make to match a Viking ideal, but still framed as an unusual exception rather than something likely to become widespread",
+          "B. As an identity restricted to historical Vikings and therefore unavailable to contemporary people",
+          "C. As a temporary joke that none of the speakers genuinely endorses",
+          "D. As a flexible social label that can be adopted, and even expected to spread, rather than a fixed inherited faith",
+          "E. As a private belief that must be kept hidden to avoid social punishment",
+          "F. As a label that’s essentially irrelevant to being a Viking, since one can remain Christian without becoming pagan and the group expects Christianity—not paganism—to spread"
+        ],
+        "answer": "D. As a flexible social label that can be adopted, and even expected to spread, rather than a fixed inherited faith"
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Taken together, what do Mrs. Stockmann’s remarks most strongly suggest is her underlying strategy for how Thomas should deal with his brother?\n\nA. She believes Thomas should stay completely uninvolved and say nothing, since her main concern is simply satisfying her curiosity about how his brother will take the news.\nB. She assumes Thomas’s brother will ultimately be supportive, so she advises Thomas to claim full credit now to secure a personal advantage while relations are good.\nC. She wants Thomas to preempt conflict by acting conciliatory and publicly sharing recognition, because she expects his brother to react strongly and has institutional power to retaliate.\nD. She urges Thomas to openly challenge his brother immediately, because a strong reaction would prove Thomas is morally right and therefore safe from consequences.\nE. She advises Thomas to keep things calm by being good‑natured and sharing the credit, mainly because she assumes his brother will eventually come around and support him if approached diplomatically.\nF. She wants Thomas to defuse trouble by acting conciliatory and sharing recognition, because she’s anxious about his brother’s reaction and thinks his brother has right on his side—so Thomas should yield publicly to avoid being seen as in the wrong.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She believes Thomas should stay completely uninvolved and say nothing, since her main concern is simply satisfying her curiosity about how his brother will take the news.",
+          "B. She assumes Thomas’s brother will ultimately be supportive, so she advises Thomas to claim full credit now to secure a personal advantage while relations are good.",
+          "C. She wants Thomas to preempt conflict by acting conciliatory and publicly sharing recognition, because she expects his brother to react strongly and has institutional power to retaliate.",
+          "D. She urges Thomas to openly challenge his brother immediately, because a strong reaction would prove Thomas is morally right and therefore safe from consequences.",
+          "E. She advises Thomas to keep things calm by being good‑natured and sharing the credit, mainly because she assumes his brother will eventually come around and support him if approached diplomatically.",
+          "F. She wants Thomas to defuse trouble by acting conciliatory and sharing recognition, because she’s anxious about his brother’s reaction and thinks his brother has right on his side—so Thomas should yield publicly to avoid being seen as in the wrong."
+        ],
+        "answer": "C. She wants Thomas to preempt conflict by acting conciliatory and publicly sharing recognition, because she expects his brother to react strongly and has institutional power to retaliate."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What underlying attitude is Ejlif most consistently revealing in this exchange with Dr. Stockmann and Mrs. Stockmann?\nA. He admits the accusation is serious, stops joking, and apologizes once his mother intervenes.\nB. He is genuinely outraged by an unfair charge and insists on being formally cleared in front of the visitors.\nC. He uses teasing bravado to deflect adult suspicion, treating the accusation as a joke rather than a moral issue.\nD. He accepts the adult’s authority but argues that the real problem is Dr. Stockmann’s hypocrisy about smoking.\nE. He mainly echoes his mother’s standards, showing that he is anxious to appear respectful and obedient.\nF. He projects swagger by teasing the adults, yet his real stance is defensive loyalty to his brother—brushing the suspicion aside because he believes Morten is the one being unfairly accused.\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He admits the accusation is serious, stops joking, and apologizes once his mother intervenes.",
+          "B. He is genuinely outraged by an unfair charge and insists on being formally cleared in front of the visitors.",
+          "C. He uses teasing bravado to deflect adult suspicion, treating the accusation as a joke rather than a moral issue.",
+          "D. He accepts the adult’s authority but argues that the real problem is Dr. Stockmann’s hypocrisy about smoking.",
+          "E. He mainly echoes his mother’s standards, showing that he is anxious to appear respectful and obedient.",
+          "F. He projects swagger by teasing the adults, yet his real stance is defensive loyalty to his brother—brushing the suspicion aside because he believes Morten is the one being unfairly accused."
+        ],
+        "answer": "C. He uses teasing bravado to deflect adult suspicion, treating the accusation as a joke rather than a moral issue."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is the most plausible reason the town’s establishment can credibly reframe Dr. Stockmann as the culprit rather than the whistleblower?\n\nA. Because he never had meaningful allies among the Baths’ shareholders, the establishment can isolate him without needing an economic pretext.\nB. Because everyone in town openly accepts the closure as a necessary public-health remedy, the establishment has no need to shift blame onto Dr. Stockmann.\nC. Because the Medical Officer is legally obligated to finance repairs, it is straightforward to blame him for the Baths being closed for years.\nD. Because the hall at the Baths is reserved exclusively for shareholders’ meetings, denying it to him is a neutral procedural matter rather than political pressure.\nE. Because his actions threaten the Baths’ economic survival, those with financial leverage can both withdraw institutional support and cast the resulting shutdown costs as his responsibility.\nF. Because even the small shareholders who had backed him would turn against him, the town can credibly shift blame onto the Baths’ chairman and portray Dr. Stockmann as merely a disruptive agitator while keeping the Baths open.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Because he never had meaningful allies among the Baths’ shareholders, the establishment can isolate him without needing an economic pretext.",
+          "B. Because everyone in town openly accepts the closure as a necessary public-health remedy, the establishment has no need to shift blame onto Dr. Stockmann.",
+          "C. Because the Medical Officer is legally obligated to finance repairs, it is straightforward to blame him for the Baths being closed for years.",
+          "D. Because the hall at the Baths is reserved exclusively for shareholders’ meetings, denying it to him is a neutral procedural matter rather than political pressure.",
+          "E. Because his actions threaten the Baths’ economic survival, those with financial leverage can both withdraw institutional support and cast the resulting shutdown costs as his responsibility.",
+          "F. Because even the small shareholders who had backed him would turn against him, the town can credibly shift blame onto the Baths’ chairman and portray Dr. Stockmann as merely a disruptive agitator while keeping the Baths open."
+        ],
+        "answer": "E. Because his actions threaten the Baths’ economic survival, those with financial leverage can both withdraw institutional support and cast the resulting shutdown costs as his responsibility."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Across the encounters, which interpretation best captures the shift in Hovstad's stance toward the Mayor?\n\nA. He remains consistently deferential to the Mayor from the beginning, seeking the Mayor's favor rather than ever treating him as a political target.\nB. He stays consistently antagonistic toward the Mayor, and any polite phrasing is only a mask for unchanged resistance.\nC. He opportunistically shifts from seeing the Mayor as a political target to accommodating him once the Mayor's cost framing makes opposition risky.\nD. He is primarily aligned with Dr. Stockmann throughout and positions himself as the doctor's messenger to the Mayor even after the Mayor visits the newspaper office.\nE. He keeps every interaction strictly procedural, avoiding any political calculation, personal alignment, or deference.\nF. He is deferential mainly toward Dr. Stockmann, so his 'at your service' posture should be read as directed to the doctor rather than as part of his later accommodation of the Mayor.\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He remains consistently deferential to the Mayor from the beginning, seeking the Mayor's favor rather than ever treating him as a political target.",
+          "B. He stays consistently antagonistic toward the Mayor, and any polite phrasing is only a mask for unchanged resistance.",
+          "C. He opportunistically shifts from seeing the Mayor as a political target to accommodating him once the Mayor's cost framing makes opposition risky.",
+          "D. He is primarily aligned with Dr. Stockmann throughout and positions himself as the doctor's messenger to the Mayor even after the Mayor visits the newspaper office.",
+          "E. He keeps every interaction strictly procedural, avoiding any political calculation, personal alignment, or deference.",
+          "F. He is deferential mainly toward Dr. Stockmann, so his 'at your service' posture should be read as directed to the doctor rather than as part of his later accommodation of the Mayor."
+        ],
+        "answer": "C. He opportunistically shifts from seeing the Mayor as a political target to accommodating him once the Mayor's cost framing makes opposition risky."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Taken together, what do the repeated \"Very well\" responses most strongly suggest about Dr. Stockmann's strategy toward the meeting's attempts to control what can be said?\n\nA. He genuinely accepts the meeting's authority and abandons any intention of speaking once outvoted.\nB. He is trying to de-escalate conflict by encouraging compromise and shortening debate to preserve unity.\nC. He deliberately signals compliance with procedure while challenging the meeting to reveal its bias through the restrictions it adopts.\nD. He outwardly assents to the meeting’s procedural moves to appear cooperative, but he doesn't want to keep the floor long enough to deliver his lecture despite their efforts to silence him.\nE. He is covertly coordinating with the chairmanship to ensure he will still be allowed to deliver his lecture later.\nF. He uses the repeated “Very well” to project deference to the meeting’s self-governing process, betting that by accepting limits on commentary he can still get his core message read aloud without provoking further restrictions.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He genuinely accepts the meeting's authority and abandons any intention of speaking once outvoted.",
+          "B. He is trying to de-escalate conflict by encouraging compromise and shortening debate to preserve unity.",
+          "C. He deliberately signals compliance with procedure while challenging the meeting to reveal its bias through the restrictions it adopts.",
+          "D. He outwardly assents to the meeting’s procedural moves to appear cooperative, but he doesn't want to keep the floor long enough to deliver his lecture despite their efforts to silence him.",
+          "E. He is covertly coordinating with the chairmanship to ensure he will still be allowed to deliver his lecture later.",
+          "F. He uses the repeated “Very well” to project deference to the meeting’s self-governing process, betting that by accepting limits on commentary he can still get his core message read aloud without provoking further restrictions."
+        ],
+        "answer": "C. He deliberately signals compliance with procedure while challenging the meeting to reveal its bias through the restrictions it adopts."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What underlying motivation best explains why Dr. Stockmann simultaneously expects Peter to be \"pleased\" by the discovery yet uncomfortable about who made it?\n\nA. Peter is privately hostile toward Dr. Stockmann and will reject the discovery simply because it came from him.\nB. Peter doubts the discovery’s validity and plans to confront Dr. Stockmann in person to dispute it.\nC. Peter is genuinely pleased by improvements for the town, but he is chiefly annoyed that Dr. Stockmann acted first and announced the discovery without waiting for Peter to come and take the lead himself.\nD. Peter values the town’s welfare but resents losing personal credit or control over civic achievements.\nE. Peter is indifferent to the discovery itself and is mainly upset that Dr. Stockmann returned the manuscript without permission.\nF. Peter will feel pleased only if he can claim the discovery as his own; since he believes he—not Dr. Stockmann—made it, he will be uncomfortable and resentful when the credit goes elsewhere.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Peter is privately hostile toward Dr. Stockmann and will reject the discovery simply because it came from him.",
+          "B. Peter doubts the discovery’s validity and plans to confront Dr. Stockmann in person to dispute it.",
+          "C. Peter is genuinely pleased by improvements for the town, but he is chiefly annoyed that Dr. Stockmann acted first and announced the discovery without waiting for Peter to come and take the lead himself.",
+          "D. Peter values the town’s welfare but resents losing personal credit or control over civic achievements.",
+          "E. Peter is indifferent to the discovery itself and is mainly upset that Dr. Stockmann returned the manuscript without permission.",
+          "F. Peter will feel pleased only if he can claim the discovery as his own; since he believes he—not Dr. Stockmann—made it, he will be uncomfortable and resentful when the credit goes elsewhere."
+        ],
+        "answer": "D. Peter values the town’s welfare but resents losing personal credit or control over civic achievements."
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "What does Hovstad’s sequence of remarks most strongly suggest about his immediate goal in approaching the Doctor?\n\nA. He is attempting to smooth over a personal insult he has just delivered to the Doctor and restore their friendship.\nB. He is preparing to challenge the Mayor directly and wants the Doctor to act as his intermediary in a political dispute.\nC. He wants to make sure the Doctor has not yet heard back from the Mayor so he can steer the discussion before any official reply shapes the Doctor’s position.\nD. He is seeking the Doctor’s medical advice about a private health concern that requires urgent attention.\nE. He is trying to verify whether the Doctor has already received an official response from the Mayor before he commits to a longer conversation.\nF. He is checking whether the Doctor has already contacted the Mayor, because his immediate aim is to prompt the Doctor to send word and initiate the next step with the Mayor.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. He is attempting to smooth over a personal insult he has just delivered to the Doctor and restore their friendship.",
+          "B. He is preparing to challenge the Mayor directly and wants the Doctor to act as his intermediary in a political dispute.",
+          "C. He wants to make sure the Doctor has not yet heard back from the Mayor so he can steer the discussion before any official reply shapes the Doctor’s position.",
+          "D. He is seeking the Doctor’s medical advice about a private health concern that requires urgent attention.",
+          "E. He is trying to verify whether the Doctor has already received an official response from the Mayor before he commits to a longer conversation.",
+          "F. He is checking whether the Doctor has already contacted the Mayor, because his immediate aim is to prompt the Doctor to send word and initiate the next step with the Mayor."
+        ],
+        "answer": [
+          "C. He wants to make sure the Doctor has not yet heard back from the Mayor so he can steer the discussion before any official reply shapes the Doctor’s position.",
+          "E. He is trying to verify whether the Doctor has already received an official response from the Mayor before he commits to a longer conversation."
+        ]
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What does the repeated demand that Evensen blow his horn most strongly function as in the crowd’s behavior toward Dr. Stockmann?\n\nA. A neutral celebratory tradition that continues regardless of who is present or speaking\nB. A supportive rallying call meant to escort Dr. Stockmann safely through the hall\nC. A sincere request for Evensen to signal the start of an organized vote or formal procedure\nD. An impulsive heckle that starts as a bit of rowdy showmanship but isn’t clearly meant to silence Dr. Stockmann, only to needle him amid general disorder\nE. A coordinated attempt to drown out and drive off Dr. Stockmann by turning the gathering into hostile noise\nF. A wavering, half-hearted signal that some in the crowd actually try to restrain—more a contested cue of hesitation than a coordinated effort to shout Dr. Stockmann down\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. A neutral celebratory tradition that continues regardless of who is present or speaking",
+          "B. A supportive rallying call meant to escort Dr. Stockmann safely through the hall",
+          "C. A sincere request for Evensen to signal the start of an organized vote or formal procedure",
+          "D. An impulsive heckle that starts as a bit of rowdy showmanship but isn’t clearly meant to silence Dr. Stockmann, only to needle him amid general disorder",
+          "E. A coordinated attempt to drown out and drive off Dr. Stockmann by turning the gathering into hostile noise",
+          "F. A wavering, half-hearted signal that some in the crowd actually try to restrain—more a contested cue of hesitation than a coordinated effort to shout Dr. Stockmann down"
+        ],
+        "answer": "E. A coordinated attempt to drown out and drive off Dr. Stockmann by turning the gathering into hostile noise"
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "In the exchange, what is the most plausible immediate purpose of Hovstad’s interjection?\n\nA. To defend Stockmann by emphasizing that his target is inherited doctrine rather than the community itself, preserving space for debate\nB. To calm the room by clarifying that Stockmann supports equal political rights for everyone, reducing the risk of escalation\nC. To spotlight Stockmann’s remarks as an attack on inherited democratic doctrine rather than on the townspeople themselves, steering the crowd toward rejecting his ideas without necessarily taking it as a direct personal affront\nD. To reframe Stockmann’s abstract critique as a personal insult to the crowd, making collective outrage more likely and easier to mobilize\nE. To shift the discussion away from political legitimacy and back toward practical civic policy, preventing the audience from taking sides\nF. To seize on Stockmann’s point that the ‘superior personalities’ have no right to govern, and hold it up as a conciliatory reassurance to the crowd so that the room’s hostility softens into uncertainty rather than open outrage\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. To defend Stockmann by emphasizing that his target is inherited doctrine rather than the community itself, preserving space for debate",
+          "B. To calm the room by clarifying that Stockmann supports equal political rights for everyone, reducing the risk of escalation",
+          "C. To spotlight Stockmann’s remarks as an attack on inherited democratic doctrine rather than on the townspeople themselves, steering the crowd toward rejecting his ideas without necessarily taking it as a direct personal affront",
+          "D. To reframe Stockmann’s abstract critique as a personal insult to the crowd, making collective outrage more likely and easier to mobilize",
+          "E. To shift the discussion away from political legitimacy and back toward practical civic policy, preventing the audience from taking sides",
+          "F. To seize on Stockmann’s point that the ‘superior personalities’ have no right to govern, and hold it up as a conciliatory reassurance to the crowd so that the room’s hostility softens into uncertainty rather than open outrage"
+        ],
+        "answer": "D. To reframe Stockmann’s abstract critique as a personal insult to the crowd, making collective outrage more likely and easier to mobilize"
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "In this scene, the crowd’s demand to have a speaker forcibly removed is best understood as which underlying political reaction?\n\nA. They resent being treated as illegitimate participants in governance, so they use public shaming to reassert their collective authority.\nB. They are mainly responding to a procedural disruption, treating the speaker as a heckler regardless of what he argues.\nC. They feel insulted by the suggestion that they are not truly “the People,” so they shout him down and call to have him thrown out—but the uproar is framed mainly as a protest against the noise and disruption rather than a broader claim to political authority.\nD. They are rejecting political debate altogether, using the uproar to signal apathy toward who governs.\nE. They accept elite rule in principle but object to the speaker’s tone, so they enforce decorum rather than challenge his claims.\nF. They affirm themselves as “the People” and, amid only faint hissing and a subdued horn, push to remove the speaker chiefly to prevent an unnecessary escalation—more a tactical attempt to keep order than an effort to reassert popular sovereignty against elite rule.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. They resent being treated as illegitimate participants in governance, so they use public shaming to reassert their collective authority.",
+          "B. They are mainly responding to a procedural disruption, treating the speaker as a heckler regardless of what he argues.",
+          "C. They feel insulted by the suggestion that they are not truly “the People,” so they shout him down and call to have him thrown out—but the uproar is framed mainly as a protest against the noise and disruption rather than a broader claim to political authority.",
+          "D. They are rejecting political debate altogether, using the uproar to signal apathy toward who governs.",
+          "E. They accept elite rule in principle but object to the speaker’s tone, so they enforce decorum rather than challenge his claims.",
+          "F. They affirm themselves as “the People” and, amid only faint hissing and a subdued horn, push to remove the speaker chiefly to prevent an unnecessary escalation—more a tactical attempt to keep order than an effort to reassert popular sovereignty against elite rule."
+        ],
+        "answer": "A. They resent being treated as illegitimate participants in governance, so they use public shaming to reassert their collective authority."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What role is the Mayor functionally assuming in this exchange, given how others receive him and how he frames his intervention?\n\nA. A procedural authority who is received with deference but whose intervention is mainly to confirm and manage the Doctor’s article rather than to steer the agenda via a formal motion about the Baths\nB. A procedural authority who expects deference and intends to steer the group’s agenda through a formal motion tied to the town’s interests\nC. A neutral observer who arrives only to verify whether the Doctor’s article has been printed correctly\nD. An informal mediator who avoids official power and tries to keep discussion off institutional matters like the Baths\nE. A subordinate guest who relies on the newspaper staff to decide whether his concerns are worth presenting\nF. A procedural authority who expects deference and steps in on Baths business, but ultimately frames his involvement as withdrawing his motion in the town’s interest rather than pressing it forward\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. A procedural authority who is received with deference but whose intervention is mainly to confirm and manage the Doctor’s article rather than to steer the agenda via a formal motion about the Baths",
+          "B. A procedural authority who expects deference and intends to steer the group’s agenda through a formal motion tied to the town’s interests",
+          "C. A neutral observer who arrives only to verify whether the Doctor’s article has been printed correctly",
+          "D. An informal mediator who avoids official power and tries to keep discussion off institutional matters like the Baths",
+          "E. A subordinate guest who relies on the newspaper staff to decide whether his concerns are worth presenting",
+          "F. A procedural authority who expects deference and steps in on Baths business, but ultimately frames his involvement as withdrawing his motion in the town’s interest rather than pressing it forward"
+        ],
+        "answer": "B. A procedural authority who expects deference and intends to steer the group’s agenda through a formal motion tied to the town’s interests"
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Taken together, Hovstad’s remarks most strongly suggest that he is using appeals to democracy primarily to achieve which underlying goal?\n\nA. To rally the crowd by affirming the majority’s righteousness and highlighting his own humble origins, chiefly to position himself as the authentic spokesman of ordinary citizens rather than to advance any specific policy argument\nB. To concede that social distinction tends to produce broader-minded leaders than the common people can\nC. To argue that public opinion is unreliable because majorities can be manipulated by rhetoric\nD. To claim moral authority by aligning himself with the majority and portraying his opponent as contemptuous of ordinary people\nE. To insist on a neutral, evidence-driven debate by forcing his opponent to define terms precisely\nF. To undermine the speaker’s influence by warning citizens not to pay much attention and by elevating the minority as the true bearer of right, thereby recasting democratic legitimacy as protection from majority-driven error\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. To rally the crowd by affirming the majority’s righteousness and highlighting his own humble origins, chiefly to position himself as the authentic spokesman of ordinary citizens rather than to advance any specific policy argument",
+          "B. To concede that social distinction tends to produce broader-minded leaders than the common people can",
+          "C. To argue that public opinion is unreliable because majorities can be manipulated by rhetoric",
+          "D. To claim moral authority by aligning himself with the majority and portraying his opponent as contemptuous of ordinary people",
+          "E. To insist on a neutral, evidence-driven debate by forcing his opponent to define terms precisely",
+          "F. To undermine the speaker’s influence by warning citizens not to pay much attention and by elevating the minority as the true bearer of right, thereby recasting democratic legitimacy as protection from majority-driven error"
+        ],
+        "answer": "D. To claim moral authority by aligning himself with the majority and portraying his opponent as contemptuous of ordinary people"
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What do the procedural interruption and the way the meeting begins most strongly imply about the nature of authority being contested in the room?\n\nA. Whether the audience’s applause has already made Dr. Stockmann the formally elected chairman of the meeting.\nB. Whether Dr. Stockmann is intentionally delaying the start because he expects a late-arriving audience.\nC. Whether the meeting will follow civic procedure with a formally elected chair, rather than letting Dr. Stockmann run it as a personal lecture by default.\nD. Whether the audience’s initial applause indicates they have already granted Dr. Stockmann formal leadership of the meeting.\nE. Whether Peter Stockmann should be elected chair because he is physically positioned to control the crowd.\nF. Whether Dr. Stockmann’s hesitant, premature start and his waiting posture at the front suggest uncertainty about his mandate—implying the real authority dispute is over whether he should defer to an elected chairman before speaking at all.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Whether the audience’s applause has already made Dr. Stockmann the formally elected chairman of the meeting.",
+          "B. Whether Dr. Stockmann is intentionally delaying the start because he expects a late-arriving audience.",
+          "C. Whether the meeting will follow civic procedure with a formally elected chair, rather than letting Dr. Stockmann run it as a personal lecture by default.",
+          "D. Whether the audience’s initial applause indicates they have already granted Dr. Stockmann formal leadership of the meeting.",
+          "E. Whether Peter Stockmann should be elected chair because he is physically positioned to control the crowd.",
+          "F. Whether Dr. Stockmann’s hesitant, premature start and his waiting posture at the front suggest uncertainty about his mandate—implying the real authority dispute is over whether he should defer to an elected chairman before speaking at all."
+        ],
+        "answer": "C. Whether the meeting will follow civic procedure with a formally elected chair, rather than letting Dr. Stockmann run it as a personal lecture by default."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What does Peter Stockmann’s entrance most strongly imply about his immediate strategy in dealing with the hostile crowd?\n\nA. He intends to signal deference and minimize confrontation by presenting himself as nonthreatening.\nB. He is covertly seeking an ally in the crowd before making any public move.\nC. He is delaying in order to force the crowd to calm down before he speaks.\nD. He is attempting to appear respectful and nonthreatening, but mainly to buy time for the Mayor to take charge of the meeting and defuse the crowd first.\nE. He is trying to seize control of the room by taking a central, commanding position.\nF. He is signaling quiet submission by slipping in after the Mayor has already passed by, giving only a curt nod and taking a safer spot on the right to avoid provoking anyone.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He intends to signal deference and minimize confrontation by presenting himself as nonthreatening.",
+          "B. He is covertly seeking an ally in the crowd before making any public move.",
+          "C. He is delaying in order to force the crowd to calm down before he speaks.",
+          "D. He is attempting to appear respectful and nonthreatening, but mainly to buy time for the Mayor to take charge of the meeting and defuse the crowd first.",
+          "E. He is trying to seize control of the room by taking a central, commanding position.",
+          "F. He is signaling quiet submission by slipping in after the Mayor has already passed by, giving only a curt nod and taking a safer spot on the right to avoid provoking anyone."
+        ],
+        "answer": "A. He intends to signal deference and minimize confrontation by presenting himself as nonthreatening."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does Peter Stockmann frame Dr. Stockmann’s proposed alterations to the Baths after discussing their possible cost?\n\nA. He assumes the overhaul is minor in scope and expects it to be funded through ordinary annual budgeting rather than borrowing.\nB. He doubts the evidence for contamination and therefore uses a high cost estimate mainly to discredit any structural changes.\nC. He treats the plan as technically necessary but politically manageable because its cost can be absorbed without taking on new debt.\nD. He endorses the proposal’s reasoning and acknowledges it would require costly sewer construction and new conduits, but implies that the expense can be met without resorting to a municipal loan.\nE. He remains unconvinced by the report’s medical premise, but presents the proposed alterations as enormously expensive and likely to require a municipal loan.\nF. He regards the response as workable mainly because the alterations would come in under twenty thousand pounds and therefore would not require a municipal loan, focusing on relaying the conduits rather than undertaking major sewer works.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He assumes the overhaul is minor in scope and expects it to be funded through ordinary annual budgeting rather than borrowing.",
+          "B. He doubts the evidence for contamination and therefore uses a high cost estimate mainly to discredit any structural changes.",
+          "C. He treats the plan as technically necessary but politically manageable because its cost can be absorbed without taking on new debt.",
+          "D. He endorses the proposal’s reasoning and acknowledges it would require costly sewer construction and new conduits, but implies that the expense can be met without resorting to a municipal loan.",
+          "E. He remains unconvinced by the report’s medical premise, but presents the proposed alterations as enormously expensive and likely to require a municipal loan.",
+          "F. He regards the response as workable mainly because the alterations would come in under twenty thousand pounds and therefore would not require a municipal loan, focusing on relaying the conduits rather than undertaking major sewer works."
+        ],
+        "answer": "E. He remains unconvinced by the report’s medical premise, but presents the proposed alterations as enormously expensive and likely to require a municipal loan."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which underlying strategy best explains why Peter Stockmann repeatedly emphasizes both the financing method and the price tag of the proposed alterations?\n\nA. He highlights the likely municipal loan and the large cost to argue that, since the town would have to pay for the changes, the Medical Officer’s demands are impractical and should be scaled back to something more affordable.\nB. He is mostly trying to protect the Medical Officer from being blamed by insisting the town, not an individual, must cover the costs.\nC. He accepts the need for the alterations and focuses on securing the cheapest available municipal loan to implement them quickly.\nD. He primarily objects because the alterations would slow the town’s economic growth, regardless of who ultimately pays for them.\nE. He reframes the Medical Officer’s technical proposal as an unjustified financial and political burden on the town’s taxpayers, rather than a necessary public measure.\nF. He stresses the lack of need for a municipal loan and the relatively small cost to present the proposed alterations as financially painless, so opposing them appears motivated by politics rather than genuine concern for the ratepayers.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He highlights the likely municipal loan and the large cost to argue that, since the town would have to pay for the changes, the Medical Officer’s demands are impractical and should be scaled back to something more affordable.",
+          "B. He is mostly trying to protect the Medical Officer from being blamed by insisting the town, not an individual, must cover the costs.",
+          "C. He accepts the need for the alterations and focuses on securing the cheapest available municipal loan to implement them quickly.",
+          "D. He primarily objects because the alterations would slow the town’s economic growth, regardless of who ultimately pays for them.",
+          "E. He reframes the Medical Officer’s technical proposal as an unjustified financial and political burden on the town’s taxpayers, rather than a necessary public measure.",
+          "F. He stresses the lack of need for a municipal loan and the relatively small cost to present the proposed alterations as financially painless, so opposing them appears motivated by politics rather than genuine concern for the ratepayers."
+        ],
+        "answer": "E. He reframes the Medical Officer’s technical proposal as an unjustified financial and political burden on the town’s taxpayers, rather than a necessary public measure."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What do Petra’s remarks most strongly suggest about her motivation for wanting to start her own school?\n\nA. She believes the existing educational environment is fundamentally dishonest and wants an alternative guided by different principles.\nB. She is seeking social prestige by founding a school that will attract influential supporters.\nC. She believes the current schools are steeped in dishonesty, but her main motivation is to reform the existing system from within rather than establish a separate school.\nD. She is mainly trying to reduce her workload by leaving formal teaching behind.\nE. She wants to avoid being associated with her family by building a separate institution.\nF. She feels the schools are dishonest, and her motivation is chiefly to help improve the current school on different lines, not to create a new one.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She believes the existing educational environment is fundamentally dishonest and wants an alternative guided by different principles.",
+          "B. She is seeking social prestige by founding a school that will attract influential supporters.",
+          "C. She believes the current schools are steeped in dishonesty, but her main motivation is to reform the existing system from within rather than establish a separate school.",
+          "D. She is mainly trying to reduce her workload by leaving formal teaching behind.",
+          "E. She wants to avoid being associated with her family by building a separate institution.",
+          "F. She feels the schools are dishonest, and her motivation is chiefly to help improve the current school on different lines, not to create a new one."
+        ],
+        "answer": "A. She believes the existing educational environment is fundamentally dishonest and wants an alternative guided by different principles."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What underlying dilemma is Petra most likely pointing to about her role in education?\n\nA. She believes children are too naïve for truth, so adults must simplify reality even if it means inventing stories.\nB. She is accusing specific coworkers of deliberately corrupting students for personal gain rather than following a broader norm.\nC. She is troubled that schooling forces her to echo the institution’s approved lessons even when she personally doubts them, though she stops short of calling it outright lying.\nD. She feels trapped between institutional expectations and her own conscience, leading her to participate in teaching ideas she rejects.\nE. She is mainly frustrated by her lack of authority at home and wants more freedom to speak her mind there.\nF. She is wrestling with the expectation that teachers pass on half-truths—ideas they only partly believe—so that children can be guided gradually, even if it means withholding full honesty.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She believes children are too naïve for truth, so adults must simplify reality even if it means inventing stories.",
+          "B. She is accusing specific coworkers of deliberately corrupting students for personal gain rather than following a broader norm.",
+          "C. She is troubled that schooling forces her to echo the institution’s approved lessons even when she personally doubts them, though she stops short of calling it outright lying.",
+          "D. She feels trapped between institutional expectations and her own conscience, leading her to participate in teaching ideas she rejects.",
+          "E. She is mainly frustrated by her lack of authority at home and wants more freedom to speak her mind there.",
+          "F. She is wrestling with the expectation that teachers pass on half-truths—ideas they only partly believe—so that children can be guided gradually, even if it means withholding full honesty."
+        ],
+        "answer": "D. She feels trapped between institutional expectations and her own conscience, leading her to participate in teaching ideas she rejects."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which underlying concern most consistently drives Aslaksen’s interventions in this exchange?\n\nA. Defending the mayor’s authority by challenging any proposal that limits municipal control\nB. Aligning himself with Hovstad’s position to press for immediate action even if it strains public finances\nC. Protecting small tradesmen and householders from paying out of municipal funds, while accepting the plan so long as the Baths’ owners cover the expense\nD. Protecting small tradesmen and householders from bearing costs or disruptions that he thinks others should shoulder\nE. Prioritizing procedural certainty, regardless of who pays, by demanding proof before any decision is made\nF. Confirming that the Baths’ owners have already agreed to pay, and therefore focusing mainly on ensuring municipal funds are not used while pressing Hovstad to avoid burdening householders\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Defending the mayor’s authority by challenging any proposal that limits municipal control",
+          "B. Aligning himself with Hovstad’s position to press for immediate action even if it strains public finances",
+          "C. Protecting small tradesmen and householders from paying out of municipal funds, while accepting the plan so long as the Baths’ owners cover the expense",
+          "D. Protecting small tradesmen and householders from bearing costs or disruptions that he thinks others should shoulder",
+          "E. Prioritizing procedural certainty, regardless of who pays, by demanding proof before any decision is made",
+          "F. Confirming that the Baths’ owners have already agreed to pay, and therefore focusing mainly on ensuring municipal funds are not used while pressing Hovstad to avoid burdening householders"
+        ],
+        "answer": "D. Protecting small tradesmen and householders from bearing costs or disruptions that he thinks others should shoulder"
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is the most plausible underlying principle Petra is committed to, given both her criticism of her current environments and her desire to found a school \"on very different lines\"?\n\nA. Teachers should prioritize strict discipline and uniform messaging over personal conviction to maintain social stability.\nB. Children should be shielded from controversial ideas by teaching only socially approved doctrines, even if adults privately disagree.\nC. Family authority should be challenged primarily by refusing domestic duties that reinforce parental control.\nD. Education should encourage freer expression and open discussion in both home and school settings, rather than enforcing silence at home and routine conformity at school.\nE. Education should be grounded in honesty and intellectual integrity rather than requiring teachers to promote beliefs they do not hold.\nF. Education should rely on deference to established authority and consistent repetition of approved lessons, since Petra’s complaint is mainly about having to sit still and follow others’ instructions.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Teachers should prioritize strict discipline and uniform messaging over personal conviction to maintain social stability.",
+          "B. Children should be shielded from controversial ideas by teaching only socially approved doctrines, even if adults privately disagree.",
+          "C. Family authority should be challenged primarily by refusing domestic duties that reinforce parental control.",
+          "D. Education should encourage freer expression and open discussion in both home and school settings, rather than enforcing silence at home and routine conformity at school.",
+          "E. Education should be grounded in honesty and intellectual integrity rather than requiring teachers to promote beliefs they do not hold.",
+          "F. Education should rely on deference to established authority and consistent repetition of approved lessons, since Petra’s complaint is mainly about having to sit still and follow others’ instructions."
+        ],
+        "answer": "E. Education should be grounded in honesty and intellectual integrity rather than requiring teachers to promote beliefs they do not hold."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What role dynamic between Dr. Stockmann and Mrs. Stockmann is most strongly implied by their exchange about the toddy and the way the drinks are ultimately presented?\n\nA. Dr. Stockmann treats the gathering as his to direct, while Mrs. Stockmann quietly controls the practical execution and supplies.\nB. Dr. Stockmann drives the tone of the evening and expects service on cue, but Mrs. Stockmann remains largely reactive—simply carrying out his requests without shaping what is served.\nC. Dr. Stockmann is dependent on Mrs. Stockmann for permission to serve drinks, suggesting he lacks agency in his own home.\nD. Both spouses share equal authority, coordinating every detail together so that neither leads nor follows.\nE. Mrs. Stockmann is openly asserting authority over Dr. Stockmann by correcting him and overruling his decisions in front of everyone.\nF. Dr. Stockmann assumes the role of host by calling for coffee, while Mrs. Stockmann subtly steers the refreshment choices by having the toddy already prepared and setting out gin, rum, and brandy for everyone to pour themselves.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Dr. Stockmann treats the gathering as his to direct, while Mrs. Stockmann quietly controls the practical execution and supplies.",
+          "B. Dr. Stockmann drives the tone of the evening and expects service on cue, but Mrs. Stockmann remains largely reactive—simply carrying out his requests without shaping what is served.",
+          "C. Dr. Stockmann is dependent on Mrs. Stockmann for permission to serve drinks, suggesting he lacks agency in his own home.",
+          "D. Both spouses share equal authority, coordinating every detail together so that neither leads nor follows.",
+          "E. Mrs. Stockmann is openly asserting authority over Dr. Stockmann by correcting him and overruling his decisions in front of everyone.",
+          "F. Dr. Stockmann assumes the role of host by calling for coffee, while Mrs. Stockmann subtly steers the refreshment choices by having the toddy already prepared and setting out gin, rum, and brandy for everyone to pour themselves."
+        ],
+        "answer": "A. Dr. Stockmann treats the gathering as his to direct, while Mrs. Stockmann quietly controls the practical execution and supplies."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What does the dinner situation most strongly imply about the Stockmann household's priorities in how they treat guests versus how they run their home?\n\nA. They treat hospitality as generous but unconditional: even if a guest arrives late, they still make sure he’s served the main meal—roast beef—rather than being left with whatever is cold or leftover.\nB. They treat hospitality as a fixed ritual: guests get the same service regardless of timing, because the meal is organized around social custom rather than practicality.\nC. They treat hospitality as flexible but bounded: they are eager to feed people well, yet they still enforce ordinary household constraints like serving what remains when someone is late.\nD. They treat hospitality as mostly performative: they offer food to appear generous, but their actual behavior signals reluctance to share scarce provisions.\nE. They treat hospitality as secondary to efficiency: they prefer minimizing waste and repetition, even if that means guests receive a noticeably inferior meal.\nF. They treat hospitality as accommodating to the point of rearranging the household routine: even when someone comes late, they keep the roast beef hot and continue serving the same meal, suggesting guest comfort takes precedence over normal timing rules.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. They treat hospitality as generous but unconditional: even if a guest arrives late, they still make sure he’s served the main meal—roast beef—rather than being left with whatever is cold or leftover.",
+          "B. They treat hospitality as a fixed ritual: guests get the same service regardless of timing, because the meal is organized around social custom rather than practicality.",
+          "C. They treat hospitality as flexible but bounded: they are eager to feed people well, yet they still enforce ordinary household constraints like serving what remains when someone is late.",
+          "D. They treat hospitality as mostly performative: they offer food to appear generous, but their actual behavior signals reluctance to share scarce provisions.",
+          "E. They treat hospitality as secondary to efficiency: they prefer minimizing waste and repetition, even if that means guests receive a noticeably inferior meal.",
+          "F. They treat hospitality as accommodating to the point of rearranging the household routine: even when someone comes late, they keep the roast beef hot and continue serving the same meal, suggesting guest comfort takes precedence over normal timing rules."
+        ],
+        "answer": "C. They treat hospitality as flexible but bounded: they are eager to feed people well, yet they still enforce ordinary household constraints like serving what remains when someone is late."
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which underlying motive best explains why Dr. Stockmann keeps praising his current situation while also stressing that others “can’t appreciate it” the way he does?\n\nA. He is reconciling two truths: the town may be physically limited, but after years of isolation and near-poverty he experiences ordinary stability and activity as extraordinary.\nB. He is defending the town’s reputation against critics by insisting its prosperity is already comparable to a big city’s.\nC. He is reconciling the town’s limitations with his own renewed excitement after years of isolation, and he implies others “can’t appreciate it” mainly because they lack his hunger for fresh ideas and wider social contact.\nD. He is signaling that he intends to leave soon, because the town’s cramped conditions will ultimately stifle him.\nE. He is trying to shame Peter into providing more financial support by exaggerating past hardships.\nF. He is trying to steady himself by insisting—quite literally—that the town’s rapid growth is almost unsettling and that longtime residents still see it with fresh eyes, so he praises his situation to mask unease about the old world breaking up around him.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. He is reconciling two truths: the town may be physically limited, but after years of isolation and near-poverty he experiences ordinary stability and activity as extraordinary.",
+          "B. He is defending the town’s reputation against critics by insisting its prosperity is already comparable to a big city’s.",
+          "C. He is reconciling the town’s limitations with his own renewed excitement after years of isolation, and he implies others “can’t appreciate it” mainly because they lack his hunger for fresh ideas and wider social contact.",
+          "D. He is signaling that he intends to leave soon, because the town’s cramped conditions will ultimately stifle him.",
+          "E. He is trying to shame Peter into providing more financial support by exaggerating past hardships.",
+          "F. He is trying to steady himself by insisting—quite literally—that the town’s rapid growth is almost unsettling and that longtime residents still see it with fresh eyes, so he praises his situation to mask unease about the old world breaking up around him."
+        ],
+        "answer": [
+          "A. He is reconciling two truths: the town may be physically limited, but after years of isolation and near-poverty he experiences ordinary stability and activity as extraordinary.",
+          "C. He is reconciling the town’s limitations with his own renewed excitement after years of isolation, and he implies others “can’t appreciate it” mainly because they lack his hunger for fresh ideas and wider social contact."
+        ]
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "To which specific university did Dr. Stockmann send the water samples for chemical analysis?\n\nA. The Royal Medical College.\nB. The University of Christiania.\nC. The Provincial Chemistry Laboratory.\nD. The Stockholm Institute of Science.\nE. The University of Copenhagen.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. The Royal Medical College.",
+          "B. The University of Christiania.",
+          "C. The Provincial Chemistry Laboratory.",
+          "D. The Stockholm Institute of Science.",
+          "E. The University of Copenhagen.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does Dr. Stockmann's directive regarding his written article on the Baths change over the course of the evening?\n\nA. He initially demands it be printed immediately, but later asks Hovstad to wait until summer.\nB. He first denies having written it, but later admits to Peter that it was ready for publication.\nC. He first holds back publication until he can speak with Peter, but after Peter tries to suppress the report he insists that Hovstad print it and later seeks pamphlet publication when the paper refuses.\nD. He first intends to submit it to his sister, but later decides to publish it in the 'Messenger' instead.\nE. He initially wants to rewrite it completely, but later decides to abandon it.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He initially demands it be printed immediately, but later asks Hovstad to wait until summer.",
+          "B. He first denies having written it, but later admits to Peter that it was ready for publication.",
+          "C. He first holds back publication until he can speak with Peter, but after Peter tries to suppress the report he insists that Hovstad print it and later seeks pamphlet publication when the paper refuses.",
+          "D. He first intends to submit it to his sister, but later decides to publish it in the 'Messenger' instead.",
+          "E. He initially wants to rewrite it completely, but later decides to abandon it.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. He first holds back publication until he can speak with Peter, but after Peter tries to suppress the report he insists that Hovstad print it and later seeks pamphlet publication when the paper refuses."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is the exact reason Peter Stockmann initially gives for leaving his brother's house, and what reason does he give just before his actual departure?\n\nA. He says he is offended by the boys' noise, and later claims Hovstad insulted him.\nB. He says he has business at the printing press, and later says he must meet the Bath Committee.\nC. He first says he is late for a meeting, but ultimately leaves after receiving a letter.\nD. He says he is tired, and later claims he has a headache.\nE. He says the smell of the food is making him ill, and later says he refuses to drink alcohol.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He says he is offended by the boys' noise, and later claims Hovstad insulted him.",
+          "B. He says he has business at the printing press, and later says he must meet the Bath Committee.",
+          "C. He first says he is late for a meeting, but ultimately leaves after receiving a letter.",
+          "D. He says he is tired, and later claims he has a headache.",
+          "E. He says the smell of the food is making him ill, and later says he refuses to drink alcohol.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "At what specific time of day does Petra promise to deliver the completed English translation to Hovstad?\n\nA. Later that same evening.\nB. By tomorrow morning before her school hours begin.\nC. Before Captain Horster sails next week.\nD. On the day after tomorrow, in time for the next edition.\nE. Before the end of the month.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Later that same evening.",
+          "B. By tomorrow morning before her school hours begin.",
+          "C. Before Captain Horster sails next week.",
+          "D. On the day after tomorrow, in time for the next edition.",
+          "E. Before the end of the month.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which transition in Dr. Stockmann's language best exemplifies his total psychological break from the townspeople by Act 5?\n\nA. From praising the 'Baths' to calling them 'pest-houses' and 'poisoned sepulchres.'\nB. From wanting to 'do a service' to wanting to 'ruin' the town for its own good.\nC. From discussing 'scientific apparatus' to discussing 'rat's-bane' and 'venom.'\nD. All of the above are direct statements, not implicit transitions.\nE. From calling them 'fellow citizens' to calling them 'devil's messengers' and 'curs.'\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. From praising the 'Baths' to calling them 'pest-houses' and 'poisoned sepulchres.'",
+          "B. From wanting to 'do a service' to wanting to 'ruin' the town for its own good.",
+          "C. From discussing 'scientific apparatus' to discussing 'rat's-bane' and 'venom.'",
+          "D. All of the above are direct statements, not implicit transitions.",
+          "E. From calling them 'fellow citizens' to calling them 'devil's messengers' and 'curs.'",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. From calling them 'fellow citizens' to calling them 'devil's messengers' and 'curs.'"
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does Dr. Stockmann's expectation of his brother's reaction to the discovery evolve over the course of the morning?\n\nA. He starts by assuming Peter will gladly share the credit, but later realizes Peter wants to suppress the report.\nB. He first expects Peter to be angry about the infusoria, but later sees Peter is entirely unconcerned about it.\nC. He initially fears Peter will immediately dismiss him.\nD. He first expects Peter to immediately fund the repairs without question, but later learns the town engineer forbade any modifications.\nE. He initially anticipates Peter being displeased about who made the discovery, but eventually faces his demand for a retraction.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He starts by assuming Peter will gladly share the credit, but later realizes Peter wants to suppress the report.",
+          "B. He first expects Peter to be angry about the infusoria, but later sees Peter is entirely unconcerned about it.",
+          "C. He initially fears Peter will immediately dismiss him.",
+          "D. He first expects Peter to immediately fund the repairs without question, but later learns the town engineer forbade any modifications.",
+          "E. He initially anticipates Peter being displeased about who made the discovery, but eventually faces his demand for a retraction.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. He initially anticipates Peter being displeased about who made the discovery, but eventually faces his demand for a retraction."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which of the following accurately reflects interjections made by Petra during the final confrontation?\n\nA. \"Remember the young boys, father!\" and \"We simply cannot afford this financial ruin!\"\nB. \"Uncle, you are a complete coward!\" and \"Father is splendid!\"\nC. \"Let him publish it!\"\nD. \"You are an enemy to the community!\" and \"God help us all as we face this terrible and unjust disaster together!\"\nE. \"Father, you shan't stand this!\" and \"If only I could give uncle a piece of my mind—\"\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. \"Remember the young boys, father!\" and \"We simply cannot afford this financial ruin!\"",
+          "B. \"Uncle, you are a complete coward!\" and \"Father is splendid!\"",
+          "C. \"Let him publish it!\"",
+          "D. \"You are an enemy to the community!\" and \"God help us all as we face this terrible and unjust disaster together!\"",
+          "E. \"Father, you shan't stand this!\" and \"If only I could give uncle a piece of my mind—\"",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. \"Father, you shan't stand this!\" and \"If only I could give uncle a piece of my mind—\""
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What does Peter Stockmann believe is the most important consideration when dealing with the water supply issue?\n\nA. The public's perception of the Baths.\nB. The economic and political stability of the town.\nC. The immediate dismissal of Dr. Stockmann.\nD. The personal reputation of the Stockmann family.\nE. The truth of the scientific findings.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. The public's perception of the Baths.",
+          "B. The economic and political stability of the town.",
+          "C. The immediate dismissal of Dr. Stockmann.",
+          "D. The personal reputation of the Stockmann family.",
+          "E. The truth of the scientific findings.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. The economic and political stability of the town."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What does Mrs. Stockmann believe is the most important factor in ensuring Dr. Stockmann's success in his efforts to improve the water supply?\n\nA. The support of the Baths Committee.\nB. The support of the majority of the town's people.\nC. The support of the town's wealthy families.\nD. The support of the liberal-minded press.\nE. The support of his brother Peter.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. The support of the Baths Committee.",
+          "B. The support of the majority of the town's people.",
+          "C. The support of the town's wealthy families.",
+          "D. The support of the liberal-minded press.",
+          "E. The support of his brother Peter.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Exactly how many physical, completed manuscripts for new follow-up articles does Dr. Stockmann hand to Aslaksen while in the printing room?\nA. A half-dozen new manuscripts.\nB. Two or three additional manuscripts.\nC. He explicitly hands Aslaksen four completed follow-up articles, each as a separate finished manuscript.\nD. One additional manuscript.\nE. Ten completely finished manuscripts.\nF. Cannot infer the answer based on the given information.\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. A half-dozen new manuscripts.",
+          "B. Two or three additional manuscripts.",
+          "C. He explicitly hands Aslaksen four completed follow-up articles, each as a separate finished manuscript.",
+          "D. One additional manuscript.",
+          "E. Ten completely finished manuscripts.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Who does Billing initially suggest Hovstad should apply to for the money to fund their paper?\n\nA. The small tradesmen.\nB. The Householders' Association.\nC. Dr. Stockmann.\nD. Sheriff Stensgaard.\nE. The Mayor.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. The small tradesmen.",
+          "B. The Householders' Association.",
+          "C. Dr. Stockmann.",
+          "D. Sheriff Stensgaard.",
+          "E. The Mayor.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. Dr. Stockmann."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What does Dr. Stockmann believe is the reason for the town's opposition to his article?\n\nA. The town is not ready for the truth and prefers to remain in ignorance.\nB. The townspeople mainly oppose the article because they sincerely believe the repairs would place an unavoidable and fair burden on everyone.\nC. Dr. Stockmann believes the town's opposition is driven chiefly by a genuine disagreement over medical evidence rather than by reputation or power.\nD. Dr. Stockmann believes the town opposes him because it sees him as a political radical trying to overthrow the existing social order.\nE. The town believes his claims are based on false assumptions and lack scientific proof.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. The town is not ready for the truth and prefers to remain in ignorance.",
+          "B. The townspeople mainly oppose the article because they sincerely believe the repairs would place an unavoidable and fair burden on everyone.",
+          "C. Dr. Stockmann believes the town's opposition is driven chiefly by a genuine disagreement over medical evidence rather than by reputation or power.",
+          "D. Dr. Stockmann believes the town opposes him because it sees him as a political radical trying to overthrow the existing social order.",
+          "E. The town believes his claims are based on false assumptions and lack scientific proof.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. The town is not ready for the truth and prefers to remain in ignorance."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does Mrs. Stockmann's opinion on the financial cost of repairing the Baths change over the course of the meeting?\nA. She initially refuses to pay taxes but later offers to fund the repairs herself.\nB. She starts by defending the tanneries and ends by condemning them.\nC. Mrs. Stockmann explicitly says she first supports paying the thousands of pounds and later says the repairs are too expensive.\nD. She begins by wanting to sell her shares but later decides to keep them.\nE. She first agrees with Aslaksen on moderation, but later demands the ratepayers pay.\nF. Cannot infer the answer based on the given information.\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She initially refuses to pay taxes but later offers to fund the repairs herself.",
+          "B. She starts by defending the tanneries and ends by condemning them.",
+          "C. Mrs. Stockmann explicitly says she first supports paying the thousands of pounds and later says the repairs are too expensive.",
+          "D. She begins by wanting to sell her shares but later decides to keep them.",
+          "E. She first agrees with Aslaksen on moderation, but later demands the ratepayers pay.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does Mrs. Stockmann intervene when Hovstad brings her family into his argument against the Doctor?\n\nA. She thanks Hovstad for his consideration of her children.\nB. She simply hushes her son Morten when he asks if Hovstad is talking about them.\nC. She demands Aslaksen silence Hovstad.\nD. She loudly protests Hovstad's invasion of her privacy.\nE. She asks her husband to stick to the topic of the water-supply.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She thanks Hovstad for his consideration of her children.",
+          "B. She simply hushes her son Morten when he asks if Hovstad is talking about them.",
+          "C. She demands Aslaksen silence Hovstad.",
+          "D. She loudly protests Hovstad's invasion of her privacy.",
+          "E. She asks her husband to stick to the topic of the water-supply.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. She simply hushes her son Morten when he asks if Hovstad is talking about them."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which specific individual in the crowd does Petra point out to Captain Horster?\n\nA. Morten Kiil.\nB. Mr. Vik the shipowner.\nC. Evensen with his cow-horn.\nD. The drunken man.\nE. Lamstad.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Morten Kiil.",
+          "B. Mr. Vik the shipowner.",
+          "C. Evensen with his cow-horn.",
+          "D. The drunken man.",
+          "E. Lamstad.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. Mr. Vik the shipowner."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does Horster's allegiance shift from the beginning of the meeting to the end?\nA. He initially refuses to lend his house but later allows it.\nB. He initially votes blue, but later changes his vote to white.\nC. He publicly supports the Mayor at the beginning, then explicitly renounces him and supports the Doctor.\nD. He begins as a neutral observer but joins the crowd in shouting against the Doctor.\nE. He starts by supporting the Householders' Association but ends up agreeing with Aslaksen.\nF. Cannot infer the answer based on the given information.\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He initially refuses to lend his house but later allows it.",
+          "B. He initially votes blue, but later changes his vote to white.",
+          "C. He publicly supports the Mayor at the beginning, then explicitly renounces him and supports the Doctor.",
+          "D. He begins as a neutral observer but joins the crowd in shouting against the Doctor.",
+          "E. He starts by supporting the Householders' Association but ends up agreeing with Aslaksen.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "In response to Dr. Stockmann’s idea that science might discover a prophylactic or antidote for the polluting organisms, what did Morten Kiil suggest trying?\n\nA. He jokingly suggested trying rat’s-bane to kill the organisms.\nB. He wanted to use it to poison the town's water supply to prove his scientific point to the Baths Committee.\nC. He suggested it as a method to exterminate the political leaders he likened to voracious wolves.\nD. He considered using it to clear out the rats from the new house Captain Horster offered him.\nE. He sarcastically suggested it to Morten Kiil as a way to deal with the stray dogs in the neighborhood.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He jokingly suggested trying rat’s-bane to kill the organisms.",
+          "B. He wanted to use it to poison the town's water supply to prove his scientific point to the Baths Committee.",
+          "C. He suggested it as a method to exterminate the political leaders he likened to voracious wolves.",
+          "D. He considered using it to clear out the rats from the new house Captain Horster offered him.",
+          "E. He sarcastically suggested it to Morten Kiil as a way to deal with the stray dogs in the neighborhood.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. He jokingly suggested trying rat’s-bane to kill the organisms."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "According to Mrs. Stockmann, who originally thought that the glazier wouldn't dare to come fix the windows?\n\nA. The landlord.\nB. Captain Horster.\nC. Morten Kiil.\nD. Mr. Aslaksen.\nE. Randine.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. The landlord.",
+          "B. Captain Horster.",
+          "C. Morten Kiil.",
+          "D. Mr. Aslaksen.",
+          "E. Randine.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. Randine."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Peter Stockmann attempts to contain the water report by demanding its suppression. When that fails, he coordinates with the press to discredit Thomas. Which sequence correctly identifies the evolution of his containment strategy?\n\nA. Immediate dismissal → Public meeting to explain → Reinstatement offer → Secret cleanup of the tanneries.\nB. Suppression of the press → Arrest of the Doctor → Cancellation of the public meeting → Resignation from the Mayoralty.\nC. Internal suppression of the report → blocked publication → manipulated public meeting → Thomas’s dismissal and isolation.\nD. He first ignores the report, then attempts to buy it from Thomas, and finally supports its publication with a disclaimer.\nE. Private bribery → Public debate → Legal injunction → Forced exile to America.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Immediate dismissal → Public meeting to explain → Reinstatement offer → Secret cleanup of the tanneries.",
+          "B. Suppression of the press → Arrest of the Doctor → Cancellation of the public meeting → Resignation from the Mayoralty.",
+          "C. Internal suppression of the report → blocked publication → manipulated public meeting → Thomas’s dismissal and isolation.",
+          "D. He first ignores the report, then attempts to buy it from Thomas, and finally supports its publication with a disclaimer.",
+          "E. Private bribery → Public debate → Legal injunction → Forced exile to America.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. Internal suppression of the report → blocked publication → manipulated public meeting → Thomas’s dismissal and isolation."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "After observing a series of gastric fever and typhoid cases among visitors, what specific action did Dr. Stockmann take that ultimately led to his confrontation with the town's leadership regarding the Baths? Was it due to his earlier realization that the water in his own home was tasting foul and causing his sons to become ill?\n\nA. He held a public meeting to discuss his findings.\nB. He wrote to the Mayor to demand an explanation.\nC. He abandoned his concerns about the water quality entirely.\nD. He decided to ignore the illness in his family and focus on his investigations.\nE. He sent water samples for analysis from the Baths.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He held a public meeting to discuss his findings.",
+          "B. He wrote to the Mayor to demand an explanation.",
+          "C. He abandoned his concerns about the water quality entirely.",
+          "D. He decided to ignore the illness in his family and focus on his investigations.",
+          "E. He sent water samples for analysis from the Baths.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. He sent water samples for analysis from the Baths."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "After Dr. Stockmann insists on continuing his public fight, what does Mrs. Stockmann’s remark that they cannot ?live on sunshine and spring air? most directly express?\n\nA. She initially felt optimistic about their financial future, but later understood they would have to rely on charity.\nB. She thought her husband's public stance would enhance their status but later understood it would lead to their financial downfall.\nC. She is worried that the family still faces practical material and financial constraints despite Dr. Stockmann’s idealistic determination.\nD. She believed their financial situation would improve with the town's support but later saw it deteriorate.\nE. She initially didn't care about their finances but later recognized the dire consequences of public opinion on their livelihood.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She initially felt optimistic about their financial future, but later understood they would have to rely on charity.",
+          "B. She thought her husband's public stance would enhance their status but later understood it would lead to their financial downfall.",
+          "C. She is worried that the family still faces practical material and financial constraints despite Dr. Stockmann’s idealistic determination.",
+          "D. She believed their financial situation would improve with the town's support but later saw it deteriorate.",
+          "E. She initially didn't care about their finances but later recognized the dire consequences of public opinion on their livelihood.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. She is worried that the family still faces practical material and financial constraints despite Dr. Stockmann’s idealistic determination."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Peter Stockmann initially held the position of Chairman of the governing body of the Baths. Over time, his authority and influence regarding the Baths underwent changes due to conflicts with his brother Dr. Stockmann's proposals. Which of the following best describes the final state of Peter Stockmann's authority over the Baths by the end of the sequence?\n\nA. He retained nominal control but lost real influence due to public opposition.\nB. He was promoted to a higher municipal office, increasing his power over the Baths.\nC. He remained Chairman and kept control over the Baths, successfully blocking the reforms.\nD. His authority was effectively undermined after the public meeting, leading to his dismissal and eviction.\nE. He voluntarily resigned his position to support his brother’s reform proposals.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He retained nominal control but lost real influence due to public opposition.",
+          "B. He was promoted to a higher municipal office, increasing his power over the Baths.",
+          "C. He remained Chairman and kept control over the Baths, successfully blocking the reforms.",
+          "D. His authority was effectively undermined after the public meeting, leading to his dismissal and eviction.",
+          "E. He voluntarily resigned his position to support his brother’s reform proposals.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. He remained Chairman and kept control over the Baths, successfully blocking the reforms."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What specific sequence of events led to Petra being dismissed from her teaching position?\n\nA. She published a controversial article in the \"People's Messenger.\"\nB. She insulted the townspeople during a public meeting.\nC. A guest at the Stockmanns' house gossiped about her, resulting in anonymous letters.\nD. She failed to deliver her translation on time.\nE. The school board received complaints regarding her father's views.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She published a controversial article in the \"People's Messenger.\"",
+          "B. She insulted the townspeople during a public meeting.",
+          "C. A guest at the Stockmanns' house gossiped about her, resulting in anonymous letters.",
+          "D. She failed to deliver her translation on time.",
+          "E. The school board received complaints regarding her father's views.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. A guest at the Stockmanns' house gossiped about her, resulting in anonymous letters."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does Horster's perspective on civic duties evolve throughout the data, especially regarding his planned voting?\n\nA. He believes every citizen must vote to steer the community ship.\nB. He thinks voting is pointless because the Mayor controls the results.\nC. He restricts his civic involvement to donating his property for municipal use.\nD. He avoids it entirely because he claims to know nothing about politics.\nE. He plans to vote in the upcoming election before sailing to America.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He believes every citizen must vote to steer the community ship.",
+          "B. He thinks voting is pointless because the Mayor controls the results.",
+          "C. He restricts his civic involvement to donating his property for municipal use.",
+          "D. He avoids it entirely because he claims to know nothing about politics.",
+          "E. He plans to vote in the upcoming election before sailing to America.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. He avoids it entirely because he claims to know nothing about politics."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "At which point did Hovstad confirm that he would not publish Dr. Stockmann's article, despite his earlier intentions, and what were the justifications for this change?\n\nA. He chose not to publish it after being convinced by Aslaksen to avoid public panic.\nB. He abandoned the idea following a conversation with Petra about the article’s content.\nC. He confirmed he would not publish it after receiving threats from the Mayor.\nD. He decided against it after realizing the article would alienate the readership.\nE. He finally decided not to publish it after reflecting on the potential consequences for his career.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He chose not to publish it after being convinced by Aslaksen to avoid public panic.",
+          "B. He abandoned the idea following a conversation with Petra about the article’s content.",
+          "C. He confirmed he would not publish it after receiving threats from the Mayor.",
+          "D. He decided against it after realizing the article would alienate the readership.",
+          "E. He finally decided not to publish it after reflecting on the potential consequences for his career.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. He decided against it after realizing the article would alienate the readership."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does Hovstad's behavior towards the Mayor evolve through the story, particularly in relation to his editorial decisions?\n\nA. His behavior shifts from outright support of the Mayor to open conflict as he realizes the public's discontent.\nB. He begins by ignoring the Mayor's influence but later acknowledges it as crucial for his newspaper's success.\nC. He initially respects the Mayor's authority but later begins to challenge it due to personal ambition.\nD. He starts by opposing the Mayor but later aligns his editorial decisions with him.\nE. His respect for the Mayor fades as he becomes more committed to editorial independence.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. His behavior shifts from outright support of the Mayor to open conflict as he realizes the public's discontent.",
+          "B. He begins by ignoring the Mayor's influence but later acknowledges it as crucial for his newspaper's success.",
+          "C. He initially respects the Mayor's authority but later begins to challenge it due to personal ambition.",
+          "D. He starts by opposing the Mayor but later aligns his editorial decisions with him.",
+          "E. His respect for the Mayor fades as he becomes more committed to editorial independence.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. He starts by opposing the Mayor but later aligns his editorial decisions with him."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What does Billing believe is the reason for his inability to enjoy meals as much as others, especially when compared to his past preference for solitude?\nA. Billing explicitly says weak digestion forces him to prefer tea and bread, which is why he cannot enjoy meals.\nB. He is not used to eating with others.\nC. He is not a local resident.\nD. He is not interested in the food.\nE. He is not as hungry as the others.\nF. Cannot infer the answer based on the given information.\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Billing explicitly says weak digestion forces him to prefer tea and bread, which is why he cannot enjoy meals.",
+          "B. He is not used to eating with others.",
+          "C. He is not a local resident.",
+          "D. He is not interested in the food.",
+          "E. He is not as hungry as the others.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "In the deep line “a technical issue is politicized,” which of the following intermediate steps collectively push the original pollution fact into something that can be publicly politically labeled?\n\nA. It condenses the pollution judgment into a deliverable technical conclusion, giving the dispute a vehicle for entering the public channel.\nB. It rewrites the repair issue as a fiscal burden and a risk to the town’s interests, moving the dispute beyond a purely technical layer.\nC. It makes the newspaper shift from carrying the technical text to carrying the official line, changing how the public encounters the issue.\nD. It places the dispute into motions, voting, and resolution procedures, making political labeling possible.\nE. It brings more townspeople into the same space to watch, amplifying the dispute in terms of headcount.\nF. First there is a technical conclusion, then an official line, then meeting procedure, so the technical truth is naturally accepted by the public.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. It condenses the pollution judgment into a deliverable technical conclusion, giving the dispute a vehicle for entering the public channel.",
+          "B. It rewrites the repair issue as a fiscal burden and a risk to the town’s interests, moving the dispute beyond a purely technical layer.",
+          "C. It makes the newspaper shift from carrying the technical text to carrying the official line, changing how the public encounters the issue.",
+          "D. It places the dispute into motions, voting, and resolution procedures, making political labeling possible.",
+          "E. It brings more townspeople into the same space to watch, amplifying the dispute in terms of headcount.",
+          "F. First there is a technical conclusion, then an official line, then meeting procedure, so the technical truth is naturally accepted by the public."
+        ],
+        "answer": [
+          "A. It condenses the pollution judgment into a deliverable technical conclusion, giving the dispute a vehicle for entering the public channel.",
+          "B. It rewrites the repair issue as a fiscal burden and a risk to the town’s interests, moving the dispute beyond a purely technical layer.",
+          "C. It makes the newspaper shift from carrying the technical text to carrying the official line, changing how the public encounters the issue.",
+          "D. It places the dispute into motions, voting, and resolution procedures, making political labeling possible."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "Complete the key missing segment in this deep progression from “the water problem is confirmed as true” to “it is formally politically labeled.” Arrange the steps in the correct order.\n\nA. The issue is rewritten as a fiscal and town-risk problem.\nB. The media withdraws its carriage of the technical text.\nC. The official line replaces the expert line in public view.\nD. The dispute is terminated as a political identity labeling.\nE. The technical conclusion is handed into the public channel of circulation.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. The issue is rewritten as a fiscal and town-risk problem.",
+          "B. The media withdraws its carriage of the technical text.",
+          "C. The official line replaces the expert line in public view.",
+          "D. The dispute is terminated as a political identity labeling.",
+          "E. The technical conclusion is handed into the public channel of circulation."
+        ],
+        "answer": [
+          "E. The technical conclusion is handed into the public channel of circulation.",
+          "A. The issue is rewritten as a fiscal and town-risk problem.",
+          "B. The media withdraws its carriage of the technical text.",
+          "C. The official line replaces the expert line in public view.",
+          "D. The dispute is terminated as a political identity labeling."
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following candidate paths cannot genuinely support the deep line “a technical issue is politicized”?\n\nA. After the technical fact enters the public channel, it is rewritten as a town risk, then replaced by the official line, and finally politically labeled in the meeting.\nB. After the technical fact enters the public channel, the narrative focus shifts to Petra and the newspaper’s ethical friction, and then the meeting delivers the conclusion.\nC. After the technical fact enters the public channel, it goes only through administrative reading and scene amplification, and then directly leads to political labeling.\nD. After the technical fact enters the public channel, the later chain mainly consists of smashed windows, eviction, and the children being affected in daily life.\nE. After the technical fact enters the public channel, it is first rewritten as a town risk, and then meeting procedure turns it into a public threat judgment about the Doctor.\nF. After the technical fact enters the public channel, it first loses media carriage, and then is sealed by meeting procedure into a political identity issue.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. After the technical fact enters the public channel, it is rewritten as a town risk, then replaced by the official line, and finally politically labeled in the meeting.",
+          "B. After the technical fact enters the public channel, the narrative focus shifts to Petra and the newspaper’s ethical friction, and then the meeting delivers the conclusion.",
+          "C. After the technical fact enters the public channel, it goes only through administrative reading and scene amplification, and then directly leads to political labeling.",
+          "D. After the technical fact enters the public channel, the later chain mainly consists of smashed windows, eviction, and the children being affected in daily life.",
+          "E. After the technical fact enters the public channel, it is first rewritten as a town risk, and then meeting procedure turns it into a public threat judgment about the Doctor.",
+          "F. After the technical fact enters the public channel, it first loses media carriage, and then is sealed by meeting procedure into a political identity issue."
+        ],
+        "answer": [
+          "B. After the technical fact enters the public channel, the narrative focus shifts to Petra and the newspaper’s ethical friction, and then the meeting delivers the conclusion.",
+          "C. After the technical fact enters the public channel, it goes only through administrative reading and scene amplification, and then directly leads to political labeling.",
+          "D. After the technical fact enters the public channel, the later chain mainly consists of smashed windows, eviction, and the children being affected in daily life."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "If we trace backward from “Dr. Stockmann is declared an enemy of the people” to the earliest source state of this deep line, in what order should the following nodes appear? Arrange them in backward order from near to far.\n\nA. The technical conclusion first enters the public and institutional channel.\nB. Earliest of all is the investigation, testing, and reporting around the Baths.\nC. The media entry point is first occupied by the official line.\nD. The issue is first rewritten as a fiscal and town-wide risk.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. The technical conclusion first enters the public and institutional channel.",
+          "B. Earliest of all is the investigation, testing, and reporting around the Baths.",
+          "C. The media entry point is first occupied by the official line.",
+          "D. The issue is first rewritten as a fiscal and town-wide risk."
+        ],
+        "answer": [
+          "C. The media entry point is first occupied by the official line.",
+          "D. The issue is first rewritten as a fiscal and town-wide risk.",
+          "A. The technical conclusion first enters the public and institutional channel.",
+          "B. Earliest of all is the investigation, testing, and reporting around the Baths."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "Arrange the following steps into a complete deep-gap chain showing how report-based discourse is replaced by procedural discourse.\n\nA. The issue is processed as a proposition to be voted on.\nB. Procedural rules are explicitly made the mechanism of the result.\nC. The expert report enters the transmission gate.\nD. A substitutive official text seizes that gate.\nE. Authority in the meeting falls to the chair position.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. The issue is processed as a proposition to be voted on.",
+          "B. Procedural rules are explicitly made the mechanism of the result.",
+          "C. The expert report enters the transmission gate.",
+          "D. A substitutive official text seizes that gate.",
+          "E. Authority in the meeting falls to the chair position."
+        ],
+        "answer": [
+          "C. The expert report enters the transmission gate.",
+          "D. A substitutive official text seizes that gate.",
+          "E. Authority in the meeting falls to the chair position.",
+          "A. The issue is processed as a proposition to be voted on.",
+          "B. Procedural rules are explicitly made the mechanism of the result."
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following candidate chains truly express “discursive power shifts from the report to procedure,” rather than merely describing adjacent surface actions?\n\nA. The expert text is first subject to gatekeeping, then displaced by a substitute text, and finally taken over by the chair, vote, and ballot rules.\nB. The technical fact is first confirmed, then administratively read and consulted on, so discursive power naturally shifts to procedure.\nC. The Doctor’s text remains present, but his right to speak is preemptively handled through proposal, vote, and rules.\nD. The arrangement of family members, people entering, and exit order in the meeting together determine that procedure defeats content.\nE. Although both an official text and procedural control appear, they remain independent and cannot form one deep chain.\nF. As soon as a ballot appears, expert content is necessarily eliminated entirely.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. The expert text is first subject to gatekeeping, then displaced by a substitute text, and finally taken over by the chair, vote, and ballot rules.",
+          "B. The technical fact is first confirmed, then administratively read and consulted on, so discursive power naturally shifts to procedure.",
+          "C. The Doctor’s text remains present, but his right to speak is preemptively handled through proposal, vote, and rules.",
+          "D. The arrangement of family members, people entering, and exit order in the meeting together determine that procedure defeats content.",
+          "E. Although both an official text and procedural control appear, they remain independent and cannot form one deep chain.",
+          "F. As soon as a ballot appears, expert content is necessarily eliminated entirely."
+        ],
+        "answer": [
+          "A. The expert text is first subject to gatekeeping, then displaced by a substitute text, and finally taken over by the chair, vote, and ballot rules.",
+          "C. The Doctor’s text remains present, but his right to speak is preemptively handled through proposal, vote, and rules."
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "In the deep line “reform alliance forms and collapses,” which intermediate steps truly constitute the formation of a support network, rather than later noise or side branches?\n\nA. It first frames the water issue as a public matter the newspaper is willing to advance collectively.\nB. It makes association and moderate networks willing to provide organizational uptake for the reform plan.\nC. It gives the Doctor’s text actual publication and printing preparation inside the newspaper office.\nD. It foregrounds Petra’s private ethical split with the newspaper, exposing a personal-level trust rupture.\nE. It strengthens the expectation that the town may give the Doctor public support.\nF. It brings the official side in through proper channels, so the administrative system itself becomes part of the alliance.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. It first frames the water issue as a public matter the newspaper is willing to advance collectively.",
+          "B. It makes association and moderate networks willing to provide organizational uptake for the reform plan.",
+          "C. It gives the Doctor’s text actual publication and printing preparation inside the newspaper office.",
+          "D. It foregrounds Petra’s private ethical split with the newspaper, exposing a personal-level trust rupture.",
+          "E. It strengthens the expectation that the town may give the Doctor public support.",
+          "F. It brings the official side in through proper channels, so the administrative system itself becomes part of the alliance."
+        ],
+        "answer": [
+          "A. It first frames the water issue as a public matter the newspaper is willing to advance collectively.",
+          "B. It makes association and moderate networks willing to provide organizational uptake for the reform plan.",
+          "C. It gives the Doctor’s text actual publication and printing preparation inside the newspaper office.",
+          "E. It strengthens the expectation that the town may give the Doctor public support."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "Tracing backward from the later state “Hovstad and Aslaksen come back to pressure the Doctor and are harshly driven off,” how should the earliest alliance seed be reconstructed in this deep line? Arrange the steps from near to far.\n\nA. Earlier, the newspaper phase had already completed the refusal to print and the stance reversal.\nB. Earliest of all, the two had once incorporated the Doctor into a reform support network.\nC. They had already acted as siege executors in the meeting.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. Earlier, the newspaper phase had already completed the refusal to print and the stance reversal.",
+          "B. Earliest of all, the two had once incorporated the Doctor into a reform support network.",
+          "C. They had already acted as siege executors in the meeting."
+        ],
+        "answer": [
+          "C. They had already acted as siege executors in the meeting.",
+          "A. Earlier, the newspaper phase had already completed the refusal to print and the stance reversal.",
+          "B. Earliest of all, the two had once incorporated the Doctor into a reform support network."
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "In the deep arc where Dr. Stockmann’s public identity collapses and is recast, which intermediate steps actually move him from an institutional insider to a figure stripped of legitimacy?\n\nA. He first enters public visibility with an institutional role and a public-author role.\nB. The media first withdraws its public backing for his professional text.\nC. A public resolution formally attaches stigma to him.\nD. Institutional punishment and social exclusion further solidify that stigma.\nE. Physical damage appears in the domestic space, so his public identity naturally collapses.\nF. As soon as economic leverage appears, it already equals a full rewriting of public identity.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. He first enters public visibility with an institutional role and a public-author role.",
+          "B. The media first withdraws its public backing for his professional text.",
+          "C. A public resolution formally attaches stigma to him.",
+          "D. Institutional punishment and social exclusion further solidify that stigma.",
+          "E. Physical damage appears in the domestic space, so his public identity naturally collapses.",
+          "F. As soon as economic leverage appears, it already equals a full rewriting of public identity."
+        ],
+        "answer": [
+          "A. He first enters public visibility with an institutional role and a public-author role.",
+          "B. The media first withdraws its public backing for his professional text.",
+          "C. A public resolution formally attaches stigma to him.",
+          "D. Institutional punishment and social exclusion further solidify that stigma."
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following candidate paths are insufficient to genuinely support the deep line “public identity collapses and is recast”?\n\nA. There is first a positive identity granted by institutional and media structures, then media reversal, public stigma, institutional consequences, and finally a self-rewriting in terms of solitude.\nB. There is first a technical investigation and a report, then administrative reading, and therefore public identity naturally collapses and is recast.\nC. There are smashed windows, eviction, and children being affected, and therefore public identity naturally turns into the identity of standing alone.\nD. There is first media backing, then public condemnation and institutionalized consequences, and only then self-recasting.\nE. There is first a respected public and institutional identity, then media reversal and public stigmatization, followed by concrete social and institutional exclusion, after which he explicitly redefines himself as the one who stands alone.\nF. There is first a loss of transmission access, then the attachment of a public label, showing that the identity collapse is not merely temporary controversy.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. There is first a positive identity granted by institutional and media structures, then media reversal, public stigma, institutional consequences, and finally a self-rewriting in terms of solitude.",
+          "B. There is first a technical investigation and a report, then administrative reading, and therefore public identity naturally collapses and is recast.",
+          "C. There are smashed windows, eviction, and children being affected, and therefore public identity naturally turns into the identity of standing alone.",
+          "D. There is first media backing, then public condemnation and institutionalized consequences, and only then self-recasting.",
+          "E. There is first a respected public and institutional identity, then media reversal and public stigmatization, followed by concrete social and institutional exclusion, after which he explicitly redefines himself as the one who stands alone.",
+          "F. There is first a loss of transmission access, then the attachment of a public label, showing that the identity collapse is not merely temporary controversy."
+        ],
+        "answer": [
+          "B. There is first a technical investigation and a report, then administrative reading, and therefore public identity naturally collapses and is recast.",
+          "C. There are smashed windows, eviction, and children being affected, and therefore public identity naturally turns into the identity of standing alone.",
+          "F. There is first a loss of transmission access, then the attachment of a public label, showing that the identity collapse is not merely temporary controversy."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "If we trace back from Dr. Stockmann’s statement that “the strongest man in the world is he who stands most alone,” what earlier developments lead up to that view? Arrange them from nearest cause to earliest cause.\n\nA. Earlier still comes the withdrawal of media backing.\nB. Earliest is his original institutional and public identity.\nC. Institutional consequences and social exclusion first press upon the eventual self-definition.\nD. Before that comes the public fixation of the enemy label.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. Earlier still comes the withdrawal of media backing.",
+          "B. Earliest is his original institutional and public identity.",
+          "C. Institutional consequences and social exclusion first press upon the eventual self-definition.",
+          "D. Before that comes the public fixation of the enemy label."
+        ],
+        "answer": [
+          "C. Institutional consequences and social exclusion first press upon the eventual self-definition.",
+          "D. Before that comes the public fixation of the enemy label.",
+          "A. Earlier still comes the withdrawal of media backing.",
+          "B. Earliest is his original institutional and public identity."
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which developments show how Dr. Stockmann’s early trust in the public and the majority turns into the realization that they can act against truth?\n\nA. The Doctor first imagines the public, the press, and the majority as the support base of truth.\nB. Intermediaries of public opinion organize the public into a mobilizable political resource.\nC. Associational organization and moderation bring the public into the dispute in structured form.\nD. The meeting proceduralizes majority opinion into a force of adjudication.\nE. Technical evidence is first made solid, so the public will naturally stand on the side of truth.\nF. As soon as the cost frame appears, the public automatically becomes the enemy of truth.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. The Doctor first imagines the public, the press, and the majority as the support base of truth.",
+          "B. Intermediaries of public opinion organize the public into a mobilizable political resource.",
+          "C. Associational organization and moderation bring the public into the dispute in structured form.",
+          "D. The meeting proceduralizes majority opinion into a force of adjudication.",
+          "E. Technical evidence is first made solid, so the public will naturally stand on the side of truth.",
+          "F. As soon as the cost frame appears, the public automatically becomes the enemy of truth."
+        ],
+        "answer": [
+          "A. The Doctor first imagines the public, the press, and the majority as the support base of truth.",
+          "B. Intermediaries of public opinion organize the public into a mobilizable political resource.",
+          "C. Associational organization and moderation bring the public into the dispute in structured form.",
+          "D. The meeting proceduralizes majority opinion into a force of adjudication."
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following candidate paths cannot genuinely support the deep line “the majority is reversed”?\n\nA. The public is first imagined as truth’s support base, then organized through public opinion and networks, then turned into an adjudicating force in the meeting, which triggers the Doctor’s anti-majoritarian judgment.\nB. A pollution investigation and report are completed first, and then the media line is replaced, so the majority reversal naturally follows.\nC. Organizational networks and meeting procedure first put the majority at the center, and then the Doctor develops a reverse judgment about it.\nD. Windows are smashed, eviction follows, and children are affected, so the majority is thereby proven to be anti-truth.\nE. There is first an expectation of the majority, then a principled expression that the majority is naturally right, and finally the Doctor’s anti-majoritarian judgment.\nF. There is first public mobilization and then public adjudication, showing that the majority is not merely headcount but a politically processed force.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. The public is first imagined as truth’s support base, then organized through public opinion and networks, then turned into an adjudicating force in the meeting, which triggers the Doctor’s anti-majoritarian judgment.",
+          "B. A pollution investigation and report are completed first, and then the media line is replaced, so the majority reversal naturally follows.",
+          "C. Organizational networks and meeting procedure first put the majority at the center, and then the Doctor develops a reverse judgment about it.",
+          "D. Windows are smashed, eviction follows, and children are affected, so the majority is thereby proven to be anti-truth.",
+          "E. There is first an expectation of the majority, then a principled expression that the majority is naturally right, and finally the Doctor’s anti-majoritarian judgment.",
+          "F. There is first public mobilization and then public adjudication, showing that the majority is not merely headcount but a politically processed force."
+        ],
+        "answer": [
+          "B. A pollution investigation and report are completed first, and then the media line is replaced, so the majority reversal naturally follows.",
+          "D. Windows are smashed, eviction follows, and children are affected, so the majority is thereby proven to be anti-truth."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "If we trace back from Dr. Stockmann’s later view that the compact majority is the enemy of truth and freedom, what earlier developments lead up to that view? Order them from closest cause to earliest cause.\n\nA. Earliest of all, the Doctor still treated the public as the support of truth.\nB. The majority has already been used as a force of adjudication.\nC. Earlier, the public had already been organized into an operable political resource.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. Earliest of all, the Doctor still treated the public as the support of truth.",
+          "B. The majority has already been used as a force of adjudication.",
+          "C. Earlier, the public had already been organized into an operable political resource."
+        ],
+        "answer": [
+          "B. The majority has already been used as a force of adjudication.",
+          "C. Earlier, the public had already been organized into an operable political resource.",
+          "A. Earliest of all, the Doctor still treated the public as the support of truth."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "Arrange the following steps into a complete deep-gap chain from invisible risk to full-spectrum siege.\n\nA. Hostility is released and legitimated in public space.\nB. Physical intrusion enters the domestic sphere.\nC. Boycott and organized social sanctions institutionalize punishment.\nD. The children and everyday family life are also drawn in.\nE. An invisible risk first exists as a public-health issue.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. Hostility is released and legitimated in public space.",
+          "B. Physical intrusion enters the domestic sphere.",
+          "C. Boycott and organized social sanctions institutionalize punishment.",
+          "D. The children and everyday family life are also drawn in.",
+          "E. An invisible risk first exists as a public-health issue."
+        ],
+        "answer": [
+          "E. An invisible risk first exists as a public-health issue.",
+          "A. Hostility is released and legitimated in public space.",
+          "B. Physical intrusion enters the domestic sphere.",
+          "C. Boycott and organized social sanctions institutionalize punishment.",
+          "D. The children and everyday family life are also drawn in."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "Tracing backward from the later state “the children have already been drawn into the conflict and advised not to go out,” how should the key prior causes in this deep line be ordered? Arrange them from near to far.\n\nA. Farthest back is the invisible risk entering public dispute.\nB. Closer in is that life-level punishment has already landed.\nC. Before that, public hostility has already been released and turned into executable punishment.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. Farthest back is the invisible risk entering public dispute.",
+          "B. Closer in is that life-level punishment has already landed.",
+          "C. Before that, public hostility has already been released and turned into executable punishment."
+        ],
+        "answer": [
+          "B. Closer in is that life-level punishment has already landed.",
+          "C. Before that, public hostility has already been released and turned into executable punishment.",
+          "A. Farthest back is the invisible risk entering public dispute."
+        ]
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which of the following characters are explicitly described as coming in from the hall?\n\nA. Peter Stockmann\nB. Hovstad\nC. Ejlif\nD. Petra\nE. Morten\nF. Aslaksen\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Peter Stockmann",
+          "B. Hovstad",
+          "C. Ejlif",
+          "D. Petra",
+          "E. Morten",
+          "F. Aslaksen"
+        ],
+        "answer": "B. Hovstad"
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following characters are explicitly shown entering Dr. Stockmann’s study in the stage directions?\n\nA. Captain Horster\nB. Morten Kiil\nC. Mrs. Stockmann\nD. Hovstad\nE. Aslaksen\nF. Petra\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Captain Horster",
+          "B. Morten Kiil",
+          "C. Mrs. Stockmann",
+          "D. Hovstad",
+          "E. Aslaksen",
+          "F. Petra"
+        ],
+        "answer": [
+          "A. Captain Horster",
+          "C. Mrs. Stockmann",
+          "F. Petra"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following characters are not initially in the editorial office of the People's Messenger, but are later explicitly shown or recognized as entering it from somewhere else?\n\nA. Billing\nB. Dr. Stockmann\nC. Petra\nD. Aslaksen\nE. Peter Stockmann\nF. Hovstad\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Billing",
+          "B. Dr. Stockmann",
+          "C. Petra",
+          "D. Aslaksen",
+          "E. Peter Stockmann",
+          "F. Hovstad"
+        ],
+        "answer": [
+          "A. Billing",
+          "B. Dr. Stockmann",
+          "C. Petra",
+          "D. Aslaksen",
+          "E. Peter Stockmann"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following places are explicitly shown in the play as destinations that characters arrive at?\n\nA. the hall\nB. Dr. Stockmann’s sitting-room\nC. the editorial office of the People’s Messenger\nD. Dr. Stockmann’s study\nE. the printing room of the People’s Messenger\nF. the school\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. the hall",
+          "B. Dr. Stockmann’s sitting-room",
+          "C. the editorial office of the People’s Messenger",
+          "D. Dr. Stockmann’s study",
+          "E. the printing room of the People’s Messenger",
+          "F. the school"
+        ],
+        "answer": [
+          "A. the hall",
+          "B. Dr. Stockmann’s sitting-room",
+          "C. the editorial office of the People’s Messenger",
+          "D. Dr. Stockmann’s study",
+          "E. the printing room of the People’s Messenger"
+        ]
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "After Mrs. Stockmann asks the others to wait in the sitting-room, which character is later shown coming back to Dr. Stockmann with a message?\n\nA. Mrs. Stockmann\nB. Hovstad\nC. Petra\nD. Captain Horster\nE. Morten Kiil\nF. Peter Stockmann\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Mrs. Stockmann",
+          "B. Hovstad",
+          "C. Petra",
+          "D. Captain Horster",
+          "E. Morten Kiil",
+          "F. Peter Stockmann"
+        ],
+        "answer": "C. Petra"
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following people or entities are explicitly connected to a letter, either by delivering it, passing it on, or being identified as its source?\n\nA. postman\nB. Billing\nC. Petra\nD. the landlord\nE. Aslaksen\nF. Morten Kiil\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. postman",
+          "B. Billing",
+          "C. Petra",
+          "D. the landlord",
+          "E. Aslaksen",
+          "F. Morten Kiil"
+        ],
+        "answer": [
+          "A. postman",
+          "C. Petra",
+          "D. the landlord"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following actions are explicitly shown in relation to a letter or similar written document?\n\nA. examines address on\nB. holds\nC. receives\nD. is notice to quit for\nE. offers\nF. reads\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. examines address on",
+          "B. holds",
+          "C. receives",
+          "D. is notice to quit for",
+          "E. offers",
+          "F. reads"
+        ],
+        "answer": [
+          "A. examines address on",
+          "B. holds",
+          "C. receives",
+          "D. is notice to quit for",
+          "F. reads"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following characters  are explicitly involved in the handling or control of Dr. Stockmann's manuscript, either by carrying it, deciding whether it will be published, or taking it back?\n\nA. Petra\nB. Billing\nC. Aslaksen\nD. Hovstad\nE. Dr. Stockmann\nF. Captain Horster\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Petra",
+          "B. Billing",
+          "C. Aslaksen",
+          "D. Hovstad",
+          "E. Dr. Stockmann",
+          "F. Captain Horster"
+        ],
+        "answer": [
+          "B. Billing",
+          "C. Aslaksen",
+          "D. Hovstad",
+          "E. Dr. Stockmann"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following characters are explicitly shown as handling the report in the play?\n\nA. Peter Stockmann\nB. Aslaksen\nC. Hovstad\nD. Petra\nE. Dr. Stockmann\nF. Billing\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Peter Stockmann",
+          "B. Aslaksen",
+          "C. Hovstad",
+          "D. Petra",
+          "E. Dr. Stockmann",
+          "F. Billing"
+        ],
+        "answer": [
+          "A. Peter Stockmann",
+          "C. Hovstad",
+          "E. Dr. Stockmann"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following objects are explicitly textual materials that can be transferred, received, or handled?\n\nA. letter\nB. report\nC. manuscript\nD. official hat\nE. English story\nF. stones\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. letter",
+          "B. report",
+          "C. manuscript",
+          "D. official hat",
+          "E. English story",
+          "F. stones"
+        ],
+        "answer": [
+          "A. letter",
+          "B. report",
+          "C. manuscript",
+          "E. English story"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following characters are explicitly shown making decisions about publication, printing, or public release?\n\nA. Dr. Stockmann\nB. Hovstad\nC. Peter Stockmann\nD. Aslaksen\nE. Billing\nF. Petra\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Dr. Stockmann",
+          "B. Hovstad",
+          "C. Peter Stockmann",
+          "D. Aslaksen",
+          "E. Billing",
+          "F. Petra"
+        ],
+        "answer": [
+          "A. Dr. Stockmann",
+          "B. Hovstad",
+          "C. Peter Stockmann",
+          "D. Aslaksen",
+          "F. Petra"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following named participants are explicitly shown chairing the meeting, making procedural proposals, calling for procedure, or being called on to address the meeting?\n\nA. Dr. Stockmann\nB. Aslaksen\nC. the townspeople at the meeting\nD. Hovstad\nE. Peter Stockmann\nF. Captain Horster\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Dr. Stockmann",
+          "B. Aslaksen",
+          "C. the townspeople at the meeting",
+          "D. Hovstad",
+          "E. Peter Stockmann",
+          "F. Captain Horster"
+        ],
+        "answer": [
+          "A. Dr. Stockmann",
+          "B. Aslaksen",
+          "C. the townspeople at the meeting",
+          "D. Hovstad",
+          "E. Peter Stockmann"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following procedural meeting actions are carried out by Aslaksen?\n\nA. puts to vote\nB. elects chairman\nC. proposes resolution\nD. declares\nE. dissolves\nF. declines\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. puts to vote",
+          "B. elects chairman",
+          "C. proposes resolution",
+          "D. declares",
+          "E. dissolves",
+          "F. declines"
+        ],
+        "answer": [
+          "A. puts to vote",
+          "C. proposes resolution",
+          "D. declares",
+          "E. dissolves"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following are directly acted upon in the formal conduct of the meeting, such as limiting a speaker, preparing ballot slips, or dissolving the meeting?\n\nA. Dr. Stockmann\nB. the papers\nC. official hat\nD. mass meeting\nE. stones\nF. English story\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Dr. Stockmann",
+          "B. the papers",
+          "C. official hat",
+          "D. mass meeting",
+          "E. stones",
+          "F. English story"
+        ],
+        "answer": [
+          "A. Dr. Stockmann",
+          "B. the papers",
+          "D. mass meeting"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following characters or institutions are explicitly shown imposing formal sanctions, dismissing someone, or issuing a notice to quit?\n\nA. Mrs. Busk\nB. the Baths Committee\nC. Hovstad\nD. letter\nE. Captain Horster\nF. Petra\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Mrs. Busk",
+          "B. the Baths Committee",
+          "C. Hovstad",
+          "D. letter",
+          "E. Captain Horster",
+          "F. Petra"
+        ],
+        "answer": [
+          "A. Mrs. Busk",
+          "B. the Baths Committee"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following scientific descriptions of the Baths water contamination are explicitly mentioned?\n\nA. The water supply is explicitly stated to contain contaminants such as Infusoria\nB. The source of the contamination is explicitly traced to the Molledal area\nC. The contamination is explicitly attributed to visiting ships discharging waste into the Baths water source\nD. The contamination is explicitly tied to decomposing organic matter in the water.\nE. The contamination is explicitly explained as microorganisms naturally arising from old, deteriorated pipes themselves\nF. The Baths are explicitly described as posing a danger to public health\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. The water supply is explicitly stated to contain contaminants such as Infusoria",
+          "B. The source of the contamination is explicitly traced to the Molledal area",
+          "C. The contamination is explicitly attributed to visiting ships discharging waste into the Baths water source",
+          "D. The contamination is explicitly tied to decomposing organic matter in the water.",
+          "E. The contamination is explicitly explained as microorganisms naturally arising from old, deteriorated pipes themselves",
+          "F. The Baths are explicitly described as posing a danger to public health"
+        ],
+        "answer": [
+          "A. The water supply is explicitly stated to contain contaminants such as Infusoria",
+          "B. The source of the contamination is explicitly traced to the Molledal area",
+          "D. The contamination is explicitly tied to decomposing organic matter in the water.",
+          "F. The Baths are explicitly described as posing a danger to public health"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "In the circulation of the report, which things actually happened?\n\nA. Dr. Stockmann first prepared the report\nB. Dr. Stockmann later handed in the report\nC. Hovstad took charge of the report\nD. Peter Stockmann received and read the report\nE. The report was first rewritten as an open letter before being submitted\nF. The report was first taken by the landlord and then passed on to Peter\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Dr. Stockmann first prepared the report",
+          "B. Dr. Stockmann later handed in the report",
+          "C. Hovstad took charge of the report",
+          "D. Peter Stockmann received and read the report",
+          "E. The report was first rewritten as an open letter before being submitted",
+          "F. The report was first taken by the landlord and then passed on to Peter"
+        ],
+        "answer": [
+          "A. Dr. Stockmann first prepared the report",
+          "B. Dr. Stockmann later handed in the report",
+          "C. Hovstad took charge of the report",
+          "D. Peter Stockmann received and read the report"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following characters are involved in holding, giving, receiving, or showing a letter or letters?\n\nA. The postman was involved in delivering a letter\nB. Petra was involved in passing on a letter\nC. Mrs. Stockmann was involved in holding or passing on a letter\nD. Mrs. Busk was involved in showing letters\nE. Captain Horster was involved in receiving the anonymous letters\nF. The landlord was involved in sending a letter\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. The postman was involved in delivering a letter",
+          "B. Petra was involved in passing on a letter",
+          "C. Mrs. Stockmann was involved in holding or passing on a letter",
+          "D. Mrs. Busk was involved in showing letters",
+          "E. Captain Horster was involved in receiving the anonymous letters",
+          "F. The landlord was involved in sending a letter"
+        ],
+        "answer": [
+          "A. The postman was involved in delivering a letter",
+          "B. Petra was involved in passing on a letter",
+          "C. Mrs. Stockmann was involved in holding or passing on a letter",
+          "D. Mrs. Busk was involved in showing letters",
+          "F. The landlord was involved in sending a letter"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "In the later part of the text, which facts reflect friction between the Stockmann family and the existing educational or child-regulating system?\n\nA. Petra is dismissed by a figure within the school system\nB. Mr. Rorlund suggests that Dr. Stockmann's children should stay at home\nC. Dr. Stockmann decides not to let the children continue in the existing school system\nD. The children have a conflict with other boys\nE. Peter Stockmann officially approves the children's transfer to a new school\nF. Mrs. Busk withdraws the dismissal and invites the children back to school activities\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Petra is dismissed by a figure within the school system",
+          "B. Mr. Rorlund suggests that Dr. Stockmann's children should stay at home",
+          "C. Dr. Stockmann decides not to let the children continue in the existing school system",
+          "D. The children have a conflict with other boys",
+          "E. Peter Stockmann officially approves the children's transfer to a new school",
+          "F. Mrs. Busk withdraws the dismissal and invites the children back to school activities"
+        ],
+        "answer": [
+          "A. Petra is dismissed by a figure within the school system",
+          "B. Mr. Rorlund suggests that Dr. Stockmann's children should stay at home",
+          "C. Dr. Stockmann decides not to let the children continue in the existing school system",
+          "D. The children have a conflict with other boys"
+        ]
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What specific reason does Billing explicitly state for the town's opposition to Dr. Stockmann's article?\nA. The town is afraid of the financial burden of the proposed changes.\nB. The town is worried about the Mayor's reputation being damaged.\nC. The town is afraid of the social upheaval that the article might cause.\nD. The town is not ready for the truth and prefers to remain in ignorance.\nE. The town is more concerned with the personal interests of its leaders than with public health.\nF. Cannot infer the answer based on the given information.\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. The town is afraid of the financial burden of the proposed changes.",
+          "B. The town is worried about the Mayor's reputation being damaged.",
+          "C. The town is afraid of the social upheaval that the article might cause.",
+          "D. The town is not ready for the truth and prefers to remain in ignorance.",
+          "E. The town is more concerned with the personal interests of its leaders than with public health.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      }
+    ],
+    "conversation": {
+      "format_example": {
+        "speakers": [
+          "Speaker A",
+          "Speaker B"
+        ],
+        "session_1_date_time": "Unknown",
+        "session_1": [
+          {
+            "type": "dialogue",
+            "speaker": "Speaker A",
+            "dia_id": "D1:1",
+            "text": "Synthetic example utterance showing the dialogue schema."
+          },
+          {
+            "type": "narration",
+            "speaker": null,
+            "dia_id": "D1:2",
+            "text": "Synthetic non-dialogue scene description showing the narration schema."
+          }
+        ]
+      }
+    },
+    "sample_id": "conv-0"
+  }
+]

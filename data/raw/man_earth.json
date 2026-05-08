@@ -1,0 +1,1273 @@
+[
+  {
+    "qa": [
+      {
+        "qa_type": "single_choice",
+        "question": "Will’s reaction most strongly suggests what about the dynamic between him and Harry in that moment?\n\nA. Will is surprised by a misunderstanding, indicating he expected a different drink entirely.\nB. Will is trying to change the subject, using enthusiasm to avoid answering Harry directly.\nC. Will’s excited “Ohhh, yes!” reads as him going along with Harry’s pick to keep things friendly, suggesting deference to Harry’s lead rather than genuinely shared taste.\nD. Will is enthusiastically accepting Harry’s offer, signaling shared tastes and easy rapport.\nE. Will is reluctantly agreeing out of politeness, implying he does not actually like whiskey.\nF. Will’s drawn-out reaction implies he’s actually pushing back on Harry’s whiskey choice and that their rapport is a bit strained, as if Harry’s suggestion misses what Will wanted.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Will is surprised by a misunderstanding, indicating he expected a different drink entirely.",
+          "B. Will is trying to change the subject, using enthusiasm to avoid answering Harry directly.",
+          "C. Will’s excited “Ohhh, yes!” reads as him going along with Harry’s pick to keep things friendly, suggesting deference to Harry’s lead rather than genuinely shared taste.",
+          "D. Will is enthusiastically accepting Harry’s offer, signaling shared tastes and easy rapport.",
+          "E. Will is reluctantly agreeing out of politeness, implying he does not actually like whiskey.",
+          "F. Will’s drawn-out reaction implies he’s actually pushing back on Harry’s whiskey choice and that their rapport is a bit strained, as if Harry’s suggestion misses what Will wanted."
+        ],
+        "answer": "D. Will is enthusiastically accepting Harry’s offer, signaling shared tastes and easy rapport."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Based on John’s own statements, which option most accurately captures both of the following:\n(1) his attitude toward the existence of God, and\n(2) his attitude toward whether the universe was created?\n\nA. He explicitly affirms that God exists, and he explicitly affirms that the universe was created.\nB. He explicitly denies that God exists, and he explicitly denies that the universe was created.\nC. He declines to affirm God’s existence, while also declining to affirm that the universe was created.\nD. He declines to affirm God’s existence, but he explicitly affirms that the universe was created.\nE. He explicitly affirms that God exists, but he declines to affirm that the universe was created.\nF. He explicitly denies that God exists, but remains open to the possibility that the universe was created.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He explicitly affirms that God exists, and he explicitly affirms that the universe was created.",
+          "B. He explicitly denies that God exists, and he explicitly denies that the universe was created.",
+          "C. He declines to affirm God’s existence, while also declining to affirm that the universe was created.",
+          "D. He declines to affirm God’s existence, but he explicitly affirms that the universe was created.",
+          "E. He explicitly affirms that God exists, but he declines to affirm that the universe was created.",
+          "F. He explicitly denies that God exists, but remains open to the possibility that the universe was created."
+        ],
+        "answer": "C. He declines to affirm God’s existence, while also declining to affirm that the universe was created."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What role is Edith most strongly implied to play in the handling of the carved flint tool during this moment?\n\nA. She is the expert who initially identifies the correct tool and directs others on how to use it.\nB. She acts as an unwilling participant who tries to avoid touching the tool but is forced to take it anyway.\nC. She functions as a temporary custodian between the person who retrieves the tool and the person who restores it.\nD. She is the primary owner of the tool, and others defer to her to control access to it.\nE. She serves as an intermediary who briefly holds the tool, but she is also the one expected to return it to the box afterward.\nF. She appears to be the one who retrieves the carved flint tool and then passes it along, positioning her as the key handoff point before John takes responsibility for putting it away.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She is the expert who initially identifies the correct tool and directs others on how to use it.",
+          "B. She acts as an unwilling participant who tries to avoid touching the tool but is forced to take it anyway.",
+          "C. She functions as a temporary custodian between the person who retrieves the tool and the person who restores it.",
+          "D. She is the primary owner of the tool, and others defer to her to control access to it.",
+          "E. She serves as an intermediary who briefly holds the tool, but she is also the one expected to return it to the box afterward.",
+          "F. She appears to be the one who retrieves the carved flint tool and then passes it along, positioning her as the key handoff point before John takes responsibility for putting it away."
+        ],
+        "answer": "C. She functions as a temporary custodian between the person who retrieves the tool and the person who restores it."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What do the objects John is shown handling most strongly suggest about the nature of what he and his friends are moving?\n\nA. They are clearing out a warehouse shipment where all items are treated as uniform cargo.\nB. They are mainly moving everyday household goods and supplies for a casual gathering.\nC. They are transporting a mixed load that includes both consumables and items that likely require careful, deliberate handling.\nD. They are relocating construction materials, with tools included only for practical work at the destination.\nE. They are transporting a mixed load, but it is primarily routine supplies—heavy boxes and a box of scotch—while the carved flint tool and burin appear to be minor, incidental items rather than things demanding special care.\nF. They are transporting a mixed load that includes beverages and some boxed implements, but the handling suggests uncertainty and casualness—Dan struggles while John hesitates, and Edith ultimately puts the burin away—implying the items are ordinary supplies rather than objects requiring especially deliberate handling.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. They are clearing out a warehouse shipment where all items are treated as uniform cargo.",
+          "B. They are mainly moving everyday household goods and supplies for a casual gathering.",
+          "C. They are transporting a mixed load that includes both consumables and items that likely require careful, deliberate handling.",
+          "D. They are relocating construction materials, with tools included only for practical work at the destination.",
+          "E. They are transporting a mixed load, but it is primarily routine supplies—heavy boxes and a box of scotch—while the carved flint tool and burin appear to be minor, incidental items rather than things demanding special care.",
+          "F. They are transporting a mixed load that includes beverages and some boxed implements, but the handling suggests uncertainty and casualness—Dan struggles while John hesitates, and Edith ultimately puts the burin away—implying the items are ordinary supplies rather than objects requiring especially deliberate handling."
+        ],
+        "answer": "C. They are transporting a mixed load that includes both consumables and items that likely require careful, deliberate handling."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "A teacher wants to test whether students can infer both an artifact’s practical function and why it would be considered unusually impressive within its cultural context. Based on the discussion of the burin, which interpretation best fits what the group collectively implies?\n\nA. It is a flint tool used to groove hard organic materials like antler for making weapon points, and it is impressive because such high-quality flint work is not typically associated with Magdalenians.\nB. It is a bone tool primarily used for carving decorative motifs, and it is impressive because Magdalenian artisans were famous for bone craftsmanship.\nC. It is a woodworking chisel for shaping soft timber, and it is impressive because Magdalenians were especially known for advanced carpentry.\nD. It is an early Magdalenian weapon tip itself, and it is impressive because its parrot-beak form is a rare Magdalenian design.\nE. It is a flint burin used to groove antler and other hard organic materials for making spear or harpoon points, and it is impressive mainly because it appears to be early Magdalenian.\nF. It is a parrot‑beak flint tool used largely for shaving hide and cutting meat, and it is impressive mostly because Magdalenian groups were known for flint work—making it a fairly typical but well-made specimen.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. It is a flint tool used to groove hard organic materials like antler for making weapon points, and it is impressive because such high-quality flint work is not typically associated with Magdalenians.",
+          "B. It is a bone tool primarily used for carving decorative motifs, and it is impressive because Magdalenian artisans were famous for bone craftsmanship.",
+          "C. It is a woodworking chisel for shaping soft timber, and it is impressive because Magdalenians were especially known for advanced carpentry.",
+          "D. It is an early Magdalenian weapon tip itself, and it is impressive because its parrot-beak form is a rare Magdalenian design.",
+          "E. It is a flint burin used to groove antler and other hard organic materials for making spear or harpoon points, and it is impressive mainly because it appears to be early Magdalenian.",
+          "F. It is a parrot‑beak flint tool used largely for shaving hide and cutting meat, and it is impressive mostly because Magdalenian groups were known for flint work—making it a fairly typical but well-made specimen."
+        ],
+        "answer": "A. It is a flint tool used to groove hard organic materials like antler for making weapon points, and it is impressive because such high-quality flint work is not typically associated with Magdalenians."
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "In this exchange, what is Dan primarily trying to accomplish with his two-word follow-up?\n\nA. He is lightly needling Harry by demanding a precise split, implying that Harry’s “half” claim is arbitrary and that far less than half would actually stand up.\nB. He is expressing agreement with Harry while inviting him to elaborate in a supportive way.\nC. He is genuinely seeking clarification about which specific biological topics Harry believes are now invalid.\nD. He is shifting the conversation away from biology toward a different subject by forcing a new framing.\nE. He is using a pointed question to challenge Harry’s implied confidence and expose potential overstatement.\nF. He is trying to get Harry to single out the “chemistry” portion he thinks is wrong so Dan can turn it back on him and suggest Harry is the one who keeps getting that half wrong.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. He is lightly needling Harry by demanding a precise split, implying that Harry’s “half” claim is arbitrary and that far less than half would actually stand up.",
+          "B. He is expressing agreement with Harry while inviting him to elaborate in a supportive way.",
+          "C. He is genuinely seeking clarification about which specific biological topics Harry believes are now invalid.",
+          "D. He is shifting the conversation away from biology toward a different subject by forcing a new framing.",
+          "E. He is using a pointed question to challenge Harry’s implied confidence and expose potential overstatement.",
+          "F. He is trying to get Harry to single out the “chemistry” portion he thinks is wrong so Dan can turn it back on him and suggest Harry is the one who keeps getting that half wrong."
+        ],
+        "answer": [
+          "A. He is lightly needling Harry by demanding a precise split, implying that Harry’s “half” claim is arbitrary and that far less than half would actually stand up.",
+          "E. He is using a pointed question to challenge Harry’s implied confidence and expose potential overstatement."
+        ]
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is Will functionally doing by repeatedly framing his response as a willingness to have the other person \"helped\" in an institutional setting?\n\nA. He is joking to defuse tension, signaling that he does not intend to take any formal action.\nB. He is positioning the institutional “help” as a contingent next step to investigate the other person’s claims, making it sound like a routine, fact-finding interview rather than a coercive threat.\nC. He is making a sincere offer of medical assistance because he believes the other person is in immediate danger of self-harm.\nD. He is formally initiating an involuntary commitment process and stating that the decision has already been made.\nE. He is using professional authority as leverage to pressure the other person to stop pursuing the issue, disguising the threat as concern.\nF. He is presenting “help” as a protective reassurance—implying that if the other person backs off he won’t have them committed—so the institutional option functions as a conditional safeguard instead of leverage.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He is joking to defuse tension, signaling that he does not intend to take any formal action.",
+          "B. He is positioning the institutional “help” as a contingent next step to investigate the other person’s claims, making it sound like a routine, fact-finding interview rather than a coercive threat.",
+          "C. He is making a sincere offer of medical assistance because he believes the other person is in immediate danger of self-harm.",
+          "D. He is formally initiating an involuntary commitment process and stating that the decision has already been made.",
+          "E. He is using professional authority as leverage to pressure the other person to stop pursuing the issue, disguising the threat as concern.",
+          "F. He is presenting “help” as a protective reassurance—implying that if the other person backs off he won’t have them committed—so the institutional option functions as a conditional safeguard instead of leverage."
+        ],
+        "answer": "E. He is using professional authority as leverage to pressure the other person to stop pursuing the issue, disguising the threat as concern."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Across these moments, what is the most plausible function of Sandy’s blunt remark?\n\nA. It’s a sarcastic rejection directed at Art’s declaration that he’s leaving, as if she’s calling his bluff and refusing to let him dismiss what’s happening by walking out.\nB. It’s a literal response to a question about her physical condition, unrelated to the surrounding conflict.\nC. It’s an apologetic backtrack meant to smooth over tension after she realizes she overreacted.\nD. It is Sandy's blunt rejection of the group's judgment that John has used or abused his friends' goodwill, because she still trusts his character.\nE. It’s an explicit confirmation that she agrees the situation is hopeless and that leaving is the only rational move.\nF. It’s a grudging, self-blaming admission that she’s at fault—an attempt to own the tension and defuse the moment as others pull back from leaving.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. It’s a sarcastic rejection directed at Art’s declaration that he’s leaving, as if she’s calling his bluff and refusing to let him dismiss what’s happening by walking out.",
+          "B. It’s a literal response to a question about her physical condition, unrelated to the surrounding conflict.",
+          "C. It’s an apologetic backtrack meant to smooth over tension after she realizes she overreacted.",
+          "D. It is Sandy's blunt rejection of the group's judgment that John has used or abused his friends' goodwill, because she still trusts his character.",
+          "E. It’s an explicit confirmation that she agrees the situation is hopeless and that leaving is the only rational move.",
+          "F. It’s a grudging, self-blaming admission that she’s at fault—an attempt to own the tension and defuse the moment as others pull back from leaving."
+        ],
+        "answer": "D. It is Sandy's blunt rejection of the group's judgment that John has used or abused his friends' goodwill, because she still trusts his character."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is Dan most plausibly conveying by telling John, \"I envy you\"?\n\nA. He believes John already has concrete resources or authority to lead a Mars-bound colony, while Dan does not.\nB. He thinks John has discovered a proven life-extension mechanism that will guarantee survival for thousands of years.\nC. He is frustrated that John keeps escalating the discussion from Mars to interstellar travel instead of staying realistic.\nD. He envies John because John has a concrete chance to join the first Mars colony and personally live through its earliest expansion.\nE. He expects John to be among those who can emotionally embrace a long-term, multi-planet future that Dan himself finds difficult to imagine living through.\nF. He’s suggesting John is likely to be one of the people who actually gets to take part in the first Mars colony—while Dan, lacking the means or opportunity, can only look on with envy.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He believes John already has concrete resources or authority to lead a Mars-bound colony, while Dan does not.",
+          "B. He thinks John has discovered a proven life-extension mechanism that will guarantee survival for thousands of years.",
+          "C. He is frustrated that John keeps escalating the discussion from Mars to interstellar travel instead of staying realistic.",
+          "D. He envies John because John has a concrete chance to join the first Mars colony and personally live through its earliest expansion.",
+          "E. He expects John to be among those who can emotionally embrace a long-term, multi-planet future that Dan himself finds difficult to imagine living through.",
+          "F. He’s suggesting John is likely to be one of the people who actually gets to take part in the first Mars colony—while Dan, lacking the means or opportunity, can only look on with envy."
+        ],
+        "answer": "E. He expects John to be among those who can emotionally embrace a long-term, multi-planet future that Dan himself finds difficult to imagine living through."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What role is Sandy most plausibly taking on in this moment?\n\nA. A supportive partner who verbally agrees to help, but hesitates and leaves John to carry the boxes out by himself\nB. A supportive partner who agrees to assist and physically follows through alongside John\nC. A supervisor who delegates the physical work to John while monitoring from a distance\nD. A reluctant bystander who stays behind while John handles the task alone\nE. An anxious skeptic who believes the plan is irrational and tries to dissuade John\nF. A tentative helper who says she can try, then exits with John while leaving the boxes behind as a reaction to the eerie coyote howls\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. A supportive partner who verbally agrees to help, but hesitates and leaves John to carry the boxes out by himself",
+          "B. A supportive partner who agrees to assist and physically follows through alongside John",
+          "C. A supervisor who delegates the physical work to John while monitoring from a distance",
+          "D. A reluctant bystander who stays behind while John handles the task alone",
+          "E. An anxious skeptic who believes the plan is irrational and tries to dissuade John",
+          "F. A tentative helper who says she can try, then exits with John while leaving the boxes behind as a reaction to the eerie coyote howls"
+        ],
+        "answer": "B. A supportive partner who agrees to assist and physically follows through alongside John"
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "In this exchange, what do Dan and Will’s repeated “I’d like to hear more” most strongly suggest about their stance toward the discussion Linda is controlling?\n\nA. They are shifting the burden of proof to Linda because they refuse to state any position of their own.\nB. They are signaling genuine openness to being persuaded, despite framing themselves as skeptical or inexperienced.\nC. They are conceding that Linda has already proven her point and are asking only for supporting details.\nD. They remain cautious rather than fully convinced, but their requests to hear more keep the conversation open instead of shutting John down.\nE. They are subtly mocking Linda by imitating each other’s phrasing to undermine her authority.\nF. They’re signaling that Linda’s discussion is basically complete and they don’t need further argument, with “I’d like to hear more” functioning more like a perfunctory tag than genuine curiosity.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. They are shifting the burden of proof to Linda because they refuse to state any position of their own.",
+          "B. They are signaling genuine openness to being persuaded, despite framing themselves as skeptical or inexperienced.",
+          "C. They are conceding that Linda has already proven her point and are asking only for supporting details.",
+          "D. They remain cautious rather than fully convinced, but their requests to hear more keep the conversation open instead of shutting John down.",
+          "E. They are subtly mocking Linda by imitating each other’s phrasing to undermine her authority.",
+          "F. They’re signaling that Linda’s discussion is basically complete and they don’t need further argument, with “I’d like to hear more” functioning more like a perfunctory tag than genuine curiosity."
+        ],
+        "answer": [
+          "B. They are signaling genuine openness to being persuaded, despite framing themselves as skeptical or inexperienced.",
+          "D. They remain cautious rather than fully convinced, but their requests to hear more keep the conversation open instead of shutting John down."
+        ]
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is the strongest inference about how Edith came to know the dedication’s intended recipient?\n\nA. She inferred the recipient from the fact that the inscription was in French, without needing the exact wording.\nB. She deduced it from a distinctive visual clue on the painting’s front without checking the back.\nC. She recognized the name from a prior conversation and only asked about it to confirm Dan’s memory.\nD. She learned it by physically examining the painting in a way that exposed text Dan had noticed, then read the dedication herself.\nE. She learned it by inspecting the painting after Dan mentioned there was French writing on the back, and inferred the recipient from that fact without needing to read the dedication’s exact wording herself.\nF. She found out because Dan lifted the painting and pointed out an Italian inscription, and she accepted it was addressed to Jacque Borne—whom she assumed must be the painter.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She inferred the recipient from the fact that the inscription was in French, without needing the exact wording.",
+          "B. She deduced it from a distinctive visual clue on the painting’s front without checking the back.",
+          "C. She recognized the name from a prior conversation and only asked about it to confirm Dan’s memory.",
+          "D. She learned it by physically examining the painting in a way that exposed text Dan had noticed, then read the dedication herself.",
+          "E. She learned it by inspecting the painting after Dan mentioned there was French writing on the back, and inferred the recipient from that fact without needing to read the dedication’s exact wording herself.",
+          "F. She found out because Dan lifted the painting and pointed out an Italian inscription, and she accepted it was addressed to Jacque Borne—whom she assumed must be the painter."
+        ],
+        "answer": "D. She learned it by physically examining the painting in a way that exposed text Dan had noticed, then read the dedication herself."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is John most likely trying to accomplish in response to Edith’s reaction to the painting?\n\nA. Minimize Edith’s alarm by casually claiming it’s just an ordinary gift and leaving it where it is so the moment passes.\nB. Demonstrate lawful ownership by explaining its provenance and transporting it openly.\nC. Downplay the painting’s significance to defuse suspicion and quickly remove it from scrutiny.\nD. Invite Edith to authenticate the painting by letting her handle it and examine it closely.\nE. Prevent the painting from being damaged by moving it to a safer location.\nF. Keep Edith from getting too close by brushing off her concern and slipping the painting back behind him to maintain control while appearing unconcerned.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Minimize Edith’s alarm by casually claiming it’s just an ordinary gift and leaving it where it is so the moment passes.",
+          "B. Demonstrate lawful ownership by explaining its provenance and transporting it openly.",
+          "C. Downplay the painting’s significance to defuse suspicion and quickly remove it from scrutiny.",
+          "D. Invite Edith to authenticate the painting by letting her handle it and examine it closely.",
+          "E. Prevent the painting from being damaged by moving it to a safer location.",
+          "F. Keep Edith from getting too close by brushing off her concern and slipping the painting back behind him to maintain control while appearing unconcerned."
+        ],
+        "answer": "C. Downplay the painting’s significance to defuse suspicion and quickly remove it from scrutiny."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What best explains why Dan’s question would likely put John on the spot in front of Edith?\n\nA. Because Edith’s reaction treats the painting as something that might be genuine, Dan’s question abruptly forces John to state whether it is a reproduction.\nB. Because John has already admitted the artwork is forged, and Dan is trying to expose him to Edith.\nC. Because Dan is challenging Edith’s expertise, using John’s ownership as a way to undermine her claim.\nD. Because Edith recognizes the giver of the gift, so Dan’s question forces John to reveal that person’s identity.\nE. Because Edith has already authenticated the painting as an original van Gogh, Dan's question pressures John to prove lawful ownership rather than answer whether it is a reproduction.\nF. Because Edith seems to think the piece is an unfamiliar Monet, and Dan’s question about it being a reproduction forces John—who calls it an original gift—to justify its authenticity publicly in front of her.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Because Edith’s reaction treats the painting as something that might be genuine, Dan’s question abruptly forces John to state whether it is a reproduction.",
+          "B. Because John has already admitted the artwork is forged, and Dan is trying to expose him to Edith.",
+          "C. Because Dan is challenging Edith’s expertise, using John’s ownership as a way to undermine her claim.",
+          "D. Because Edith recognizes the giver of the gift, so Dan’s question forces John to reveal that person’s identity.",
+          "E. Because Edith has already authenticated the painting as an original van Gogh, Dan's question pressures John to prove lawful ownership rather than answer whether it is a reproduction.",
+          "F. Because Edith seems to think the piece is an unfamiliar Monet, and Dan’s question about it being a reproduction forces John—who calls it an original gift—to justify its authenticity publicly in front of her."
+        ],
+        "answer": "A. Because Edith’s reaction treats the painting as something that might be genuine, Dan’s question abruptly forces John to state whether it is a reproduction."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is John most likely trying to accomplish in this exchange?\n\nA. Confirm the painting is a genuine van Gogh by soliciting Edith's expertise and pushing her toward a definitive judgment.\nB. Hide that the painting is a forgery by refusing scrutiny and shutting down further questions.\nC. Calm suspicion by framing the painting as a harmless gift and genuinely inviting Edith to seriously verify whether it is authentic.\nD. Deflect suspicion by downplaying the painting as merely a gift, while allowing inspection only in a noncommittal way rather than actively seeking a serious authenticity check.\nE. Signal that the painting is counterfeit by emphasizing it is a copy and discouraging anyone from treating it as valuable.\nF. Reduce doubt by claiming he only stumbled upon the painting and can’t vouch for it, while subtly steering the others away from a close inspection for the moment.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Confirm the painting is a genuine van Gogh by soliciting Edith's expertise and pushing her toward a definitive judgment.",
+          "B. Hide that the painting is a forgery by refusing scrutiny and shutting down further questions.",
+          "C. Calm suspicion by framing the painting as a harmless gift and genuinely inviting Edith to seriously verify whether it is authentic.",
+          "D. Deflect suspicion by downplaying the painting as merely a gift, while allowing inspection only in a noncommittal way rather than actively seeking a serious authenticity check.",
+          "E. Signal that the painting is counterfeit by emphasizing it is a copy and discouraging anyone from treating it as valuable.",
+          "F. Reduce doubt by claiming he only stumbled upon the painting and can’t vouch for it, while subtly steering the others away from a close inspection for the moment."
+        ],
+        "answer": "D. Deflect suspicion by downplaying the painting as merely a gift, while allowing inspection only in a noncommittal way rather than actively seeking a serious authenticity check."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What does Dan’s shift from commenting on an object’s authenticity to interrogating John about his departure most strongly suggest about Dan’s underlying concern?\n\nA. He already knows John’s destination and is testing whether John will admit the truth voluntarily.\nB. He is trying to translate the French writing and needs to know where John is going to get help with it.\nC. He interprets John’s abrupt leaving as suspicious and assumes John is trying to avoid explaining himself, so he presses for details mainly to catch him in an inconsistency rather than out of genuine concern about a problem.\nD. He suspects the item is fake and is using the departure as a pretext to confront John about the forgery.\nE. He reads John’s sudden exit as a sign of a personal or situational problem and uses probing questions to confirm it.\nF. He’s preoccupied with whether the piece is a reproduction with Spanish writing, and John’s sudden change in plans makes him think John is hiding something connected to that, so the “departure” questions are a way to pursue the object issue indirectly.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He already knows John’s destination and is testing whether John will admit the truth voluntarily.",
+          "B. He is trying to translate the French writing and needs to know where John is going to get help with it.",
+          "C. He interprets John’s abrupt leaving as suspicious and assumes John is trying to avoid explaining himself, so he presses for details mainly to catch him in an inconsistency rather than out of genuine concern about a problem.",
+          "D. He suspects the item is fake and is using the departure as a pretext to confront John about the forgery.",
+          "E. He reads John’s sudden exit as a sign of a personal or situational problem and uses probing questions to confirm it.",
+          "F. He’s preoccupied with whether the piece is a reproduction with Spanish writing, and John’s sudden change in plans makes him think John is hiding something connected to that, so the “departure” questions are a way to pursue the object issue indirectly."
+        ],
+        "answer": "E. He reads John’s sudden exit as a sign of a personal or situational problem and uses probing questions to confirm it."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What sequence of actions does John take regarding the items in his home before his friends sit down inside?\nA. He places the painting in the truck, then directs the food to the kitchen.\nB. He packs the bow into his truck, then brings out a box of plastic cups.\nC. He unloads the scotch from the truck and places the Van Gogh painting inside the kitchen.\nD. He meticulously prepares the tacos and chicken wings before bringing out the scotch.\nE. He loads the painting into the truck, directs the food to the kitchen, and only much later says he will keep the couch after the friends have already been inside.\nF. Cannot infer the answer based on the given information.\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He places the painting in the truck, then directs the food to the kitchen.",
+          "B. He packs the bow into his truck, then brings out a box of plastic cups.",
+          "C. He unloads the scotch from the truck and places the Van Gogh painting inside the kitchen.",
+          "D. He meticulously prepares the tacos and chicken wings before bringing out the scotch.",
+          "E. He loads the painting into the truck, directs the food to the kitchen, and only much later says he will keep the couch after the friends have already been inside.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. He places the painting in the truck, then directs the food to the kitchen."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which of the following describes Dan's underlying emotional reaction to Art's published book?\n\nA. He believes it is irrelevant to modern history.\nB. He wants to assign it to his own students.\nC. He is eager to borrow it after John finishes reading.\nD. He is deeply jealous of the publication.\nE. He strongly critiques its methodology.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He believes it is irrelevant to modern history.",
+          "B. He wants to assign it to his own students.",
+          "C. He is eager to borrow it after John finishes reading.",
+          "D. He is deeply jealous of the publication.",
+          "E. He strongly critiques its methodology.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What religious identity is most clearly associated with Edith in the dialogue?\n\nA. She practices a unique blend of ancient pagan rituals and modern spirituality.\nB. She is a devout practitioner of Eastern mysticism.\nC. She is a religious Christian believer who defends faith and scripture, though she does not necessarily accept every biblical detail literally.\nD. She is openly atheist and frequently debates religious scholars.\nE. She believes that art is the only true form of divine communication.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She practices a unique blend of ancient pagan rituals and modern spirituality.",
+          "B. She is a devout practitioner of Eastern mysticism.",
+          "C. She is a religious Christian believer who defends faith and scripture, though she does not necessarily accept every biblical detail literally.",
+          "D. She is openly atheist and frequently debates religious scholars.",
+          "E. She believes that art is the only true form of divine communication.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. She is a religious Christian believer who defends faith and scripture, though she does not necessarily accept every biblical detail literally."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What precise grade did Linda receive in Dr. Jenkins' archaeology class last semester?\n\nA. She barely passed with a C-minus.\nB. She received a B-plus after submitting extra credit.\nC. She achieved a perfect score on her final exam.\nD. She received an A for Awesome.\nE. She failed the class completely.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She barely passed with a C-minus.",
+          "B. She received a B-plus after submitting extra credit.",
+          "C. She achieved a perfect score on her final exam.",
+          "D. She received an A for Awesome.",
+          "E. She failed the class completely.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What physical activity does Dan engage in before inquiring about John's hunting habits?\n\nA. He rides on the back of Art's motorcycle.\nB. He unloads the tuna salad and beer from his own vehicle.\nC. He carefully examines the Van Gogh painting in the kitchen.\nD. He helps lift a heavy box onto the truck, then sits on the floor inside.\nE. He deliberately pours the Johnny Walker Green into several plastic cups.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He rides on the back of Art's motorcycle.",
+          "B. He unloads the tuna salad and beer from his own vehicle.",
+          "C. He carefully examines the Van Gogh painting in the kitchen.",
+          "D. He helps lift a heavy box onto the truck, then sits on the floor inside.",
+          "E. He deliberately pours the Johnny Walker Green into several plastic cups.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. He helps lift a heavy box onto the truck, then sits on the floor inside."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What did Sandy bring back to the room when she returned from her trip?\n\nA. Ellie's midterm along with the periodicals.\nB. The ringing telephone.\nC. A bottle of whiskey for John.\nD. A plate of hot food from the kitchen.\nE. The carved flint tool from the box.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Ellie's midterm along with the periodicals.",
+          "B. The ringing telephone.",
+          "C. A bottle of whiskey for John.",
+          "D. A plate of hot food from the kitchen.",
+          "E. The carved flint tool from the box.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. Ellie's midterm along with the periodicals."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Based on her questions throughout the afternoon, what type of information is Linda primarily seeking?\n\nA. The exact price and thrift shop origin of the artifacts.\nB. The underlying reasons behind John's departure.\nC. Explanations of biological cellular regeneration processes.\nD. Clarifications on historical tools, evolutionary advantages, and geography.\nE. Details about John's specific personal relationships.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. The exact price and thrift shop origin of the artifacts.",
+          "B. The underlying reasons behind John's departure.",
+          "C. Explanations of biological cellular regeneration processes.",
+          "D. Clarifications on historical tools, evolutionary advantages, and geography.",
+          "E. Details about John's specific personal relationships.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. Clarifications on historical tools, evolutionary advantages, and geography."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "When Linda asks a question about the terrain, who does she direct it to, and who answers?\n\nA. She asks Art about the plains, but Harry answers.\nB. She asks Edith about the burin, and John answers.\nC. She directs the ocean/terrain question to John, and John answers by saying he did not see oceans until later.\nD. She asks Dan about the Pleistocene, but Art answers.\nE. She asks John about the selective advantage of height, and Dan answers.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She asks Art about the plains, but Harry answers.",
+          "B. She asks Edith about the burin, and John answers.",
+          "C. She directs the ocean/terrain question to John, and John answers by saying he did not see oceans until later.",
+          "D. She asks Dan about the Pleistocene, but Art answers.",
+          "E. She asks John about the selective advantage of height, and Dan answers.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. She directs the ocean/terrain question to John, and John answers by saying he did not see oceans until later."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Following John's caveman grunt and Sandy's joke, how does Art characterize John's explanation of moving every ten years?\n\nA. He dismisses it as a vampire myth.\nB. He praises it as 'very good' and 'very quick', treating it like a story he wants to read.\nC. He calls it an anthropological boner.\nD. He says it perfectly fits into any textbook.\nE. He questions the selective advantage of such behavior.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He dismisses it as a vampire myth.",
+          "B. He praises it as 'very good' and 'very quick', treating it like a story he wants to read.",
+          "C. He calls it an anthropological boner.",
+          "D. He says it perfectly fits into any textbook.",
+          "E. He questions the selective advantage of such behavior.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. He praises it as 'very good' and 'very quick', treating it like a story he wants to read."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does Harry's approach to John's narrative evolve over the course of the discussion?\n\nA. He begins by checking the room for hidden microphones, then completely accepts John's immortality.\nB. He demands artifacts at the beginning and later dismisses John as a fraud.\nC. He starts by physically attacking John, but later sits quietly and takes notes.\nD. He mocks John's pig farmer story initially, but later earnestly asks him about the Buddha.\nE. He initially defends the intellectual exercise of John's story, but later attempts a physical ambush to test John's claims.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He begins by checking the room for hidden microphones, then completely accepts John's immortality.",
+          "B. He demands artifacts at the beginning and later dismisses John as a fraud.",
+          "C. He starts by physically attacking John, but later sits quietly and takes notes.",
+          "D. He mocks John's pig farmer story initially, but later earnestly asks him about the Buddha.",
+          "E. He initially defends the intellectual exercise of John's story, but later attempts a physical ambush to test John's claims.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. He initially defends the intellectual exercise of John's story, but later attempts a physical ambush to test John's claims."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does Linda attempt to validate John's professional reputation during their conversation about prehistoric survival?\n\nA. She asks if his hunting stories are the reason his students find his historical knowledge so amazing.\nB. She points out that Professor Hansen's lectures corroborate his story.\nC. She asks him to draw the animals to prove he was actually there.\nD. She defends his account of Les Eyzies against Art's skepticism.\nE. She suggests he publish his theories on cave art to gain academic tenure.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She asks if his hunting stories are the reason his students find his historical knowledge so amazing.",
+          "B. She points out that Professor Hansen's lectures corroborate his story.",
+          "C. She asks him to draw the animals to prove he was actually there.",
+          "D. She defends his account of Les Eyzies against Art's skepticism.",
+          "E. She suggests he publish his theories on cave art to gain academic tenure.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. She asks if his hunting stories are the reason his students find his historical knowledge so amazing."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which specific artist did Edith identify when she first examined John's painting?\n\nA. Paul Cezanne\nB. Vincent Van Gogh\nC. Camille Pissarro\nD. J.M.W. Turner\nE. Emil Nolde\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Paul Cezanne",
+          "B. Vincent Van Gogh",
+          "C. Camille Pissarro",
+          "D. J.M.W. Turner",
+          "E. Emil Nolde",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. Vincent Van Gogh"
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How did Edith's opinion of John's mental state change between discovering his Van Gogh claim and his story about the chief?\n\nA. She was amused at first, but later demanded that Dan stop encouraging him.\nB. She was highly skeptical of his Van Gogh claim, but believed he actually met the Buddha.\nC. She was horrified by the Van Gogh story, but found the caveman story fascinating.\nD. She thought he was a genius initially, but later realized he was stealing from textbooks.\nE. She defended him early on, but eventually threatened to call the authorities.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She was amused at first, but later demanded that Dan stop encouraging him.",
+          "B. She was highly skeptical of his Van Gogh claim, but believed he actually met the Buddha.",
+          "C. She was horrified by the Van Gogh story, but found the caveman story fascinating.",
+          "D. She thought he was a genius initially, but later realized he was stealing from textbooks.",
+          "E. She defended him early on, but eventually threatened to call the authorities.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which colleague did Edith directly admonish for perpetuating John's narrative?\n\nA. Harry\nB. Linda\nC. Dan\nD. Art\nE. Sandy\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Harry",
+          "B. Linda",
+          "C. Dan",
+          "D. Art",
+          "E. Sandy",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. Dan"
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is Sandy's exact major or field of study as mentioned in the dialogue?\n\nA. She is studying Biology under Harry.\nB. She is studying Psychology in Will's Tuesday Psych 1 class.\nC. She is studying Physics under Dan.\nD. She is a tenured professor of History.\nE. She is studying Anthropology.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She is studying Biology under Harry.",
+          "B. She is studying Psychology in Will's Tuesday Psych 1 class.",
+          "C. She is studying Physics under Dan.",
+          "D. She is a tenured professor of History.",
+          "E. She is studying Anthropology.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which statement accurately describes Harry's professional background and approach to John's claims?\n\nA. He is a historian who attempts to verify John's claims about surviving the bubonic plague.\nB. He is a biologist who offers to run medical tests on John in his lab to verify his physical anomalies.\nC. He is a physicist who tries to explain John's existence through relativity and quantum mechanics.\nD. He is an anthropologist who wants to measure John's skull to confirm his Cro-Magnon origins.\nE. He is a psychiatrist who wants to psychoanalyze John's caveman delusions.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He is a historian who attempts to verify John's claims about surviving the bubonic plague.",
+          "B. He is a biologist who offers to run medical tests on John in his lab to verify his physical anomalies.",
+          "C. He is a physicist who tries to explain John's existence through relativity and quantum mechanics.",
+          "D. He is an anthropologist who wants to measure John's skull to confirm his Cro-Magnon origins.",
+          "E. He is a psychiatrist who wants to psychoanalyze John's caveman delusions.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. He is a biologist who offers to run medical tests on John in his lab to verify his physical anomalies."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What specific action did Edith take when Harry offered the whiskey?\n\nA. She demanded that John take a drink first to prove his immunity.\nB. She spilled her drink in shock.\nC. She participates in the whiskey toast after Harry pours glasses, saying \"Na Z'drovya!\"\nD. She grabbed the bottle from Harry.\nE. She declined and asked for water instead.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She demanded that John take a drink first to prove his immunity.",
+          "B. She spilled her drink in shock.",
+          "C. She participates in the whiskey toast after Harry pours glasses, saying \"Na Z'drovya!\"",
+          "D. She grabbed the bottle from Harry.",
+          "E. She declined and asked for water instead.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. She participates in the whiskey toast after Harry pours glasses, saying \"Na Z'drovya!\""
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What specific nickname or title does Art use to announce Will's arrival?\n\nA. Dr. Gruber.\nB. The Shaman.\nC. The good cop.\nD. The caveman.\nE. Dr. Freud.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Dr. Gruber.",
+          "B. The Shaman.",
+          "C. The good cop.",
+          "D. The caveman.",
+          "E. Dr. Freud.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. Dr. Freud."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does Art interact with John regarding the possibility of the story being true?\n\nA. Art demands that John provide a blood sample to Harry to prove the truth.\nB. Art begs John to admit it is a lie so the group can go back to normal.\nC. Art argues that if it were true, John wouldn't be telling them, because they would just spread the story to everyone.\nD. Art agrees with Dan that they should accept it as true for the sake of argument.\nE. Art reassures John that their friendship will endure regardless of the truth.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Art demands that John provide a blood sample to Harry to prove the truth.",
+          "B. Art begs John to admit it is a lie so the group can go back to normal.",
+          "C. Art argues that if it were true, John wouldn't be telling them, because they would just spread the story to everyone.",
+          "D. Art agrees with Dan that they should accept it as true for the sake of argument.",
+          "E. Art reassures John that their friendship will endure regardless of the truth.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. Art argues that if it were true, John wouldn't be telling them, because they would just spread the story to everyone."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is the most accurate reflection of Linda's attitude toward John's story?\n\nA. She is supportive and wants to remain courteous.\nB. She is dismissive and thinks it's nonsense.\nC. She is angry and wants to leave immediately.\nD. She is curious and wants to explore it further.\nE. She is skeptical and thinks it's a joke.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She is supportive and wants to remain courteous.",
+          "B. She is dismissive and thinks it's nonsense.",
+          "C. She is angry and wants to leave immediately.",
+          "D. She is curious and wants to explore it further.",
+          "E. She is skeptical and thinks it's a joke.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. She is curious and wants to explore it further."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is the most accurate reflection of Harry's attitude toward John's story?\n\nA. He is angry and wants to leave immediately.\nB. He is skeptical and wants to test John.\nC. He is fascinated and wants to hear more.\nD. He is dismissive and thinks it's nonsense.\nE. He is indifferent and doesn't care.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He is angry and wants to leave immediately.",
+          "B. He is skeptical and wants to test John.",
+          "C. He is fascinated and wants to hear more.",
+          "D. He is dismissive and thinks it's nonsense.",
+          "E. He is indifferent and doesn't care.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. He is skeptical and wants to test John."
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "What may be an accurate reflection of Art's attitude toward John's story?\n\nA. He is fascinated and wants to hear more.\nB. He is indifferent and doesn't care.\nC. He is skeptical and thinks it's nonsense.\nD. He is supportive and wants to believe John.\nE. He is angry and wants to leave immediately.\nF. Cannot infer the answer based on the given information.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. He is fascinated and wants to hear more.",
+          "B. He is indifferent and doesn't care.",
+          "C. He is skeptical and thinks it's nonsense.",
+          "D. He is supportive and wants to believe John.",
+          "E. He is angry and wants to leave immediately.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": [
+          "A. He is fascinated and wants to hear more.",
+          "C. He is skeptical and thinks it's nonsense.",
+          "E. He is angry and wants to leave immediately."
+        ]
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How did Sandy's view of Will's interrogation tactics evolve throughout the afternoon?\n\nA. She encouraged Dan to attack Will when Will began asking about John's wives.\nB. She started to agree with Will's theory about John being a vampire.\nC. She found his questions amusing at first but became terrified when he pulled the gun.\nD. She initially supported his questions but later asked him to stop.\nE. She continuously defended John's right to keep his furniture.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She encouraged Dan to attack Will when Will began asking about John's wives.",
+          "B. She started to agree with Will's theory about John being a vampire.",
+          "C. She found his questions amusing at first but became terrified when he pulled the gun.",
+          "D. She initially supported his questions but later asked him to stop.",
+          "E. She continuously defended John's right to keep his furniture.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What specific word does Linda use to prompt Harry for more information?\n\nA. Who?\nB. How?\nC. What?\nD. When?\nE. Why?\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Who?",
+          "B. How?",
+          "C. What?",
+          "D. When?",
+          "E. Why?",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. Who?"
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What observation does Edith make about John's lifestyle choices?\n\nA. She observes that he drinks too much.\nB. She notes that he always travels light.\nC. She comments that he never seems to age.\nD. She points out that he always keeps his furniture.\nE. She notices that he doesn't care about his friends.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She observes that he drinks too much.",
+          "B. She notes that he always travels light.",
+          "C. She comments that he never seems to age.",
+          "D. She points out that he always keeps his furniture.",
+          "E. She notices that he doesn't care about his friends.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. She notes that he always travels light."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which two characters stood up from the couch alongside Edith?\n\nA. Dan and Sandy\nB. Harry and Linda\nC. Sandy and Harry\nD. Will and John\nE. Art and Dan\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Dan and Sandy",
+          "B. Harry and Linda",
+          "C. Sandy and Harry",
+          "D. Will and John",
+          "E. Art and Dan",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. Dan and Sandy"
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What did John's response suggest about his memory of his father?\n\nA. He can only vaguely remember a father-like figure, and is unsure whether that figure was his actual father, an older brother, or a social father.\nB. He felt his father was the only one who understood him.\nC. He felt his identity was shaped by others, not by his father.\nD. He believed he was the same as his father.\nE. He believed he was more like his father than others.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He can only vaguely remember a father-like figure, and is unsure whether that figure was his actual father, an older brother, or a social father.",
+          "B. He felt his father was the only one who understood him.",
+          "C. He felt his identity was shaped by others, not by his father.",
+          "D. He believed he was the same as his father.",
+          "E. He believed he was more like his father than others.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. He can only vaguely remember a father-like figure, and is unsure whether that figure was his actual father, an older brother, or a social father."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does Art's perspective on Will's interrogation change after the gun is revealed?\n\nA. He initially thought Will was joking, but then realized he was serious.\nB. He transitions from defending John to aggressively mocking him after Will's departure.\nC. He starts off bored, but becomes intensely interested in the gun.\nD. He thought Will was being too harsh, but later agreed that John needed to be tested.\nE. He ignores the conversation until Will leaves, at which point he praises Will's tactics.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He initially thought Will was joking, but then realized he was serious.",
+          "B. He transitions from defending John to aggressively mocking him after Will's departure.",
+          "C. He starts off bored, but becomes intensely interested in the gun.",
+          "D. He thought Will was being too harsh, but later agreed that John needed to be tested.",
+          "E. He ignores the conversation until Will leaves, at which point he praises Will's tactics.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which specific actions did Harry perform to non-verbally communicate his charade to John?\n\nA. He acted out surviving for thousands of years by walking across the room, whistling, and pointing to the others.\nB. He grunted like a dinosaur, whistled at Edith, and grabbed a club from the fireplace to demonstrate hunting.\nC. He whacked Art on the head, grunted loudly, and pointed at the fireplace to indicate a cavemen setting.\nD. He grunted like an ape, play-acted whacking Sandy on the head with a club, and put his arm around her.\nE. He blew out invisible candles, wolf-whistled at Sandy, and pointed around the room to indicate descendants.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He acted out surviving for thousands of years by walking across the room, whistling, and pointing to the others.",
+          "B. He grunted like a dinosaur, whistled at Edith, and grabbed a club from the fireplace to demonstrate hunting.",
+          "C. He whacked Art on the head, grunted loudly, and pointed at the fireplace to indicate a cavemen setting.",
+          "D. He grunted like an ape, play-acted whacking Sandy on the head with a club, and put his arm around her.",
+          "E. He blew out invisible candles, wolf-whistled at Sandy, and pointed around the room to indicate descendants.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. He grunted like an ape, play-acted whacking Sandy on the head with a club, and put his arm around her."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What role does Harry actively play when tensions rise between Edith and John regarding John's intent to summarize the New Testament?\n\nA. He remains completely silent, allowing Art to take over the interrogation of John.\nB. He attempts to distract the group by proposing another round of charades to lighten the mood.\nC. He sides with Edith, telling John that his story has gone too far and is hurting her feelings.\nD. He insists on taking Edith home immediately to spare her from the blasphemy.\nE. He blocks Edith from leaving, insisting she sit down because he personally wants to hear John's explanation.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He remains completely silent, allowing Art to take over the interrogation of John.",
+          "B. He attempts to distract the group by proposing another round of charades to lighten the mood.",
+          "C. He sides with Edith, telling John that his story has gone too far and is hurting her feelings.",
+          "D. He insists on taking Edith home immediately to spare her from the blasphemy.",
+          "E. He blocks Edith from leaving, insisting she sit down because he personally wants to hear John's explanation.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. He blocks Edith from leaving, insisting she sit down because he personally wants to hear John's explanation."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which specific words does Art stumble over or stutter while loudly confronting John about his presence in biblical history?\n\nA. 'bible', 'historical', and 'part'.\nB. 'myth', 'basis', and 'You'.\nC. 'myth', 'historical', and 'You'.\nD. 'entire', 'allegory', and 'history'.\nE. 'mostly', 'basis', and 'history'.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. 'bible', 'historical', and 'part'.",
+          "B. 'myth', 'basis', and 'You'.",
+          "C. 'myth', 'historical', and 'You'.",
+          "D. 'entire', 'allegory', and 'history'.",
+          "E. 'mostly', 'basis', and 'history'.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. 'myth', 'basis', and 'You'."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which statement best reflects Art's lesson learned from the discussion about the nature of religious figures and their historical accuracy?\n\nA. He learned that the Bible is the only true religious text and should not be questioned.\nB. He learned that religious figures are always historical and never mythical.\nC. He learned that religious figures are not important to modern people.\nD. He learned that people ultimately reject supernatural explanations and care most about strict historical accuracy in religion.\nE. He learned that many religious figures and stories are shaped by, or built on, older myths and legends.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He learned that the Bible is the only true religious text and should not be questioned.",
+          "B. He learned that religious figures are always historical and never mythical.",
+          "C. He learned that religious figures are not important to modern people.",
+          "D. He learned that people ultimately reject supernatural explanations and care most about strict historical accuracy in religion.",
+          "E. He learned that many religious figures and stories are shaped by, or built on, older myths and legends.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. He learned that many religious figures and stories are shaped by, or built on, older myths and legends."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which statement best reflects Will's lesson learned from the conversation with John and the others?\n\nA. He learned that people are more likely to believe in a religious figure than in a caveman.\nB. He learned that people prefer to hear stories that align with their beliefs.\nC. He learned that people are skeptical unless he provides physical proof.\nD. He learned that people are always ready to believe in immortality.\nE. He learned that it's better to keep his emotions private to avoid conflict.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He learned that people are more likely to believe in a religious figure than in a caveman.",
+          "B. He learned that people prefer to hear stories that align with their beliefs.",
+          "C. He learned that people are skeptical unless he provides physical proof.",
+          "D. He learned that people are always ready to believe in immortality.",
+          "E. He learned that it's better to keep his emotions private to avoid conflict.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What specific physical action does Sandy take before returning to describe the state of a famous composer's floor?\n\nA. She argues with Edith about the nativity and leaves to fetch a bible from the other room.\nB. She stands up to switch on the lights.\nC. She offers to help and exits with John while he is carrying boxes.\nD. She lies on the couch to rest.\nE. She walks outside to listen to the coyote howl.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She argues with Edith about the nativity and leaves to fetch a bible from the other room.",
+          "B. She stands up to switch on the lights.",
+          "C. She offers to help and exits with John while he is carrying boxes.",
+          "D. She lies on the couch to rest.",
+          "E. She walks outside to listen to the coyote howl.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. She offers to help and exits with John while he is carrying boxes."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What specific biographical detail about John's past does Harry bring to the group's attention?\n\nA. John's lack of scars.\nB. John's inability to age.\nC. John's inability to remember his father.\nD. John's claim that he was entirely immune to the widespread diseases of the ancient world.\nE. John's perfect eyesight.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. John's lack of scars.",
+          "B. John's inability to age.",
+          "C. John's inability to remember his father.",
+          "D. John's claim that he was entirely immune to the widespread diseases of the ancient world.",
+          "E. John's perfect eyesight.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. John's inability to remember his father."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does Harry alter his professional diagnosis of John's narcotics use after hearing the Beethoven symphony?\nA. He concludes John must be strung out on a new type of drug.\nB. He decides John is definitely tripping.\nC. After hearing Beethoven, Harry explicitly revises his diagnosis from narcotics use to a grave psychological disorder.\nD. He completely ignores his previous diagnosis and asks for a different piece of music.\nE. He attributes John's behavior to alcohol instead.\nF. Cannot infer the answer based on the given information.\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He concludes John must be strung out on a new type of drug.",
+          "B. He decides John is definitely tripping.",
+          "C. After hearing Beethoven, Harry explicitly revises his diagnosis from narcotics use to a grave psychological disorder.",
+          "D. He completely ignores his previous diagnosis and asks for a different piece of music.",
+          "E. He attributes John's behavior to alcohol instead.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does Harry respond when Dan provides anthropological evidence regarding the origins of language?\n\nA. He agrees enthusiastically.\nB. He immediately brings up his own experience working closely with the narcotics division to counter the claim.\nC. He walks out of the room.\nD. He wolf whistles and clicks his tongue.\nE. He questions the exact timeline Dan provides.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He agrees enthusiastically.",
+          "B. He immediately brings up his own experience working closely with the narcotics division to counter the claim.",
+          "C. He walks out of the room.",
+          "D. He wolf whistles and clicks his tongue.",
+          "E. He questions the exact timeline Dan provides.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. He wolf whistles and clicks his tongue."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What specific elements of the traditional biblical narrative does Edith explicitly state she does NOT believe in?\n\nA. The crucifixion, the resurrection, and the healing of the sick.\nB. The lost years of Jesus.\nC. The Sermon on the Mount and the betrayal by Judas.\nD. The existence of the three wise men, the virgin birth, and the absolute historical accuracy of the New American Standard bible.\nE. Angels, the nativity, and the star in the East.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. The crucifixion, the resurrection, and the healing of the sick.",
+          "B. The lost years of Jesus.",
+          "C. The Sermon on the Mount and the betrayal by Judas.",
+          "D. The existence of the three wise men, the virgin birth, and the absolute historical accuracy of the New American Standard bible.",
+          "E. Angels, the nativity, and the star in the East.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. Angels, the nativity, and the star in the East."
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following pairs both describe conversational interventions Art makes to challenge or contextualize John's expanding narrative?\n\nA. He mentions the Kennedy assassination and asks if John pulled the name Jesus out of a hat.\nB. He asks about the Buddha and the cross.\nC. He asks John if he walked on water and subsequently challenges his profound knowledge of ancient eastern medicines and healing techniques.\nD. He points out the lack of authorities on prehistory and questions how John derived the name Jesus.\nE. He points out the lack of experts on the bible and asks about the Sermon on the Mount.\nF. Cannot infer the answer based on the given information.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. He mentions the Kennedy assassination and asks if John pulled the name Jesus out of a hat.",
+          "B. He asks about the Buddha and the cross.",
+          "C. He asks John if he walked on water and subsequently challenges his profound knowledge of ancient eastern medicines and healing techniques.",
+          "D. He points out the lack of authorities on prehistory and questions how John derived the name Jesus.",
+          "E. He points out the lack of experts on the bible and asks about the Sermon on the Mount.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": [
+          "A. He mentions the Kennedy assassination and asks if John pulled the name Jesus out of a hat.",
+          "D. He points out the lack of authorities on prehistory and questions how John derived the name Jesus."
+        ]
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "In the later fireplace-and-couch sequence, what is Will's physical posture trajectory?\n\nA. He starts by aggressively pacing back and forth across the room, then suddenly collapses onto the floor next to Sandy before finally crawling over to the heavy wooden boxes.\nB. He stands the entire time.\nC. He begins warming himself by the fire, plonks himself onto the couch, and eventually rises to his feet.\nD. He sits on a chair, moves to the floor, and finally exits the room.\nE. He lies on the couch and then falls asleep.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He starts by aggressively pacing back and forth across the room, then suddenly collapses onto the floor next to Sandy before finally crawling over to the heavy wooden boxes.",
+          "B. He stands the entire time.",
+          "C. He begins warming himself by the fire, plonks himself onto the couch, and eventually rises to his feet.",
+          "D. He sits on a chair, moves to the floor, and finally exits the room.",
+          "E. He lies on the couch and then falls asleep.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. He begins warming himself by the fire, plonks himself onto the couch, and eventually rises to his feet."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What specific topic did Sandy press John on immediately after the other guests began to leave the house?\n\nA. Whether he intended to actually publish the book he mentioned to Harry.\nB. The exact geographical location where he claimed to have lived fourteen thousand years ago.\nC. The other pun names and aliases John has used besides \"John Oldman.\"\nD. How many children he had fathered throughout his incredibly long lifespan.\nE. The real reason he decided to confess to the group that it was all a hoax.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Whether he intended to actually publish the book he mentioned to Harry.",
+          "B. The exact geographical location where he claimed to have lived fourteen thousand years ago.",
+          "C. The other pun names and aliases John has used besides \"John Oldman.\"",
+          "D. How many children he had fathered throughout his incredibly long lifespan.",
+          "E. The real reason he decided to confess to the group that it was all a hoax.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. The other pun names and aliases John has used besides \"John Oldman.\""
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which of the following details about Linda's academic background is explicitly revealed in the dialogue?\n\nA. She is a linguist fascinated by the evolution of the name 'John'.\nB. She is a doctoral candidate in Biological Anthropology.\nC. She is an undergraduate or graduate anthropology student who previously studied with John and is now taking Art's archaeology-related course.\nD. She is in Will's Tuesday Psych 1 class and has also been connected to John's or Art's archaeology teaching, but the dialogue does not reveal her major.\nE. She is an art historian who originally identified the fake Van Gogh.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She is a linguist fascinated by the evolution of the name 'John'.",
+          "B. She is a doctoral candidate in Biological Anthropology.",
+          "C. She is an undergraduate or graduate anthropology student who previously studied with John and is now taking Art's archaeology-related course.",
+          "D. She is in Will's Tuesday Psych 1 class and has also been connected to John's or Art's archaeology teaching, but the dialogue does not reveal her major.",
+          "E. She is an art historian who originally identified the fake Van Gogh.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. She is in Will's Tuesday Psych 1 class and has also been connected to John's or Art's archaeology teaching, but the dialogue does not reveal her major."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What specific item did Edith see that, according to John, contributed to him forming the idea for his story?\n\nA. The Chinese boxes.\nB. The fake Van Gogh.\nC. The stone burin.\nD. The book on early man.\nE. The maypole.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. The Chinese boxes.",
+          "B. The fake Van Gogh.",
+          "C. The stone burin.",
+          "D. The book on early man.",
+          "E. The maypole.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. The fake Van Gogh."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Who does Art explicitly attempt to bring with him as he storms out of the gathering?\n\nA. Linda\nB. Dan\nC. Sandy\nD. Edith\nE. Will\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Linda",
+          "B. Dan",
+          "C. Sandy",
+          "D. Edith",
+          "E. Will",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. Linda"
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which detail from John's own account most directly leads Will to question whether John's past might be a constructed fantasy rather than a real history?\nA. John says he wants to leave before the discussion goes any further.\nB. John says he has changed his name many times over the years.\nC. John says he can only vaguely remember his father, describing him as perhaps an older brother or merely a social father.\nD. John says he once studied under many great historical thinkers.\nE. Much later, John says he told the story partly to test everyone's reactions, and Will cites that later confession as his reason.\nF. Cannot infer the answer based on the given information.\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. John says he wants to leave before the discussion goes any further.",
+          "B. John says he has changed his name many times over the years.",
+          "C. John says he can only vaguely remember his father, describing him as perhaps an older brother or merely a social father.",
+          "D. John says he once studied under many great historical thinkers.",
+          "E. Much later, John says he told the story partly to test everyone's reactions, and Will cites that later confession as his reason.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. John says he can only vaguely remember his father, describing him as perhaps an older brother or merely a social father."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What did Harry learn about the nature of the conversation that made him reflect on his own role in it?\n\nA. The conversation was an intellectual challenge that drew him into testing John's claims.\nB. The conversation was a way to avoid responsibility.\nC. The conversation was a controlled psychological experiment on the group.\nD. The conversation was a way to bond with the group.\nE. The conversation was a way to entertain himself.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. The conversation was an intellectual challenge that drew him into testing John's claims.",
+          "B. The conversation was a way to avoid responsibility.",
+          "C. The conversation was a controlled psychological experiment on the group.",
+          "D. The conversation was a way to bond with the group.",
+          "E. The conversation was a way to entertain himself.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. The conversation was an intellectual challenge that drew him into testing John's claims."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What did Linda learn about the nature of the conversation that made her question the authenticity of John's story?\n\nA. John was trying to avoid being questioned about his past.\nB. John was trying to manipulate the group's emotions.\nC. John was trying to test the group's intelligence.\nD. John was trying to create a story that would be believable.\nE. John was trying to impress her with his knowledge.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. John was trying to avoid being questioned about his past.",
+          "B. John was trying to manipulate the group's emotions.",
+          "C. John was trying to test the group's intelligence.",
+          "D. John was trying to create a story that would be believable.",
+          "E. John was trying to impress her with his knowledge.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. John was trying to create a story that would be believable."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "John’s final explanation about the origin of the name 'Jesus' implies which of the following about his view of his identity?\n\nA. The name was a historical mistake.\nB. He thinks the name evolved naturally from his identity.\nC. The name was given by a divine authority.\nD. He insists he was never Jesus, only a man with a message.\nE. He was chosen by God to be Jesus.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. The name was a historical mistake.",
+          "B. He thinks the name evolved naturally from his identity.",
+          "C. The name was given by a divine authority.",
+          "D. He insists he was never Jesus, only a man with a message.",
+          "E. He was chosen by God to be Jesus.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. He thinks the name evolved naturally from his identity."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "John’s hospitality offering changed from the moment his guests sat down to the end of the conversation. Which sequence best reflects this change?\n\nA. He serves scotch in glass tumblers first, then switches to plastic cups.\nB. He first gives Art a book, then provides Johnny Walker Green to the group.\nC. He starts by offering tacos and wings, then later brings out some beer.\nD. He first offers only conversation, but then brings out Johnny Walker Green.\nE. He begins by enthusiastically offering comfortable chairs, but later tells them the furniture is leaving.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He serves scotch in glass tumblers first, then switches to plastic cups.",
+          "B. He first gives Art a book, then provides Johnny Walker Green to the group.",
+          "C. He starts by offering tacos and wings, then later brings out some beer.",
+          "D. He first offers only conversation, but then brings out Johnny Walker Green.",
+          "E. He begins by enthusiastically offering comfortable chairs, but later tells them the furniture is leaving.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. He first offers only conversation, but then brings out Johnny Walker Green."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What specific event or realization led to Dan's final understanding of John's academic status before his resignation?\n\nA. He learned that John had just been fired by the dean.\nB. He discovered that John was in line to chair the department.\nC. He realized John had accepted a position at Stanford.\nD. He understood that John was struggling to publish a book.\nE. He learned that John was planning to leave academia for private research.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He learned that John had just been fired by the dean.",
+          "B. He discovered that John was in line to chair the department.",
+          "C. He realized John had accepted a position at Stanford.",
+          "D. He understood that John was struggling to publish a book.",
+          "E. He learned that John was planning to leave academia for private research.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. He discovered that John was in line to chair the department."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which set of behaviors or verbal reactions did Edith display that collectively indicate her dismissive skepticism toward John's claims?\n\nA. Suggesting Tantric Yoga to ease tension, muttering to Dan, and laughing alongside Harry and Art.\nB. Remaining silent during discussions, refusing to answer questions, and walking away from the group.\nC. Encouraging John to tell more stories, agreeing with Art's aggressive stance, and defending John to others.\nD. Praising John's artistic knowledge, asking to see the Van Gogh painting, and accepting whiskey from Harry.\nE. Chuckling at Dan's disbelief, calling the group 'snoopy friends', and admonishing Dan for perpetuating the narrative.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Suggesting Tantric Yoga to ease tension, muttering to Dan, and laughing alongside Harry and Art.",
+          "B. Remaining silent during discussions, refusing to answer questions, and walking away from the group.",
+          "C. Encouraging John to tell more stories, agreeing with Art's aggressive stance, and defending John to others.",
+          "D. Praising John's artistic knowledge, asking to see the Van Gogh painting, and accepting whiskey from Harry.",
+          "E. Chuckling at Dan's disbelief, calling the group 'snoopy friends', and admonishing Dan for perpetuating the narrative.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. Chuckling at Dan's disbelief, calling the group 'snoopy friends', and admonishing Dan for perpetuating the narrative."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How did Edith's perception of John's mental state and credibility evolve between her encounter with his Van Gogh claim and the story about the prehistoric chief?\n\nA. She was highly skeptical of his Van Gogh claim and remained doubtful about the prehistoric chief story.\nB. She has always been a staunch supporter of John.\nC. She defended John initially but later threatened to call authorities.\nD. She found the Van Gogh claim fascinating but was horrified by the prehistoric chief story.\nE. She was initially skeptical but became more convinced of John's credibility.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. She was highly skeptical of his Van Gogh claim and remained doubtful about the prehistoric chief story.",
+          "B. She has always been a staunch supporter of John.",
+          "C. She defended John initially but later threatened to call authorities.",
+          "D. She found the Van Gogh claim fascinating but was horrified by the prehistoric chief story.",
+          "E. She was initially skeptical but became more convinced of John's credibility.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Considering Edith's interactions and questions, what is the timeline difference she perceives between the origin of language and the rise of worldwide Christianity, as expressed in the dialogue?\n\nA. Sixty-two thousand years\nB. Forty thousand years\nC. Fifty thousand years\nD. Fifty-eight thousand years\nE. Two thousand years\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Sixty-two thousand years",
+          "B. Forty thousand years",
+          "C. Fifty thousand years",
+          "D. Fifty-eight thousand years",
+          "E. Two thousand years",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. Fifty-eight thousand years"
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does Art's perspective on John's hunting methods evolve throughout the gathering?\n\nA. He goes from skepticism to full acceptance of hunting as natural.\nB. He initially finds them unethical, then praises their effectiveness.\nC. He remains indifferent throughout the discussion.\nD. He begins by mocking them, then expresses interest in learning.\nE. He shifts from criticism to curiosity about hunting techniques.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He goes from skepticism to full acceptance of hunting as natural.",
+          "B. He initially finds them unethical, then praises their effectiveness.",
+          "C. He remains indifferent throughout the discussion.",
+          "D. He begins by mocking them, then expresses interest in learning.",
+          "E. He shifts from criticism to curiosity about hunting techniques.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What item did Sandy discover, prompting her to ask, ‘Can you pull this?\n\nA. When she instead came across a rare prehistoric tool in John's boxes.\nB. A hunting bow.\nC. When she found a box of highly expensive scotch.\nD. When she realized Arthur Jenkins' book was unavailable.\nE. When she saw a contemporaneous copy of a Van Gogh painting.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. When she instead came across a rare prehistoric tool in John's boxes.",
+          "B. A hunting bow.",
+          "C. When she found a box of highly expensive scotch.",
+          "D. When she realized Arthur Jenkins' book was unavailable.",
+          "E. When she saw a contemporaneous copy of a Van Gogh painting.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. A hunting bow."
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following jointly show that John’s leaving is not merely a personal habit, but a response to the exposure risk created by his apparent agelessness and the need to manage identity continuity?\n\nA. John rewrites “why he leaves” from a personal habit into a response to the exposure of his agelessness.\nB. John rewrites “how he can keep living in society” into an identity-continuation solution in which he passes as his own son.\nC. John fills in his migration history as a cross-regional résumé, increasing the story's thickness.\nD. John explains the present departure as the practical matter of still having boxes to move.\nE. John directly says that this time he is saying goodbye in his own identity, but without yet explaining why that is necessary.\nF. John fuses “don't keep talking about me” and “farewell in my true identity” into the same causal chain.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. John rewrites “why he leaves” from a personal habit into a response to the exposure of his agelessness.",
+          "B. John rewrites “how he can keep living in society” into an identity-continuation solution in which he passes as his own son.",
+          "C. John fills in his migration history as a cross-regional résumé, increasing the story's thickness.",
+          "D. John explains the present departure as the practical matter of still having boxes to move.",
+          "E. John directly says that this time he is saying goodbye in his own identity, but without yet explaining why that is necessary.",
+          "F. John fuses “don't keep talking about me” and “farewell in my true identity” into the same causal chain."
+        ],
+        "answer": [
+          "A. John rewrites “why he leaves” from a personal habit into a response to the exposure of his agelessness.",
+          "B. John rewrites “how he can keep living in society” into an identity-continuation solution in which he passes as his own son."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "If we trace how the explanation of John’s departure deepens across the dialogue, which antecedents should be arranged from earliest to latest?\n\nA. John first describes leaving as his own periodic way of moving on.\nB. The departure is then placed into the identity-continuation mechanism of “passing as his own son.”\nC. A moving-day-style farewell first wraps the departure in an ordinary farewell frame.\nD. The departure is then explained as a passive response to people noticing that he does not age.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. John first describes leaving as his own periodic way of moving on.",
+          "B. The departure is then placed into the identity-continuation mechanism of “passing as his own son.”",
+          "C. A moving-day-style farewell first wraps the departure in an ordinary farewell frame.",
+          "D. The departure is then explained as a passive response to people noticing that he does not age."
+        ],
+        "answer": [
+          "C. A moving-day-style farewell first wraps the departure in an ordinary farewell frame.",
+          "A. John first describes leaving as his own periodic way of moving on.",
+          "D. The departure is then explained as a passive response to people noticing that he does not age.",
+          "B. The departure is then placed into the identity-continuation mechanism of “passing as his own son.”"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following jumps most critically push the situation from “arguing within discussion” into “responding to a real crisis”?\n\nA. Someone calls in outside help, turning suspicion into a request for professional intervention.\nB. Harry proposes scientific or laboratory tests instead of continuing only with verbal argument.\nC. Will enters as an intervener and reorganizes the scene.\nD. John carries the story into an older and stranger period, increasing the intensity of its content.\nE. Everyone is first startled and then laughs, proving that emotions are fluctuating strongly.\nF. When Will pulls out a pipe and everyone relaxes, it shows that the expectation of danger had existed, even if it had not yet been confirmed.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Someone calls in outside help, turning suspicion into a request for professional intervention.",
+          "B. Harry proposes scientific or laboratory tests instead of continuing only with verbal argument.",
+          "C. Will enters as an intervener and reorganizes the scene.",
+          "D. John carries the story into an older and stranger period, increasing the intensity of its content.",
+          "E. Everyone is first startled and then laughs, proving that emotions are fluctuating strongly.",
+          "F. When Will pulls out a pipe and everyone relaxes, it shows that the expectation of danger had existed, even if it had not yet been confirmed."
+        ],
+        "answer": [
+          "A. Someone calls in outside help, turning suspicion into a request for professional intervention.",
+          "B. Harry proposes scientific or laboratory tests instead of continuing only with verbal argument.",
+          "C. Will enters as an intervener and reorganizes the scene."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "If we move from the starting point “Dan helps with the move and everyone is still saying goodbye to a friend” to the endpoint “Will enters and takes over intervention,” which missing chain is the most reasonable? Please order it.\nA. Later, Art moves to the phone and turns his suspicion into a problem requiring outside intervention.\nB. Around that same escalation, Harry treats the story as potentially staged by checking for a hidden microphone or prank setup.\nC. Will ultimately enters as an intervener and takes over the scene.\nD. Early on, the group places John in an observable and checkable position by examining old objects such as the painting and bow.\nPlease provide the correct order of options, enclosed in parentheses, e.g., (A, B, C).",
+        "option": [
+          "A. Later, Art moves to the phone and turns his suspicion into a problem requiring outside intervention.",
+          "B. Around that same escalation, Harry treats the story as potentially staged by checking for a hidden microphone or prank setup.",
+          "C. Will ultimately enters as an intervener and takes over the scene.",
+          "D. Early on, the group places John in an observable and checkable position by examining old objects such as the painting and bow."
+        ],
+        "answer": [
+          "D. Early on, the group places John in an observable and checkable position by examining old objects such as the painting and bow.",
+          "A. Later, Art moves to the phone and turns his suspicion into a problem requiring outside intervention.",
+          "B. Around that same escalation, Harry treats the story as potentially staged by checking for a hidden microphone or prank setup.",
+          "C. Will ultimately enters as an intervener and takes over the scene."
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following paths genuinely support the deep line that “a friendship relation is rewritten into a relation of validation/intervention”?\n\nA. Helping with the move and toasting sustain the farewell relation; by themselves they do not turn John into someone to be handled.\nB. The burin is jointly examined -> Art calls outside -> Harry tests John -> Will enters.\nC. Farewell in his true identity -> John and Sandy move boxes, which only shows John carrying out his departure.\nD. Farewell baseline among friends -> shared scrutiny of objects and claims -> outside help and physical testing -> professional intervention.\nE. Furniture is moved out -> John keeps the couch, which shows the space being emptied rather than the relationship being rewritten.\nF. Art calls outside -> Will arrives -> everyone sits down again, so the friendship relation is automatically repaired into a normal farewell.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Helping with the move and toasting sustain the farewell relation; by themselves they do not turn John into someone to be handled.",
+          "B. The burin is jointly examined -> Art calls outside -> Harry tests John -> Will enters.",
+          "C. Farewell in his true identity -> John and Sandy move boxes, which only shows John carrying out his departure.",
+          "D. Farewell baseline among friends -> shared scrutiny of objects and claims -> outside help and physical testing -> professional intervention.",
+          "E. Furniture is moved out -> John keeps the couch, which shows the space being emptied rather than the relationship being rewritten.",
+          "F. Art calls outside -> Will arrives -> everyone sits down again, so the friendship relation is automatically repaired into a normal farewell."
+        ],
+        "answer": [
+          "B. The burin is jointly examined -> Art calls outside -> Harry tests John -> Will enters.",
+          "D. Farewell baseline among friends -> shared scrutiny of objects and claims -> outside help and physical testing -> professional intervention."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "If the starting point is “John is still leading his own story,” and the endpoint is “John partially recovers narrative initiative,” which missing middle chain is the most reasonable? Please order it.\n\nA. Will enters and takes over interpretive authority with a “you need help” frame.\nB. Harry then turns that outward translation into a verification frame of “this may have been staged / this may be a prank.”\nC. Art first translates John's narrative outward as a problem of “crazy fabrication.”\nD. By stabilizing Will, taking the gun, and inviting him back, John partially reopens the interaction.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. Will enters and takes over interpretive authority with a “you need help” frame.",
+          "B. Harry then turns that outward translation into a verification frame of “this may have been staged / this may be a prank.”",
+          "C. Art first translates John's narrative outward as a problem of “crazy fabrication.”",
+          "D. By stabilizing Will, taking the gun, and inviting him back, John partially reopens the interaction."
+        ],
+        "answer": [
+          "C. Art first translates John's narrative outward as a problem of “crazy fabrication.”",
+          "B. Harry then turns that outward translation into a verification frame of “this may have been staged / this may be a prank.”",
+          "A. Will enters and takes over interpretive authority with a “you need help” frame.",
+          "D. By stabilizing Will, taking the gun, and inviting him back, John partially reopens the interaction."
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following paths genuinely support the deep line that “John's narrative control first slips away and is then partly recovered”?\n\nA. John tells his past in detail -> Art says he is going crazy -> Will places him in a “needs help” frame -> John later stabilizes Will and asks him to return.\nB. John talks about van Gogh -> Sandy helps move boxes -> John whistles at Sandy.\nC. Art makes the call -> Harry tests John -> Will intervenes -> John takes the gun and invites Will back inside.\nD. John says the burin came from a thrift shop -> the burin is left to Dan -> everyone is told not to talk about him anymore.\nE. Will pulls out a pipe -> everyone relaxes, so John regains control of the whole room.\nF. John explicitly says he is saying goodbye in his own identity -> Will arrives -> therefore John keeps interpretive control from beginning to end.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. John tells his past in detail -> Art says he is going crazy -> Will places him in a “needs help” frame -> John later stabilizes Will and asks him to return.",
+          "B. John talks about van Gogh -> Sandy helps move boxes -> John whistles at Sandy.",
+          "C. Art makes the call -> Harry tests John -> Will intervenes -> John takes the gun and invites Will back inside.",
+          "D. John says the burin came from a thrift shop -> the burin is left to Dan -> everyone is told not to talk about him anymore.",
+          "E. Will pulls out a pipe -> everyone relaxes, so John regains control of the whole room.",
+          "F. John explicitly says he is saying goodbye in his own identity -> Will arrives -> therefore John keeps interpretive control from beginning to end."
+        ],
+        "answer": [
+          "A. John tells his past in detail -> Art says he is going crazy -> Will places him in a “needs help” frame -> John later stabilizes Will and asks him to return.",
+          "C. Art makes the call -> Harry tests John -> Will intervenes -> John takes the gun and invites Will back inside."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "If the starting point is “objects are merely ordinary contents of a moving-day scene,” and the endpoint is “objects are drawn into the extreme verification of John,” which missing chain is the most reasonable? Please order it.\n\nA. The gun finally pushes this object-based evidentiary process to the level of life-and-death testing.\nB. The burin then makes objects bear pressure of period, function, and authenticity.\nC. The painting is first read as a provenance clue leading toward a past identity.\nD. The book then advances the use of objects into a public thematic entry point.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. The gun finally pushes this object-based evidentiary process to the level of life-and-death testing.",
+          "B. The burin then makes objects bear pressure of period, function, and authenticity.",
+          "C. The painting is first read as a provenance clue leading toward a past identity.",
+          "D. The book then advances the use of objects into a public thematic entry point."
+        ],
+        "answer": [
+          "C. The painting is first read as a provenance clue leading toward a past identity.",
+          "D. The book then advances the use of objects into a public thematic entry point.",
+          "B. The burin then makes objects bear pressure of period, function, and authenticity.",
+          "A. The gun finally pushes this object-based evidentiary process to the level of life-and-death testing."
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following paths genuinely support the deep line that “everyday objects are transformed into interfaces of identity evidence”?\n\nA. The painting is noticed and brings out inscription/style clues -> the object links John to a possible past identity.\nB. The book title is read aloud -> the topic shifts to early man -> the object becomes an entry point for discussing John's identity.\nC. Furniture is moved out -> John keeps the couch, which shows the space being emptied rather than objects becoming evidence.\nD. The burin's period and function are identified -> John then says it was only bought in a thrift shop -> the object's evidentiary status is contested.\nE. Will pulls out a gun and later hands it to John to inspect -> object-based verification is pushed to an extreme.\nF. The painting's inscription -> the book is read out -> John says not to keep talking about himself, so the objects only trigger conversation and never enter evidentiary contestation.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. The painting is noticed and brings out inscription/style clues -> the object links John to a possible past identity.",
+          "B. The book title is read aloud -> the topic shifts to early man -> the object becomes an entry point for discussing John's identity.",
+          "C. Furniture is moved out -> John keeps the couch, which shows the space being emptied rather than objects becoming evidence.",
+          "D. The burin's period and function are identified -> John then says it was only bought in a thrift shop -> the object's evidentiary status is contested.",
+          "E. Will pulls out a gun and later hands it to John to inspect -> object-based verification is pushed to an extreme.",
+          "F. The painting's inscription -> the book is read out -> John says not to keep talking about himself, so the objects only trigger conversation and never enter evidentiary contestation."
+        ],
+        "answer": [
+          "A. The painting is noticed and brings out inscription/style clues -> the object links John to a possible past identity.",
+          "B. The book title is read aloud -> the topic shifts to early man -> the object becomes an entry point for discussing John's identity.",
+          "D. The burin's period and function are identified -> John then says it was only bought in a thrift shop -> the object's evidentiary status is contested.",
+          "E. Will pulls out a gun and later hands it to John to inspect -> object-based verification is pushed to an extreme."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "Looking backward from the endpoint “the gun becomes an object of extreme verification,” which antecedents should be arranged from earliest to latest in order to explain why objects became evidentiary step by step?\n\nA. The painting is first treated as a provenance clue pointing back to John's past identity.\nB. The burin makes objects begin to bear archaeological authenticity pressure.\nC. The gun pushes object-based verification to the extreme level of “will he die?”\nD. The book then advances the use of objects into a publicly discussable entry point into identity.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. The painting is first treated as a provenance clue pointing back to John's past identity.",
+          "B. The burin makes objects begin to bear archaeological authenticity pressure.",
+          "C. The gun pushes object-based verification to the extreme level of “will he die?”",
+          "D. The book then advances the use of objects into a publicly discussable entry point into identity."
+        ],
+        "answer": [
+          "A. The painting is first treated as a provenance clue pointing back to John's past identity.",
+          "D. The book then advances the use of objects into a publicly discussable entry point into identity.",
+          "B. The burin makes objects begin to bear archaeological authenticity pressure.",
+          "C. The gun pushes object-based verification to the extreme level of “will he die?”"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which jumps most critically push this pressure line from “high pressure” into “breakdown”?\n\nA. Will pulls out the gun, pushing tension up to the threshold of violence.\nB. News of Mary's death appears, turning pressure from argument into trauma.\nC. John rushes out after Will, turning indoor tension into an external chase.\nD. Will pulls out a pipe, and everyone lets out a breath.\nE. Dan toasts John.\nF. Harry's physical test clearly increases pressure, but it does not yet push the scene into actual breakdown.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Will pulls out the gun, pushing tension up to the threshold of violence.",
+          "B. News of Mary's death appears, turning pressure from argument into trauma.",
+          "C. John rushes out after Will, turning indoor tension into an external chase.",
+          "D. Will pulls out a pipe, and everyone lets out a breath.",
+          "E. Dan toasts John.",
+          "F. Harry's physical test clearly increases pressure, but it does not yet push the scene into actual breakdown."
+        ],
+        "answer": [
+          "A. Will pulls out the gun, pushing tension up to the threshold of violence.",
+          "B. News of Mary's death appears, turning pressure from argument into trauma.",
+          "C. John rushes out after Will, turning indoor tension into an external chase."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "If the starting point is “the farewell gathering still carries social warmth,” and the endpoint is “Will is invited back inside but the balance remains fragile,” which missing chain is the most reasonable? Please order it.\n\nA. John stabilizes Will and brings him back into interaction, so that the room recovers only to a fragile balance.\nB. After the playful scare, suspicion spills outward and is turned into testing.\nC. Will enters, raising the room into a high-pressure state of observation and intervention.\nD. The gun and the news of death appear in sequence, pushing the room past the threshold of breakdown.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. John stabilizes Will and brings him back into interaction, so that the room recovers only to a fragile balance.",
+          "B. After the playful scare, suspicion spills outward and is turned into testing.",
+          "C. Will enters, raising the room into a high-pressure state of observation and intervention.",
+          "D. The gun and the news of death appear in sequence, pushing the room past the threshold of breakdown."
+        ],
+        "answer": [
+          "B. After the playful scare, suspicion spills outward and is turned into testing.",
+          "C. Will enters, raising the room into a high-pressure state of observation and intervention.",
+          "D. The gun and the news of death appear in sequence, pushing the room past the threshold of breakdown.",
+          "A. John stabilizes Will and brings him back into interaction, so that the room recovers only to a fragile balance."
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following places did John explicitly say he had been to, visited, or stayed in?\n\nA. Belgium\nB. India\nC. Oxford\nD. the United States\nE. Rome\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Belgium",
+          "B. India",
+          "C. Oxford",
+          "D. the United States",
+          "E. Rome"
+        ],
+        "answer": [
+          "A. Belgium",
+          "B. India",
+          "C. Oxford",
+          "D. the United States"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following are part of Will's explicitly described personal state or condition?\n\nA. heart disease\nB. ashamed\nC. shaking\nD. pancreatic cancer\nE. doesn't scar\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. heart disease",
+          "B. ashamed",
+          "C. shaking",
+          "D. pancreatic cancer",
+          "E. doesn't scar"
+        ],
+        "answer": [
+          "A. heart disease",
+          "B. ashamed"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following experiences can be directly regarded as part of John's pattern of \"changing identities / restarting life\"?\n\nA. He mentions that he was once imprisoned in Belgium for forging a government application, which counts as one consequence of a failed identity maneuver.\nB. He mentions that he came to America in 1890, marking a clear life transition.\nC. He says that he keeps relics from his early years for long periods so he can prove continuity of origin under a new identity.\nD. He mentions that he came to America together with French immigrants, showing that he entered the next phase of life as part of a new migration flow.\nE. He says that he usually does not leave his old social circles, but instead slowly patches up identity problems in place.\nF. He explains that this time, he is doing it in order to say goodbye as his \"true self.\"\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. He mentions that he was once imprisoned in Belgium for forging a government application, which counts as one consequence of a failed identity maneuver.",
+          "B. He mentions that he came to America in 1890, marking a clear life transition.",
+          "C. He says that he keeps relics from his early years for long periods so he can prove continuity of origin under a new identity.",
+          "D. He mentions that he came to America together with French immigrants, showing that he entered the next phase of life as part of a new migration flow.",
+          "E. He says that he usually does not leave his old social circles, but instead slowly patches up identity problems in place.",
+          "F. He explains that this time, he is doing it in order to say goodbye as his \"true self.\""
+        ],
+        "answer": [
+          "A. He mentions that he was once imprisoned in Belgium for forging a government application, which counts as one consequence of a failed identity maneuver.",
+          "B. He mentions that he came to America in 1890, marking a clear life transition.",
+          "D. He mentions that he came to America together with French immigrants, showing that he entered the next phase of life as part of a new migration flow.",
+          "F. He explains that this time, he is doing it in order to say goodbye as his \"true self.\""
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following places or regions does John explicitly mention having been to, seen, or lived in?\n\nA. Mesopotamia\nB. British Isles\nC. the French coast\nD. Little Rock\nE. India\nF. Mars\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Mesopotamia",
+          "B. British Isles",
+          "C. the French coast",
+          "D. Little Rock",
+          "E. India",
+          "F. Mars"
+        ],
+        "answer": [
+          "A. Mesopotamia",
+          "B. British Isles",
+          "C. the French coast",
+          "E. India"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which facts can be used to support the judgment that \"John's way of life is itself one of continuous migration\"?\n\nA. He describes his earlier migrations as moving steadily eastward, and says he saw the Mediterranean in the early Bronze Age.\nB. He explicitly says that he still has boxes to move right now, making \"migration\" more than just a historical memory.\nC. The text also includes a specific action scene of him packing with Sandy.\nD. Even in the current situation, he is giving away furniture and arranging for others to remove it.\nE. Although he travels occasionally, he usually keeps his old residence, furniture, and life structure intact for the long term.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. He describes his earlier migrations as moving steadily eastward, and says he saw the Mediterranean in the early Bronze Age.",
+          "B. He explicitly says that he still has boxes to move right now, making \"migration\" more than just a historical memory.",
+          "C. The text also includes a specific action scene of him packing with Sandy.",
+          "D. Even in the current situation, he is giving away furniture and arranging for others to remove it.",
+          "E. Although he travels occasionally, he usually keeps his old residence, furniture, and life structure intact for the long term."
+        ],
+        "answer": [
+          "A. He describes his earlier migrations as moving steadily eastward, and says he saw the Mediterranean in the early Bronze Age.",
+          "B. He explicitly says that he still has boxes to move right now, making \"migration\" more than just a historical memory.",
+          "C. The text also includes a specific action scene of him packing with Sandy.",
+          "D. Even in the current situation, he is giving away furniture and arranging for others to remove it."
+        ]
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is the complete trajectory of Will's physical posture and position throughout the documented scenes?\nA. He starts by aggressively pacing back and forth across the room, then suddenly collapses onto the floor next to Sandy before finally crawling over to the heavy wooden boxes.\nB. He stands the entire time.\nC. He begins warming himself by the fire, plonks himself onto the couch, and eventually rises to his feet.\nD. He sits on a chair, moves to the floor, and finally exits the room.\nE. He lies on the couch and then falls asleep.\nF. Cannot infer the answer based on the given information.\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He starts by aggressively pacing back and forth across the room, then suddenly collapses onto the floor next to Sandy before finally crawling over to the heavy wooden boxes.",
+          "B. He stands the entire time.",
+          "C. He begins warming himself by the fire, plonks himself onto the couch, and eventually rises to his feet.",
+          "D. He sits on a chair, moves to the floor, and finally exits the room.",
+          "E. He lies on the couch and then falls asleep.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. He begins warming himself by the fire, plonks himself onto the couch, and eventually rises to his feet."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which specific artist's work did Edith correctly recognize when she noticed the painting in John's home?\nA. Paul Cezanne\nB. Vincent Van Gogh\nC. Camille Pissarro\nD. J.M.W. Turner\nE. Emil Nolde\nF. Cannot infer the answer based on the given information.\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Paul Cezanne",
+          "B. Vincent Van Gogh",
+          "C. Camille Pissarro",
+          "D. J.M.W. Turner",
+          "E. Emil Nolde",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. Vincent Van Gogh"
+      }
+    ],
+    "conversation": {
+      "format_example": {
+        "speakers": [
+          "Speaker A",
+          "Speaker B"
+        ],
+        "session_1_date_time": "Unknown",
+        "session_1": [
+          {
+            "type": "dialogue",
+            "speaker": "Speaker A",
+            "dia_id": "D1:1",
+            "text": "Synthetic example utterance showing the dialogue schema."
+          },
+          {
+            "type": "narration",
+            "speaker": null,
+            "dia_id": "D1:2",
+            "text": "Synthetic non-dialogue scene description showing the narration schema."
+          }
+        ]
+      }
+    },
+    "sample_id": "conv-0"
+  }
+]

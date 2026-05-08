@@ -1,0 +1,1417 @@
+[
+  {
+    "qa": [
+      {
+        "qa_type": "single_choice",
+        "question": "A courtroom demonstration includes someone miming the act of unfastening a chain and opening a door. Given the described apartment layout and the testimony about which door was chain-locked, what is the most defensible inference about what the demonstration was meant to establish?\n\nA. That a bedroom door inside the apartment was chain-locked, limiting movement between the bedrooms and the hall.\nB. That the apartment’s front door to the stairway was secured by a chain, making immediate entry or exit through the hall contingent on undoing that chain.\nC. That the demonstrator was showing how the apartment’s front door opened into the interior hall of the apartment, emphasizing movement from room to room rather than establishing that the hall-and-stairway door itself was chain-locked.\nD. That the bathroom door was chain-locked, suggesting the witness was demonstrating confinement within the bathroom rather than the apartment.\nE. That the chain lock was on a kitchen door, implying access to the stairway required passing through the kitchen first.\nF. That the demonstrator was illustrating that the door leading to the outside hall and stairway was left unchained, so any delay at the threshold would have come from hesitation or fumbling rather than the need to unfasten a chain.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. That a bedroom door inside the apartment was chain-locked, limiting movement between the bedrooms and the hall.",
+          "B. That the apartment’s front door to the stairway was secured by a chain, making immediate entry or exit through the hall contingent on undoing that chain.",
+          "C. That the demonstrator was showing how the apartment’s front door opened into the interior hall of the apartment, emphasizing movement from room to room rather than establishing that the hall-and-stairway door itself was chain-locked.",
+          "D. That the bathroom door was chain-locked, suggesting the witness was demonstrating confinement within the bathroom rather than the apartment.",
+          "E. That the chain lock was on a kitchen door, implying access to the stairway required passing through the kitchen first.",
+          "F. That the demonstrator was illustrating that the door leading to the outside hall and stairway was left unchained, so any delay at the threshold would have come from hesitation or fumbling rather than the need to unfasten a chain."
+        ],
+        "answer": "B. That the apartment’s front door to the stairway was secured by a chain, making immediate entry or exit through the hall contingent on undoing that chain."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "A man estimates a hall’s length by pacing it out, then immediately asks for another chair. What is the most plausible purpose of requesting the extra chair at that moment?\n\nA. To block the walkway so no one alters his step length while he repeats the measurement\nB. To mark a measured reference point from the pacing count so he can reproduce the 43-foot span in a physical setup\nC. To rest because pacing the hall has tired him out and he needs to sit immediately\nD. To place the chair at the far wall as a landmark for the turnaround point, so he can repeat the pacing more consistently if he remeasures\nE. To verify his arithmetic by recounting from a seated position where he won’t lose his place\nF. To set the chair down around the forty-second step as a marker because the hall is just under 43 feet, letting him recreate the span as a 42-step setup\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. To block the walkway so no one alters his step length while he repeats the measurement",
+          "B. To mark a measured reference point from the pacing count so he can reproduce the 43-foot span in a physical setup",
+          "C. To rest because pacing the hall has tired him out and he needs to sit immediately",
+          "D. To place the chair at the far wall as a landmark for the turnaround point, so he can repeat the pacing more consistently if he remeasures",
+          "E. To verify his arithmetic by recounting from a seated position where he won’t lose his place",
+          "F. To set the chair down around the forty-second step as a marker because the hall is just under 43 feet, letting him recreate the span as a 42-step setup"
+        ],
+        "answer": "B. To mark a measured reference point from the pacing count so he can reproduce the 43-foot span in a physical setup"
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is the most defensible inference about the outcome of the requested revote, based solely on how the foreman conducts it and reports the tally?\n\nA. The foreman only counted the not-guilty hands and therefore cannot legitimately conclude a 9–3 split for acquittal.\nB. No juror objected to the voting procedure, and the revote produced a strong majority for acquittal (9–3).\nC. At least one juror objected to a show-of-hands vote, so the foreman switched to a secret ballot that ended 9–3 for acquittal.\nD. No juror objected to the show-of-hands procedure, and the foreman’s count indicates a majority for acquittal, but the exact split cannot be confidently fixed from his report.\nE. The revote could not be completed because an objection forced the foreman to postpone it, making any reported tally provisional.\nF. The revote went forward without any explicit objection, and the foreman reported a solid acquittal-leaning majority—eight to four—based on the show of hands.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. The foreman only counted the not-guilty hands and therefore cannot legitimately conclude a 9–3 split for acquittal.",
+          "B. No juror objected to the voting procedure, and the revote produced a strong majority for acquittal (9–3).",
+          "C. At least one juror objected to a show-of-hands vote, so the foreman switched to a secret ballot that ended 9–3 for acquittal.",
+          "D. No juror objected to the show-of-hands procedure, and the foreman’s count indicates a majority for acquittal, but the exact split cannot be confidently fixed from his report.",
+          "E. The revote could not be completed because an objection forced the foreman to postpone it, making any reported tally provisional.",
+          "F. The revote went forward without any explicit objection, and the foreman reported a solid acquittal-leaning majority—eight to four—based on the show of hands."
+        ],
+        "answer": "B. No juror objected to the voting procedure, and the revote produced a strong majority for acquittal (9–3)."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "A witness is asked to physically demonstrate an event he claims took only 15 seconds. Based on the spatial layout and his demonstrated movement, what is the most likely purpose of staging this demonstration in the first place?\n\nA. To prove that the bedroom door in this apartment plan necessarily opened inward rather than outward.\nB. To show that the apartment’s hallway was short enough that any sound from the front door would immediately reach the bedroom.\nC. To test whether his claimed timing is plausible given the distances involved and his limited mobility.\nD. To check whether his claimed timing is believable by focusing mainly on the short bed-to-bedroom-door distance and his limp, without fully factoring in the additional walk down the long hallway to the front door.\nE. To establish that the bedroom window had a direct line of sight to the front door in the apartment.\nF. To cast doubt on his 15-second estimate by suggesting that even with roughly a 10‑foot start and about 20 seconds available, his hesitating movement during the reenactment still wouldn’t realistically allow him to reach the front door in time.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. To prove that the bedroom door in this apartment plan necessarily opened inward rather than outward.",
+          "B. To show that the apartment’s hallway was short enough that any sound from the front door would immediately reach the bedroom.",
+          "C. To test whether his claimed timing is plausible given the distances involved and his limited mobility.",
+          "D. To check whether his claimed timing is believable by focusing mainly on the short bed-to-bedroom-door distance and his limp, without fully factoring in the additional walk down the long hallway to the front door.",
+          "E. To establish that the bedroom window had a direct line of sight to the front door in the apartment.",
+          "F. To cast doubt on his 15-second estimate by suggesting that even with roughly a 10‑foot start and about 20 seconds available, his hesitating movement during the reenactment still wouldn’t realistically allow him to reach the front door in time."
+        ],
+        "answer": "C. To test whether his claimed timing is plausible given the distances involved and his limited mobility."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What does the Foreman’s behavior most strongly indicate about his role in the group’s decision-making at that moment?\n\nA. He is rejecting #8’s proposal as unfair and reasserting open voting to preserve transparency and accountability.\nB. He is disengaged from the process, leaving the decision entirely to #8 by refusing to participate in any vote.\nC. He is covertly siding with #8 and using his position to steer the group toward a predetermined reversal of the verdict.\nD. He is supporting #8’s proposal because he personally doubts the guilty verdict, and he uses the secret ballot mainly as a way to test whether any juror shares that doubt without risking social pressure.\nE. He is acting primarily as a procedural facilitator, enforcing a voting method that protects anonymity and legitimizes the outcome.\nF. He is actively aligning with #8 and subtly steering the group toward acquittal by participating in the secret ballot himself and managing the first slip to shape how the vote is perceived.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He is rejecting #8’s proposal as unfair and reasserting open voting to preserve transparency and accountability.",
+          "B. He is disengaged from the process, leaving the decision entirely to #8 by refusing to participate in any vote.",
+          "C. He is covertly siding with #8 and using his position to steer the group toward a predetermined reversal of the verdict.",
+          "D. He is supporting #8’s proposal because he personally doubts the guilty verdict, and he uses the secret ballot mainly as a way to test whether any juror shares that doubt without risking social pressure.",
+          "E. He is acting primarily as a procedural facilitator, enforcing a voting method that protects anonymity and legitimizes the outcome.",
+          "F. He is actively aligning with #8 and subtly steering the group toward acquittal by participating in the secret ballot himself and managing the first slip to shape how the vote is perceived."
+        ],
+        "answer": "E. He is acting primarily as a procedural facilitator, enforcing a voting method that protects anonymity and legitimizes the outcome."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "A defense attorney argues that a key eyewitness’s identification is unreliable, even if the witness is otherwise honest. Which underlying limitation is the attorney mainly relying on?\n\nA. Because the woman’s account involves viewing through the last two cars of a moving train, the timing of the killing cannot be fixed closely enough to evaluate any other testimony.\nB. Because the witness only heard a threat and did not directly see the assailant, any later identification must be based on guesswork rather than perception.\nC. Because the elevated train’s noise would have prevented the witness from knowing that any words were spoken at all, his entire account must have been invented rather than honestly mistaken.\nD. Because the train’s total passing time is short, the witness’s memory window is too brief to support any confident statement about what was said.\nE. Because an elevated train was already roaring past for the entire relevant interval, the witness could not have clearly heard—and therefore could not reliably recognize—the speaker’s voice.\nF. Because the train only began roaring past after the body fell, the witness may have heard the threat clearly but the sudden noise would have disrupted his attention and led him to confuse whose voice he heard.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Because the woman’s account involves viewing through the last two cars of a moving train, the timing of the killing cannot be fixed closely enough to evaluate any other testimony.",
+          "B. Because the witness only heard a threat and did not directly see the assailant, any later identification must be based on guesswork rather than perception.",
+          "C. Because the elevated train’s noise would have prevented the witness from knowing that any words were spoken at all, his entire account must have been invented rather than honestly mistaken.",
+          "D. Because the train’s total passing time is short, the witness’s memory window is too brief to support any confident statement about what was said.",
+          "E. Because an elevated train was already roaring past for the entire relevant interval, the witness could not have clearly heard—and therefore could not reliably recognize—the speaker’s voice.",
+          "F. Because the train only began roaring past after the body fell, the witness may have heard the threat clearly but the sudden noise would have disrupted his attention and led him to confuse whose voice he heard."
+        ],
+        "answer": "E. Because an elevated train was already roaring past for the entire relevant interval, the witness could not have clearly heard—and therefore could not reliably recognize—the speaker’s voice."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is the house-painter most likely trying to accomplish by bringing up both his work experience near an elevated train and the idea that someone \"maybe didn't hear\" because of the noise?\n\nA. To imply he personally witnessed the key event but is reluctant to describe it directly, so he uses the train noise as a cover story.\nB. To shift the discussion away from the main issue by complaining about his job and exaggerating the discomfort of working in loud environments.\nC. To undermine the reliability of what someone claims to have heard by framing loud, constant train noise as a normal, attention-dulling background condition.\nD. To argue that the witness probably heard the words correctly but misremembered who spoke them after the train had already passed.\nE. To argue that living near the train line is harmless because workers in his trade are already used to being distracted by noise.\nF. To emphasize from his own experience that the el noise and work stress make people hypersensitive to sound, so a witness might actually have heard the key noise—and perceived it as even louder than it was.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. To imply he personally witnessed the key event but is reluctant to describe it directly, so he uses the train noise as a cover story.",
+          "B. To shift the discussion away from the main issue by complaining about his job and exaggerating the discomfort of working in loud environments.",
+          "C. To undermine the reliability of what someone claims to have heard by framing loud, constant train noise as a normal, attention-dulling background condition.",
+          "D. To argue that the witness probably heard the words correctly but misremembered who spoke them after the train had already passed.",
+          "E. To argue that living near the train line is harmless because workers in his trade are already used to being distracted by noise.",
+          "F. To emphasize from his own experience that the el noise and work stress make people hypersensitive to sound, so a witness might actually have heard the key noise—and perceived it as even louder than it was."
+        ],
+        "answer": "C. To undermine the reliability of what someone claims to have heard by framing loud, constant train noise as a normal, attention-dulling background condition."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which inference best captures the building’s primary function based on the combination of crowd control cues and the upstairs layout described?\nA. It is a hospital wing where guards regulate access to patient areas and corridors branch primarily into treatment rooms.\nB. It is a hotel or convention venue designed to funnel guests from elevators to event rooms without any institutional screening.\nC. It is a corporate office tower where security is focused on restricting access to executive suites rather than managing public traffic.\nD. It is a courthouse where security presence and elevator crowding lead mainly to an upstairs corridor of administrative offices, with the actual courtrooms located elsewhere in the building.\nE. It is a courthouse where multiple hearings run in parallel, requiring controlled circulation between a busy public lobby and several courtrooms.\nF. It is a courthouse designed to manage heavy public traffic, but the layout implies proceedings are concentrated downstairs, with an open, delay-prone elevator flow feeding a corridor where courtrooms line the opposite side from the elevator bank.\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. It is a hospital wing where guards regulate access to patient areas and corridors branch primarily into treatment rooms.",
+          "B. It is a hotel or convention venue designed to funnel guests from elevators to event rooms without any institutional screening.",
+          "C. It is a corporate office tower where security is focused on restricting access to executive suites rather than managing public traffic.",
+          "D. It is a courthouse where security presence and elevator crowding lead mainly to an upstairs corridor of administrative offices, with the actual courtrooms located elsewhere in the building.",
+          "E. It is a courthouse where multiple hearings run in parallel, requiring controlled circulation between a busy public lobby and several courtrooms.",
+          "F. It is a courthouse designed to manage heavy public traffic, but the layout implies proceedings are concentrated downstairs, with an open, delay-prone elevator flow feeding a corridor where courtrooms line the opposite side from the elevator bank."
+        ],
+        "answer": "E. It is a courthouse where multiple hearings run in parallel, requiring controlled circulation between a busy public lobby and several courtrooms."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What does the camera’s movement and the crowding into the elevator most strongly imply about how the scene is framing the setting?\n\nA. It is signaling that the scene is shifting away from court activity toward administrative offices, with the elevator serving as a staff-only passage.\nB. It is establishing the courthouse as a busy, multi-courtroom hub, but with the elevator functioning mainly as the primary passage to administrative floors rather than to courtrooms.\nC. It is emphasizing a confined, private confrontation about to happen inside a single elevator, rather than the building’s broader function.\nD. It is establishing the courthouse as a busy, multi-courtroom hub where people are being funneled from a public lobby into more specialized spaces.\nE. It is indicating that the main action will occur outside the courthouse, using the interior only as a brief transition.\nF. It is establishing the courthouse as a hectic, multi-courtroom hub where the camera lingers on one elevator because it’s repeatedly delayed by people squeezing in, implying a bottlenecked access point that’s central to navigating the building.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. It is signaling that the scene is shifting away from court activity toward administrative offices, with the elevator serving as a staff-only passage.",
+          "B. It is establishing the courthouse as a busy, multi-courtroom hub, but with the elevator functioning mainly as the primary passage to administrative floors rather than to courtrooms.",
+          "C. It is emphasizing a confined, private confrontation about to happen inside a single elevator, rather than the building’s broader function.",
+          "D. It is establishing the courthouse as a busy, multi-courtroom hub where people are being funneled from a public lobby into more specialized spaces.",
+          "E. It is indicating that the main action will occur outside the courthouse, using the interior only as a brief transition.",
+          "F. It is establishing the courthouse as a hectic, multi-courtroom hub where the camera lingers on one elevator because it’s repeatedly delayed by people squeezing in, implying a bottlenecked access point that’s central to navigating the building."
+        ],
+        "answer": "D. It is establishing the courthouse as a busy, multi-courtroom hub where people are being funneled from a public lobby into more specialized spaces."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What do these details most strongly imply about the building’s elevator system at that moment?\n\nA. It is mostly idle, with foot traffic driven by non-elevator events in the lobby rather than active elevator circulation.\nB. It is operating in a steady, high-throughput rhythm where cars arrive and depart continuously rather than being stalled or shut down.\nC. It is running under heightened security controls that are slowing passenger movement and diverting traffic into corridors.\nD. It is largely functioning at normal capacity, but one elevator is experiencing a brief overload-related delay at the doors, creating a momentary bottleneck even as other cars continue cycling.\nE. It has been restricted to a single elevator, forcing everyone to crowd into one car due to an outage.\nF. It is still in a high-throughput cycle overall, but the elevators are intermittently holding doors open to take additional passengers, causing riders to bunch up and drift uncertainly before moving off down the corridor.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. It is mostly idle, with foot traffic driven by non-elevator events in the lobby rather than active elevator circulation.",
+          "B. It is operating in a steady, high-throughput rhythm where cars arrive and depart continuously rather than being stalled or shut down.",
+          "C. It is running under heightened security controls that are slowing passenger movement and diverting traffic into corridors.",
+          "D. It is largely functioning at normal capacity, but one elevator is experiencing a brief overload-related delay at the doors, creating a momentary bottleneck even as other cars continue cycling.",
+          "E. It has been restricted to a single elevator, forcing everyone to crowd into one car due to an outage.",
+          "F. It is still in a high-throughput cycle overall, but the elevators are intermittently holding doors open to take additional passengers, causing riders to bunch up and drift uncertainly before moving off down the corridor."
+        ],
+        "answer": "B. It is operating in a steady, high-throughput rhythm where cars arrive and depart continuously rather than being stalled or shut down."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which inference best captures what is procedurally true at the moment the door labeled \"Jury Room\" is opened and the camera moves toward it?\n\nA. The jury is being called back into the courtroom to announce a verdict, which is why the camera focuses on their doorway.\nB. The jurors are about to retire to deliberate, but the alternates are likely still accompanying them toward the jury room even though they won’t participate in the decision.\nC. All people previously seated as jurors, including alternates, are about to enter together to begin deliberations as a full group.\nD. The judge is about to enter the jury room to supervise the discussion, which is why a uniformed guard opens the door.\nE. Only the deliberating jurors are about to enter, because non-deliberating jurors have already been dismissed from participating.\nF. The full panel, including alternates who remain seated, is about to return together through the door marked for the jury’s seating area, indicating deliberations are not yet beginning.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. The jury is being called back into the courtroom to announce a verdict, which is why the camera focuses on their doorway.",
+          "B. The jurors are about to retire to deliberate, but the alternates are likely still accompanying them toward the jury room even though they won’t participate in the decision.",
+          "C. All people previously seated as jurors, including alternates, are about to enter together to begin deliberations as a full group.",
+          "D. The judge is about to enter the jury room to supervise the discussion, which is why a uniformed guard opens the door.",
+          "E. Only the deliberating jurors are about to enter, because non-deliberating jurors have already been dismissed from participating.",
+          "F. The full panel, including alternates who remain seated, is about to return together through the door marked for the jury’s seating area, indicating deliberations are not yet beginning."
+        ],
+        "answer": "E. Only the deliberating jurors are about to enter, because non-deliberating jurors have already been dismissed from participating."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "A skeptic dismisses “the knife business” as nonsense. Based on what the discussion later establishes, which is the best reason that dismissal is too broad?\n\nA. Because the father survived the stabbing, so the knife story is exaggerated and not essential to what happened.\nB. Because later discussion establishes that the case does centrally involve a knife: the victim was killed by a stab wound, and the prosecution’s case also links the defendant to a knife said to match the murder weapon.\nC. Because the knife detail is only a rumor repeated for dramatic effect, and no one can link it to a specific person.\nD. Because the witness account conflicts with the physical evidence, so the knife claim cannot be trusted either way.\nE. Because there is strong evidence the father was found with a knife in his chest, so dismissing the “knife business” as unbelievable ignores that the weapon itself is firmly established even if the attacker isn’t.\nF. Because later details show the father was actually the one stabbed and the only disputed point is whether the boy merely pulled the knife out afterward, so treating the entire “knife business” as bushwash is unfair.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Because the father survived the stabbing, so the knife story is exaggerated and not essential to what happened.",
+          "B. Because later discussion establishes that the case does centrally involve a knife: the victim was killed by a stab wound, and the prosecution’s case also links the defendant to a knife said to match the murder weapon.",
+          "C. Because the knife detail is only a rumor repeated for dramatic effect, and no one can link it to a specific person.",
+          "D. Because the witness account conflicts with the physical evidence, so the knife claim cannot be trusted either way.",
+          "E. Because there is strong evidence the father was found with a knife in his chest, so dismissing the “knife business” as unbelievable ignores that the weapon itself is firmly established even if the attacker isn’t.",
+          "F. Because later details show the father was actually the one stabbed and the only disputed point is whether the boy merely pulled the knife out afterward, so treating the entire “knife business” as bushwash is unfair."
+        ],
+        "answer": "B. Because later discussion establishes that the case does centrally involve a knife: the victim was killed by a stab wound, and the prosecution’s case also links the defendant to a knife said to match the murder weapon."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Speaker(#2) reacts to others’ opinions about a civic duty by first conceding their right to hold that view, then offering a mildly positive personal reaction grounded in inexperience, and finally trailing off after learning someone refuses to participate. What underlying stance best explains this pattern?\n\nA. They are indifferent to the topic and the trailing off reflects boredom rather than any social tension or recalibration.\nB. They initially validate others’ right to an opinion and share that they found it interesting because it’s their first time, but the refusal mainly catches them off guard and shifts them into awkward uncertainty about the situation rather than any concern about avoiding conflict.\nC. They are confidently endorsing participation as unquestionably beneficial, and the refusal surprises them only because they assumed unanimous agreement.\nD. They are covertly outraged about the duty and use polite language only to conceal their intention to shame anyone who declines.\nE. They are trying to stay diplomatically neutral while signaling their own tentative openness, and the refusal leaves them unsure how to respond without creating conflict.\nF. They subtly disapprove of the duty—framing others as not really entitled to that view and downplaying the experience as uninteresting despite having served before—so when someone says they won’t participate, they trail off because the refusal confirms their own skepticism.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. They are indifferent to the topic and the trailing off reflects boredom rather than any social tension or recalibration.",
+          "B. They initially validate others’ right to an opinion and share that they found it interesting because it’s their first time, but the refusal mainly catches them off guard and shifts them into awkward uncertainty about the situation rather than any concern about avoiding conflict.",
+          "C. They are confidently endorsing participation as unquestionably beneficial, and the refusal surprises them only because they assumed unanimous agreement.",
+          "D. They are covertly outraged about the duty and use polite language only to conceal their intention to shame anyone who declines.",
+          "E. They are trying to stay diplomatically neutral while signaling their own tentative openness, and the refusal leaves them unsure how to respond without creating conflict.",
+          "F. They subtly disapprove of the duty—framing others as not really entitled to that view and downplaying the experience as uninteresting despite having served before—so when someone says they won’t participate, they trail off because the refusal confirms their own skepticism."
+        ],
+        "answer": "E. They are trying to stay diplomatically neutral while signaling their own tentative openness, and the refusal leaves them unsure how to respond without creating conflict."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What underlying tension in Juror #3’s worldview is most clearly revealed by his remarks during the trial discussion?\n\nA. He endorses due process as a civic ideal, yet is tempted by preemptive, punitive control when he assumes guilt is obvious.\nB. He is mainly indifferent to the outcome and cares only about avoiding boredom and wasted time.\nC. He thinks the defendant is innocent but worries lawyers can confuse juries into wrongful convictions.\nD. He distrusts the legal system entirely and believes jury trials are fundamentally pointless theater.\nE. He affirms the principle that everyone deserves a fair trial, yet his frustration with long-winded lawyers makes him wish cases like this could be handled quickly and cheaply without so much courtroom procedure.\nF. He says he supports a fair trial in principle, but because he sees the case as not nearly as obvious as others, he leans toward giving tough kids a chance early on as a pragmatic way to prevent later trouble and save time and money.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He endorses due process as a civic ideal, yet is tempted by preemptive, punitive control when he assumes guilt is obvious.",
+          "B. He is mainly indifferent to the outcome and cares only about avoiding boredom and wasted time.",
+          "C. He thinks the defendant is innocent but worries lawyers can confuse juries into wrongful convictions.",
+          "D. He distrusts the legal system entirely and believes jury trials are fundamentally pointless theater.",
+          "E. He affirms the principle that everyone deserves a fair trial, yet his frustration with long-winded lawyers makes him wish cases like this could be handled quickly and cheaply without so much courtroom procedure.",
+          "F. He says he supports a fair trial in principle, but because he sees the case as not nearly as obvious as others, he leans toward giving tough kids a chance early on as a pragmatic way to prevent later trouble and save time and money."
+        ],
+        "answer": "A. He endorses due process as a civic ideal, yet is tempted by preemptive, punitive control when he assumes guilt is obvious."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What does #5’s behavior most strongly imply about his attitude toward the knife he takes from #6?\n\nA. He takes the knife to assert control, but his quick movement suggests determination more than discomfort, implying he accepts the knife without real unease.\nB. He wants to control the situation but is uneasy handling the knife, treating it as necessary yet unpleasant.\nC. He distrusts #6’s intentions and takes the knife mainly to prevent #6 from hiding evidence.\nD. He is indifferent to the knife itself and takes it only to show off confidence in front of #6.\nE. He is eager to use the knife immediately and expresses excitement about having it.\nF. He’s reluctant and uncertain about the knife at first—hesitating and leaving it half-open—then takes it mainly to stop #6 from holding it, suggesting wariness of #6 rather than simple dislike of the object.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He takes the knife to assert control, but his quick movement suggests determination more than discomfort, implying he accepts the knife without real unease.",
+          "B. He wants to control the situation but is uneasy handling the knife, treating it as necessary yet unpleasant.",
+          "C. He distrusts #6’s intentions and takes the knife mainly to prevent #6 from hiding evidence.",
+          "D. He is indifferent to the knife itself and takes it only to show off confidence in front of #6.",
+          "E. He is eager to use the knife immediately and expresses excitement about having it.",
+          "F. He’s reluctant and uncertain about the knife at first—hesitating and leaving it half-open—then takes it mainly to stop #6 from holding it, suggesting wariness of #6 rather than simple dislike of the object."
+        ],
+        "answer": "B. He wants to control the situation but is uneasy handling the knife, treating it as necessary yet unpleasant."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Taken together, what is the most plausible reason Person #5 abruptly stands up at that moment?\n\nA. He’s fed up with being talked down to (“Now listen, sonny…”) and rises to push back against the speaker’s condescending tone rather than the slum-bashing itself.\nB. He is being addressed in a friendly, paternal way and stands up out of respect to listen more closely.\nC. He feels personally insulted by the contempt toward people from slums and moves to confront or interrupt the speaker.\nD. He stands because the conversation has ended and he is preparing to leave before it escalates.\nE. He realizes he has accidentally agreed with the speaker and stands to apologize for endorsing the view.\nF. He stands up to stop the argument from turning cruel, since the speaker is explicitly saying the slum kids “ain’t all trash” and Person #5 wants to prevent unfair judging from escalating.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He’s fed up with being talked down to (“Now listen, sonny…”) and rises to push back against the speaker’s condescending tone rather than the slum-bashing itself.",
+          "B. He is being addressed in a friendly, paternal way and stands up out of respect to listen more closely.",
+          "C. He feels personally insulted by the contempt toward people from slums and moves to confront or interrupt the speaker.",
+          "D. He stands because the conversation has ended and he is preparing to leave before it escalates.",
+          "E. He realizes he has accidentally agreed with the speaker and stands to apologize for endorsing the view.",
+          "F. He stands up to stop the argument from turning cruel, since the speaker is explicitly saying the slum kids “ain’t all trash” and Person #5 wants to prevent unfair judging from escalating."
+        ],
+        "answer": "C. He feels personally insulted by the contempt toward people from slums and moves to confront or interrupt the speaker."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is the foreman’s primary aim in drawing a line down the paper and rapidly making marks while calling out juror numbers?\n\nA. He conducts an anonymous headcount without linking any response to a juror number.\nB. He calls juror numbers aloud and marks each response into a guilty/not-guilty tally on the paper.\nC. To calculate how many jurors are present so he can request replacements for absentees\nD. To draft a formal jury roster that can be handed to the judge as an official record\nE. To sketch a seating chart that links juror numbers to their positions in the room\nF. He delays recording the vote until the jurors agree to use secret written ballots.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He conducts an anonymous headcount without linking any response to a juror number.",
+          "B. He calls juror numbers aloud and marks each response into a guilty/not-guilty tally on the paper.",
+          "C. To calculate how many jurors are present so he can request replacements for absentees",
+          "D. To draft a formal jury roster that can be handed to the judge as an official record",
+          "E. To sketch a seating chart that links juror numbers to their positions in the room",
+          "F. He delays recording the vote until the jurors agree to use secret written ballots."
+        ],
+        "answer": "B. He calls juror numbers aloud and marks each response into a guilty/not-guilty tally on the paper."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What role is the Foreman functionally performing in the group at the moment he says, \"That sounds fair. Anyone object?\"\n\nA. He is confirming a voting procedure and asking for objections, but primarily to lock in the current split and move directly to a verdict without further formal steps.\nB. He is taking an informal poll to predict the likely verdict without committing to any official process.\nC. He is announcing the final verdict after confirming that the numerical split is already decisive.\nD. He is proposing a procedural rule for how the vote will be conducted and seeking unanimous consent before executing it.\nE. He is attempting to change jurors’ minds by pressuring dissenters to speak up before the verdict is finalized.\nF. He is proposing a fair rule and checking for objections as a mediator, but he’s doing so to keep the vote open and delay calling jurors’ numbers until the group can shift toward a not-guilty outcome.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He is confirming a voting procedure and asking for objections, but primarily to lock in the current split and move directly to a verdict without further formal steps.",
+          "B. He is taking an informal poll to predict the likely verdict without committing to any official process.",
+          "C. He is announcing the final verdict after confirming that the numerical split is already decisive.",
+          "D. He is proposing a procedural rule for how the vote will be conducted and seeking unanimous consent before executing it.",
+          "E. He is attempting to change jurors’ minds by pressuring dissenters to speak up before the verdict is finalized.",
+          "F. He is proposing a fair rule and checking for objections as a mediator, but he’s doing so to keep the vote open and delay calling jurors’ numbers until the group can shift toward a not-guilty outcome."
+        ],
+        "answer": "D. He is proposing a procedural rule for how the vote will be conducted and seeking unanimous consent before executing it."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What does the group's interaction around the water fountain most strongly suggest about how tensions are being managed in that moment?\n\nA. A minor scarcity-driven queue is keeping the situation orderly until an outside provocation disrupts it.\nB. The men are intentionally avoiding each other, and the thrown paper is used to force them into direct conflict.\nC. #3 is already singled out and expecting hostility, so he reacts as planned to justify confronting the others.\nD. A coordinated prank among the three escalates as part of a shared joke that #3 initially misunderstands.\nE. A brief, orderly rotation at the fountain keeps everyone calm until the thrown paper heightens tension, but it’s #7—not #3—who’s struck and reacts angrily.\nF. The moment reads as controlled and routine, yet a subtle hesitation on the way over hints at unease; when the paper hits #7, his angry turn suggests tensions are being contained only until a targeted jab forces them to surface.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. A minor scarcity-driven queue is keeping the situation orderly until an outside provocation disrupts it.",
+          "B. The men are intentionally avoiding each other, and the thrown paper is used to force them into direct conflict.",
+          "C. #3 is already singled out and expecting hostility, so he reacts as planned to justify confronting the others.",
+          "D. A coordinated prank among the three escalates as part of a shared joke that #3 initially misunderstands.",
+          "E. A brief, orderly rotation at the fountain keeps everyone calm until the thrown paper heightens tension, but it’s #7—not #3—who’s struck and reacts angrily.",
+          "F. The moment reads as controlled and routine, yet a subtle hesitation on the way over hints at unease; when the paper hits #7, his angry turn suggests tensions are being contained only until a targeted jab forces them to surface."
+        ],
+        "answer": "A. A minor scarcity-driven queue is keeping the situation orderly until an outside provocation disrupts it."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Across his repeated use of “Know what I mean?” in different moments, what is #10 primarily trying to accomplish in the group?\n\nA. He is sincerely checking whether others understand the factual details he has just provided.\nB. He is urging the others to move faster and wrap things up because he has outside obligations, but without any real attempt to throw his weight around or demand agreement.\nC. He is signaling uncertainty and inviting others to correct him before a decision is made.\nD. He is attempting to lighten tension with casual small talk so the discussion stays friendly.\nE. He is pressuring others into quick agreement by leveraging a self-important, deadline-driven posture.\nF. He is using the phrase mainly to soften his point and show he isn’t trying to pressure anyone, positioning himself as simply asking to be heard while the group reviews the evidence.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He is sincerely checking whether others understand the factual details he has just provided.",
+          "B. He is urging the others to move faster and wrap things up because he has outside obligations, but without any real attempt to throw his weight around or demand agreement.",
+          "C. He is signaling uncertainty and inviting others to correct him before a decision is made.",
+          "D. He is attempting to lighten tension with casual small talk so the discussion stays friendly.",
+          "E. He is pressuring others into quick agreement by leveraging a self-important, deadline-driven posture.",
+          "F. He is using the phrase mainly to soften his point and show he isn’t trying to pressure anyone, positioning himself as simply asking to be heard while the group reviews the evidence."
+        ],
+        "answer": "E. He is pressuring others into quick agreement by leveraging a self-important, deadline-driven posture."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What does the speaker’s escalation from a blunt verdict to insisting that \"everything\" in court points one way most strongly suggest about how he is using the trial material in the argument?\n\nA. He is appealing to the collective weight of multiple details to shut down further debate, treating the case as already settled.\nB. He is shifting from evidence-based reasoning to a purely emotional stance because he lacks any courtroom support.\nC. He is retracting his earlier certainty and inviting others to re-evaluate the testimony piece by piece.\nD. He is acknowledging uncertainty but arguing that one key witness outweighs the rest of the evidence.\nE. He is doubling down on his verdict by claiming the testimony he considers most important proves guilt on its own, effectively overriding any need to weigh the rest.\nF. He is moving from a firm personal judgment to a more qualified reading of the record—suggesting that almost everything in court seems to point toward guilt, but leaving room for doubt while still leaning on the overall drift of the testimony.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He is appealing to the collective weight of multiple details to shut down further debate, treating the case as already settled.",
+          "B. He is shifting from evidence-based reasoning to a purely emotional stance because he lacks any courtroom support.",
+          "C. He is retracting his earlier certainty and inviting others to re-evaluate the testimony piece by piece.",
+          "D. He is acknowledging uncertainty but arguing that one key witness outweighs the rest of the evidence.",
+          "E. He is doubling down on his verdict by claiming the testimony he considers most important proves guilt on its own, effectively overriding any need to weigh the rest.",
+          "F. He is moving from a firm personal judgment to a more qualified reading of the record—suggesting that almost everything in court seems to point toward guilt, but leaving room for doubt while still leaning on the overall drift of the testimony."
+        ],
+        "answer": "A. He is appealing to the collective weight of multiple details to shut down further debate, treating the case as already settled."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What do the others' repeated insistence on hearing #3's arguments again most strongly suggest about how the group is managing the decision-making process?\n\nA. They are deferring to #3 as the recognized authority, treating his arguments as the final standard.\nB. They are reopening the discussion to ensure every juror fully understands the existing arguments before voting, rather than trying to delay the process or change anyone’s mind.\nC. They suspect #3 is withholding new evidence and are pressuring him to reveal it by repetition.\nD. They are intentionally slowing the process to force a reasoned consensus, even though some members have already reached a verdict.\nE. They have already decided to acquit and are giving #3 a final chance to save face before moving on.\nF. They are pressing #3 to restate his position quickly because time is short, signaling the group is managing the decision by moving toward a fast closure while letting him register a dissent.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. They are deferring to #3 as the recognized authority, treating his arguments as the final standard.",
+          "B. They are reopening the discussion to ensure every juror fully understands the existing arguments before voting, rather than trying to delay the process or change anyone’s mind.",
+          "C. They suspect #3 is withholding new evidence and are pressuring him to reveal it by repetition.",
+          "D. They are intentionally slowing the process to force a reasoned consensus, even though some members have already reached a verdict.",
+          "E. They have already decided to acquit and are giving #3 a final chance to save face before moving on.",
+          "F. They are pressing #3 to restate his position quickly because time is short, signaling the group is managing the decision by moving toward a fast closure while letting him register a dissent."
+        ],
+        "answer": "D. They are intentionally slowing the process to force a reasoned consensus, even though some members have already reached a verdict."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "A juror insists that the defendant must be guilty because the trial “covered everything,” then reacts defensively when others question the old man’s identification, the knife, and the woman’s glasses. What does this combination of moves most strongly suggest about how he is actually reasoning?\n\nA. He’s persuaded by the overall volume and confidence of the prosecution’s presentation, so he treats the case as ‘complete’ and brushes off doubts about the old man, the knife, and the glasses without actually relying on any one of them.\nB. He thinks each piece of evidence is individually airtight, so he sees no need to discuss how they fit together.\nC. He has independently verified key facts outside the courtroom, so he dismisses objections as irrelevant technicalities.\nD. He believes the defense presented a coherent alternative narrative, but he prioritizes legal finality over uncertainty.\nE. He is treating the mere existence of multiple prosecution details as proof, and resists scrutiny that could weaken any single link in that accumulating story.\nF. He’s weighing the evidence in a nuanced way: because even the old man’s sighting was only a vague ‘thought it was him,’ he leans on the broader pattern from the rest of the testimony to conclude guilt and treats challenges to those details as overblown.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He’s persuaded by the overall volume and confidence of the prosecution’s presentation, so he treats the case as ‘complete’ and brushes off doubts about the old man, the knife, and the glasses without actually relying on any one of them.",
+          "B. He thinks each piece of evidence is individually airtight, so he sees no need to discuss how they fit together.",
+          "C. He has independently verified key facts outside the courtroom, so he dismisses objections as irrelevant technicalities.",
+          "D. He believes the defense presented a coherent alternative narrative, but he prioritizes legal finality over uncertainty.",
+          "E. He is treating the mere existence of multiple prosecution details as proof, and resists scrutiny that could weaken any single link in that accumulating story.",
+          "F. He’s weighing the evidence in a nuanced way: because even the old man’s sighting was only a vague ‘thought it was him,’ he leans on the broader pattern from the rest of the testimony to conclude guilt and treats challenges to those details as overblown."
+        ],
+        "answer": "E. He is treating the mere existence of multiple prosecution details as proof, and resists scrutiny that could weaken any single link in that accumulating story."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What sequence of specific physical interactions involves the Judge and his water glass before he addresses the gentlemen in the courtroom?\n\nA. He refills his own glass from a pitcher, clears his throat twice, and turns to the right to speak.\nB. He finishes the water, signals the Clerk for more, and waits for a fresh pitcher before speaking.\nC. He clears his throat, drinks the water, and keeps the glass in his hand while starting his speech.\nD. He clears his throat, drinks half a glass of water, and then signals a waiter for a refill.\nE. He raises his hand like he's calling a waiter, drinks the water, puts the glass down, and clears his throat.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He refills his own glass from a pitcher, clears his throat twice, and turns to the right to speak.",
+          "B. He finishes the water, signals the Clerk for more, and waits for a fresh pitcher before speaking.",
+          "C. He clears his throat, drinks the water, and keeps the glass in his hand while starting his speech.",
+          "D. He clears his throat, drinks half a glass of water, and then signals a waiter for a refill.",
+          "E. He raises his hand like he's calling a waiter, drinks the water, puts the glass down, and clears his throat.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. He raises his hand like he's calling a waiter, drinks the water, puts the glass down, and clears his throat."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Based on the Judge's instructions and behavior, what is the nature of his interaction with the 14-member group present in the courtroom?\nA. He shows favoritism towards Juror #8 by nodding in his direction after completing his final remarks.\nB. He requires all 14 people, including alternates, to deliberate and return a unanimous 14-0 verdict.\nC. He interacts primarily with the Foreman, directing all legal questions and water requests through him.\nD. He provides legal guidance to all 14 but explicitly separates their duties by thanking the group before the alternates are dismissed.\nE. He acknowledges their diverse backgrounds but warns that he will not accept any recommendations for mercy.\nF. Cannot infer the answer based on the given information.\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He shows favoritism towards Juror #8 by nodding in his direction after completing his final remarks.",
+          "B. He requires all 14 people, including alternates, to deliberate and return a unanimous 14-0 verdict.",
+          "C. He interacts primarily with the Foreman, directing all legal questions and water requests through him.",
+          "D. He provides legal guidance to all 14 but explicitly separates their duties by thanking the group before the alternates are dismissed.",
+          "E. He acknowledges their diverse backgrounds but warns that he will not accept any recommendations for mercy.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. He provides legal guidance to all 14 but explicitly separates their duties by thanking the group before the alternates are dismissed."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is the first specific question or observation Juror #5 makes after entering the jury room and realizing the door has been locked?\n\nA. He asks Juror #12 for his opinion on the prosecutor.\nB. He observes that Baltimore fans suffer every day.\nC. He asks if he can have a stick of gum from Juror #7.\nD. He asks if they are going to vote by secret ballot.\nE. He asks the Foreman if they are going to sit in order.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He asks Juror #12 for his opinion on the prosecutor.",
+          "B. He observes that Baltimore fans suffer every day.",
+          "C. He asks if he can have a stick of gum from Juror #7.",
+          "D. He asks if they are going to vote by secret ballot.",
+          "E. He asks the Foreman if they are going to sit in order.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. He asks the Foreman if they are going to sit in order."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which specific detail about the physical evidence of the murder does Juror #3 highlight during the deliberations?\n\nA. The knife was found in the boy's pocket at the movies.\nB. The woman saw the knife through the el train window.\nC. The el train had no passengers on it at 12:10.\nD. The boy shouted 'I'm gonna kill you' at exactly midnight.\nE. The father was knifed four inches into the chest.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. The knife was found in the boy's pocket at the movies.",
+          "B. The woman saw the knife through the el train window.",
+          "C. The el train had no passengers on it at 12:10.",
+          "D. The boy shouted 'I'm gonna kill you' at exactly midnight.",
+          "E. The father was knifed four inches into the chest.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. The father was knifed four inches into the chest."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does Juror #11 interact with Juror #10 during the discussion about the woman's testimony?\n\nA. He remains silent while Juror #9 calls Juror #10 an ignorant man.\nB. He ignores Juror #10 and focuses on Juror #12's Rice Pops drawing.\nC. He asks Juror #10 to stop wiping his nose at the table.\nD. He agrees only with the narrow factual point that the woman was presented as an eyewitness to the killing.\nE. He argues that Juror #10 is a bigot who doesn't value life.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He remains silent while Juror #9 calls Juror #10 an ignorant man.",
+          "B. He ignores Juror #10 and focuses on Juror #12's Rice Pops drawing.",
+          "C. He asks Juror #10 to stop wiping his nose at the table.",
+          "D. He agrees only with the narrow factual point that the woman was presented as an eyewitness to the killing.",
+          "E. He argues that Juror #10 is a bigot who doesn't value life.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. He agrees only with the narrow factual point that the woman was presented as an eyewitness to the killing."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What did #6 say about the case, and how did he react when #10 made a comment about the defendant's background?\n\nA. He said he was convinced from the start and thought the case was clear.\nB. He said he was convinced from the start and agreed with #10's point about the defendant's background.\nC. He said he was convinced from the start and didn't respond to #10's comment.\nD. He said he was convinced from the start and thought the defendant was a liar.\nE. He said he was convinced from the start and thought #10 was being unfair.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He said he was convinced from the start and thought the case was clear.",
+          "B. He said he was convinced from the start and agreed with #10's point about the defendant's background.",
+          "C. He said he was convinced from the start and didn't respond to #10's comment.",
+          "D. He said he was convinced from the start and thought the defendant was a liar.",
+          "E. He said he was convinced from the start and thought #10 was being unfair.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. He said he was convinced from the start and didn't respond to #10's comment."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which medical aid or accessory does Juror #10 use in the jury room to treat his condition?\n\nA. A ben-zedrine inhaler\nB. A cereal box\nC. Cough drops\nD. Heart pills\nE. A thermometer\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. A ben-zedrine inhaler",
+          "B. A cereal box",
+          "C. Cough drops",
+          "D. Heart pills",
+          "E. A thermometer",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. A ben-zedrine inhaler"
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What core judicial philosophy does the Judge demonstrate when interacting with the jurors?\n\nA. He remains completely silent but uses highly aggressive body language to guide them.\nB. He frequently interrupts the jury to provide context on difficult slum environments.\nC. He emphasizes that reasonable doubt is a crucial pillar of the justice system.\nD. He strictly enforces a literal interpretation of the law without showing any empathy.\nE. He shows a strong bias towards the prosecution's key witnesses during the testimony.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He remains completely silent but uses highly aggressive body language to guide them.",
+          "B. He frequently interrupts the jury to provide context on difficult slum environments.",
+          "C. He emphasizes that reasonable doubt is a crucial pillar of the justice system.",
+          "D. He strictly enforces a literal interpretation of the law without showing any empathy.",
+          "E. He shows a strong bias towards the prosecution's key witnesses during the testimony.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. He emphasizes that reasonable doubt is a crucial pillar of the justice system."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does #7 interact with #3 when discussing the potential of a hung jury?\n\nA. #7 completely ignores #3 and addresses his concerns entirely to the Foreman instead.\nB. #7 physically restrains #3 from attacking #8 when the topic of a hung jury is brought up.\nC. #7 politely asks #3 to calm down and thoroughly reconsider the possibility of an acquittal.\nD. #7 supports #3's frustration by aggressively arguing that #8's stubbornness will just lead to another guilty verdict anyway.\nE. #7 vigorously disagrees with #3, arguing that a hung jury is actually the best possible outcome.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. #7 completely ignores #3 and addresses his concerns entirely to the Foreman instead.",
+          "B. #7 physically restrains #3 from attacking #8 when the topic of a hung jury is brought up.",
+          "C. #7 politely asks #3 to calm down and thoroughly reconsider the possibility of an acquittal.",
+          "D. #7 supports #3's frustration by aggressively arguing that #8's stubbornness will just lead to another guilty verdict anyway.",
+          "E. #7 vigorously disagrees with #3, arguing that a hung jury is actually the best possible outcome.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. #7 supports #3's frustration by aggressively arguing that #8's stubbornness will just lead to another guilty verdict anyway."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What specific action did the defendant allegedly take with the murder weapon prior to the killing, according to #3?\n\nA. The boy wiped the switch-blade knife completely clean of fingerprints immediately after leaving the junk shop.\nB. The boy purchased the knife to replace a friend's knife that he had broken by dropping it on the pavement.\nC. The boy showed the ornately carved handle to the storekeeper to prove it was the only one of its kind in stock.\nD. The boy intentionally lost the knife through a hole in his pocket while walking to the all-night movies.\nE. The boy bought the knife exclusively to use it during an argument with his father at eight o'clock.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. The boy wiped the switch-blade knife completely clean of fingerprints immediately after leaving the junk shop.",
+          "B. The boy purchased the knife to replace a friend's knife that he had broken by dropping it on the pavement.",
+          "C. The boy showed the ornately carved handle to the storekeeper to prove it was the only one of its kind in stock.",
+          "D. The boy intentionally lost the knife through a hole in his pocket while walking to the all-night movies.",
+          "E. The boy bought the knife exclusively to use it during an argument with his father at eight o'clock.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. The boy purchased the knife to replace a friend's knife that he had broken by dropping it on the pavement."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is #2's stated occupational background that influences his timid behavior during the deliberation?\n\nA. He is a high school teacher accustomed to being talked over by rowdy teenagers.\nB. He is a bank clerk described as meek, hesitant, and easily swayed.\nC. He is a former court reporter who is used to observing rather than participating in arguments.\nD. He is an advertising executive who prefers to let others pitch their ideas first.\nE. He manages three garages, which makes him impatient with long, drawn-out conversations.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He is a high school teacher accustomed to being talked over by rowdy teenagers.",
+          "B. He is a bank clerk described as meek, hesitant, and easily swayed.",
+          "C. He is a former court reporter who is used to observing rather than participating in arguments.",
+          "D. He is an advertising executive who prefers to let others pitch their ideas first.",
+          "E. He manages three garages, which makes him impatient with long, drawn-out conversations.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. He is a bank clerk described as meek, hesitant, and easily swayed."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is #11's primary profession outside of the jury room?\n\nA. An immigrant tailor trying to build a business.\nB. A watchmaker.\nC. A storekeeper dealing in specialized hardware and tools.\nD. An architect who meticulously designs building layouts.\nE. An assistant district attorney evaluating prosecution tactics.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. An immigrant tailor trying to build a business.",
+          "B. A watchmaker.",
+          "C. A storekeeper dealing in specialized hardware and tools.",
+          "D. An architect who meticulously designs building layouts.",
+          "E. An assistant district attorney evaluating prosecution tactics.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. A watchmaker."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does #9 alter his physical position in the room when #8 begins his lengthy explanation about his doubts?\n\nA. He stands up and walks around the table to sit next to #5.\nB. He stands directly behind #8 to look down at the evidence.\nC. He goes to the water fountain to take a drink.\nD. He leans heavily on the Foreman's shoulder.\nE. He walks over to the window to stand next to #12.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He stands up and walks around the table to sit next to #5.",
+          "B. He stands directly behind #8 to look down at the evidence.",
+          "C. He goes to the water fountain to take a drink.",
+          "D. He leans heavily on the Foreman's shoulder.",
+          "E. He walks over to the window to stand next to #12.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What best explains why Juror #7 changes his vote from guilty to not guilty?\n\nA. He first appears to switch mainly because he is tired of the discussion, then offers \"I don't think he's guilty\" only after others demand a more serious justification.\nB. That the woman had a strong motive to lie.\nC. That the woman had a prior relationship with the defendant.\nD. That the woman had a history of mental instability.\nE. That the woman had a poor memory of the events.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He first appears to switch mainly because he is tired of the discussion, then offers \"I don't think he's guilty\" only after others demand a more serious justification.",
+          "B. That the woman had a strong motive to lie.",
+          "C. That the woman had a prior relationship with the defendant.",
+          "D. That the woman had a history of mental instability.",
+          "E. That the woman had a poor memory of the events.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. He first appears to switch mainly because he is tired of the discussion, then offers \"I don't think he's guilty\" only after others demand a more serious justification."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Based on the social interactions in the jury room, what is the Judge's relationship with the Foreman?\nA. They share a common interest in advertising and agencies.\nB. The Judge frequently interrupts the Foreman's counts.\nC. They conflict over the timing of the dinner break.\nD. The Judge treats the Foreman with professional pride.\nE. The Judge personally appoints the Foreman and gives him direct orders for managing the deliberation.\nF. Cannot infer the answer based on the given information.\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. They share a common interest in advertising and agencies.",
+          "B. The Judge frequently interrupts the Foreman's counts.",
+          "C. They conflict over the timing of the dinner break.",
+          "D. The Judge treats the Foreman with professional pride.",
+          "E. The Judge personally appoints the Foreman and gives him direct orders for managing the deliberation.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What core value does the Clerk express regarding the rights of the accused?\n\nA. The obligation to follow the logic of the facts.\nB. The importance of the soft sell in advertising.\nC. The belief that everyone is entitled to recognition.\nD. The necessity of deciding beyond a reasonable doubt.\nE. The right to have unpopular opinions in the country.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. The obligation to follow the logic of the facts.",
+          "B. The importance of the soft sell in advertising.",
+          "C. The belief that everyone is entitled to recognition.",
+          "D. The necessity of deciding beyond a reasonable doubt.",
+          "E. The right to have unpopular opinions in the country.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does the Clerk's involvement evolve as the jury becomes 'hung up'?\n\nA. He moves from the table to the water fountain.\nB. He changes his vote from guilty to not guilty.\nC. He does not re-enter the narrative; the hung-jury discussion occurs among the jurors.\nD. He becomes more active in stopping the yelling.\nE. He offers cough drops to the frustrated jurors.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He moves from the table to the water fountain.",
+          "B. He changes his vote from guilty to not guilty.",
+          "C. He does not re-enter the narrative; the hung-jury discussion occurs among the jurors.",
+          "D. He becomes more active in stopping the yelling.",
+          "E. He offers cough drops to the frustrated jurors.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. He does not re-enter the narrative; the hung-jury discussion occurs among the jurors."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which option is closest to the Guard’s behavior during his brief appearances?\n\nA. He displays a consistent habit of sniffing around Juror #5.\nB. He exhibits professional obedience and efficiency.\nC. He maintains a quiet, insignificant, and frightened persona.\nD. He values meticulous record-keeping of the ballots.\nE. He insists on seeing the boy put 'into the chair'.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He displays a consistent habit of sniffing around Juror #5.",
+          "B. He exhibits professional obedience and efficiency.",
+          "C. He maintains a quiet, insignificant, and frightened persona.",
+          "D. He values meticulous record-keeping of the ballots.",
+          "E. He insists on seeing the boy put 'into the chair'.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. He exhibits professional obedience and efficiency."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "In the portion of the ballot-reading sequence after session_3 begins, how many times in a row does the Foreman read 'Guilty' before reaching a 'Not guilty' slip?\n\nA. Five times\nB. Six times\nC. Nine times\nD. Eight times\nE. Seven times\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Five times",
+          "B. Six times",
+          "C. Nine times",
+          "D. Eight times",
+          "E. Seven times",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. Seven times"
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "According to the Foreman's summary of the testimony, how many 'other' voices was the boy's voice picked out from during the courtroom test?\nA. Two other voices\nB. Six other voices, meaning seven voices in total including the boy's.\nC. Ten other voices\nD. Three other voices\nE. Five other voices\nF. Cannot infer the answer based on the given information.\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Two other voices",
+          "B. Six other voices, meaning seven voices in total including the boy's.",
+          "C. Ten other voices",
+          "D. Three other voices",
+          "E. Five other voices",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. Five other voices"
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What does #5 suggest about the significance of the defense lawyer being court-appointed?\n\nA. He suggests the lawyer may have been unmotivated, since the case offered no money, fame, or realistic chance of winning.\nB. He argues the court-appointed lawyer was deliberately trying to lose the case to help the prosecution.\nC. He claims court appointment guarantees the lawyer did his best due to professional duty.\nD. He says it simply means the lawyer was assigned at random, with no implication for quality.\nE. He concludes the lawyer's lack of motivation definitively proves the boy's innocence.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He suggests the lawyer may have been unmotivated, since the case offered no money, fame, or realistic chance of winning.",
+          "B. He argues the court-appointed lawyer was deliberately trying to lose the case to help the prosecution.",
+          "C. He claims court appointment guarantees the lawyer did his best due to professional duty.",
+          "D. He says it simply means the lawyer was assigned at random, with no implication for quality.",
+          "E. He concludes the lawyer's lack of motivation definitively proves the boy's innocence.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. He suggests the lawyer may have been unmotivated, since the case offered no money, fame, or realistic chance of winning."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How did #10's opinion of the witness's walk change between #8's setup and the actual simulation?\n\nA. He supported the use of the diagram then rejected the result.\nB. He first said it was possible, then said it was too slow.\nC. He argued the old man ran, then claimed he walked.\nD. He moved from doubt to believing it was insane.\nE. He first says the old man could have made the walk in time, but during the test he attacks the reenactment as too slow and absurd.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He supported the use of the diagram then rejected the result.",
+          "B. He first said it was possible, then said it was too slow.",
+          "C. He argued the old man ran, then claimed he walked.",
+          "D. He moved from doubt to believing it was insane.",
+          "E. He first says the old man could have made the walk in time, but during the test he attacks the reenactment as too slow and absurd.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. He first says the old man could have made the walk in time, but during the test he attacks the reenactment as too slow and absurd."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does #10 respond to Juror #9's assertion that the boy's character is irrelevant?\n\nA. He agrees that facts are the only thing that matter.\nB. He tells #9 to shut up and sits down agitated.\nC. He turns away to talk to the Guard at the door.\nD. He dismisses #9, saying he is sick and tired of facts.\nE. He laughs at #9 and calls him a hair splitter.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He agrees that facts are the only thing that matter.",
+          "B. He tells #9 to shut up and sits down agitated.",
+          "C. He turns away to talk to the Guard at the door.",
+          "D. He dismisses #9, saying he is sick and tired of facts.",
+          "E. He laughs at #9 and calls him a hair splitter.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. He dismisses #9, saying he is sick and tired of facts."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is #4's initial reaction to #8's request for the apartment diagram?\n\nA. He asks Juror #2 to time the walk on his watch.\nB. He helps #8 count the steps in the hallway.\nC. He points out the bedroom was down the hall.\nD. He suggests that the boy was running out.\nE. He shrugs dismissively during the early discussion.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He asks Juror #2 to time the walk on his watch.",
+          "B. He helps #8 count the steps in the hallway.",
+          "C. He points out the bedroom was down the hall.",
+          "D. He suggests that the boy was running out.",
+          "E. He shrugs dismissively during the early discussion.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. He shrugs dismissively during the early discussion."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What action did #6 take to assist #8 during the hallway simulation?\n\nA. He provided a second chair to serve as the bedroom door.\nB. He paced off the forty-three steps with #8.\nC. He timed the walk with his own watch.\nD. He acted as the Guard opening the door.\nE. He read the apartment dimensions from the diagram.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He provided a second chair to serve as the bedroom door.",
+          "B. He paced off the forty-three steps with #8.",
+          "C. He timed the walk with his own watch.",
+          "D. He acted as the Guard opening the door.",
+          "E. He read the apartment dimensions from the diagram.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. He provided a second chair to serve as the bedroom door."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What specific item did #9 take out of a bottle during the final ballot?\n\nA. A handkerchief.\nB. A pen and ink diagram.\nC. A second-hand watch.\nD. A piece of cuticle.\nE. A pill.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. A handkerchief.",
+          "B. A pen and ink diagram.",
+          "C. A second-hand watch.",
+          "D. A piece of cuticle.",
+          "E. A pill.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. A pill."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What did #3's behavior suggest about his approach to the trial, based on his reactions to the discussion of the old man's testimony and the diagram?\n\nA. He was trying to avoid responsibility for the verdict.\nB. He was focused on the emotional appeal of the case.\nC. He was trying to keep the trial moving quickly.\nD. He was concerned about the accuracy of the diagram.\nE. He was trying to understand the facts objectively.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He was trying to avoid responsibility for the verdict.",
+          "B. He was focused on the emotional appeal of the case.",
+          "C. He was trying to keep the trial moving quickly.",
+          "D. He was concerned about the accuracy of the diagram.",
+          "E. He was trying to understand the facts objectively.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. He was focused on the emotional appeal of the case."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which of the following describes #2's specific role during the knife demonstration?\n\nA. He measures the exact distance between the blade and #8's chest.\nB. He attempts to stop #3 from stabbing by grabbing his arm.\nC. He provides the switch-knife to #3 from his own pocket.\nD. He acts as the victim and stands against the wall for #3.\nE. He hands the knife to #3 and confirms the height difference estimates.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He measures the exact distance between the blade and #8's chest.",
+          "B. He attempts to stop #3 from stabbing by grabbing his arm.",
+          "C. He provides the switch-knife to #3 from his own pocket.",
+          "D. He acts as the victim and stands against the wall for #3.",
+          "E. He hands the knife to #3 and confirms the height difference estimates.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. He hands the knife to #3 and confirms the height difference estimates."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What movie star name does #4 struggle to remember accurately during his interrogation?\n\nA. Barbara McCorkle\nB. Barbara Slattery\nC. Barbara Scarlet\nD. Barbara Long / Lang / Lane; he cannot pin down the surname.\nE. Barbara Bainbridge\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Barbara McCorkle",
+          "B. Barbara Slattery",
+          "C. Barbara Scarlet",
+          "D. Barbara Long / Lang / Lane; he cannot pin down the surname.",
+          "E. Barbara Bainbridge",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. Barbara Long / Lang / Lane; he cannot pin down the surname."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Which specific time of day does #6 observe on the wall clock?\n\nA. Half-past seven\nB. Approximately 6:30 PM\nC. Approximately 6:00 PM\nD. Exactly 4:30 PM\nE. Just before midnight\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. Half-past seven",
+          "B. Approximately 6:30 PM",
+          "C. Approximately 6:00 PM",
+          "D. Exactly 4:30 PM",
+          "E. Just before midnight",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does #11's demeanor toward #7 evolve during their confrontation over the vote change?\n\nA. He moves from restrained procedural correction to moral anger because he sees #7 treating a life-or-death vote as a convenience.\nB. He initially agrees with #7's frustration but changes his mind during the rain.\nC. He begins with a furious outburst and eventually calms down to apologize.\nD. He remains polite and subservient, never raising his voice to #7.\nE. He maintains a cold, silent stare throughout the entire discussion.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He moves from restrained procedural correction to moral anger because he sees #7 treating a life-or-death vote as a convenience.",
+          "B. He initially agrees with #7's frustration but changes his mind during the rain.",
+          "C. He begins with a furious outburst and eventually calms down to apologize.",
+          "D. He remains polite and subservient, never raising his voice to #7.",
+          "E. He maintains a cold, silent stare throughout the entire discussion.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. He moves from restrained procedural correction to moral anger because he sees #7 treating a life-or-death vote as a convenience."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is the most accurate description of #5's contribution to the discussion about the knife wound?\n\nA. He claimed that the boy had no experience with knives.\nB. He suggested that the boy had no reason to kill his father.\nC. He argued that the boy's knife skills were irrelevant to the case.\nD. He stated that the boy could not have made the wound with the knife.\nE. He said that the boy was likely to have used the knife underhanded.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He claimed that the boy had no experience with knives.",
+          "B. He suggested that the boy had no reason to kill his father.",
+          "C. He argued that the boy's knife skills were irrelevant to the case.",
+          "D. He stated that the boy could not have made the wound with the knife.",
+          "E. He said that the boy was likely to have used the knife underhanded.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. He said that the boy was likely to have used the knife underhanded."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is the most accurate description of #10's reaction to the discussion about the boy's alibi?\n\nA. He treated the boy’s inability to recall the movie details as a sign that the alibi was false.\nB. He became persuaded that the boy really had been at the movies.\nC. He proposed a break so the jurors could cool off before returning to the alibi.\nD. He agreed with #8 that forgetting the movie names was understandable and did not damage the alibi.\nE. He said the alibi no longer mattered because the jury was already hopelessly deadlocked.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He treated the boy’s inability to recall the movie details as a sign that the alibi was false.",
+          "B. He became persuaded that the boy really had been at the movies.",
+          "C. He proposed a break so the jurors could cool off before returning to the alibi.",
+          "D. He agreed with #8 that forgetting the movie names was understandable and did not damage the alibi.",
+          "E. He said the alibi no longer mattered because the jury was already hopelessly deadlocked.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. He treated the boy’s inability to recall the movie details as a sign that the alibi was false."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Where did #8 position himself immediately after the Foreman and #12 walked to the water cooler?\n\nA. He stood directly behind #4 while #4 was polishing his glasses.\nB. He stood against a wall with his face turned toward it.\nC. He followed the Foreman to the water cooler to wait for a drink.\nD. He sat down at the table and began to clear his throat.\nE. He walked to the window and stood with his back to #10.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He stood directly behind #4 while #4 was polishing his glasses.",
+          "B. He stood against a wall with his face turned toward it.",
+          "C. He followed the Foreman to the water cooler to wait for a drink.",
+          "D. He sat down at the table and began to clear his throat.",
+          "E. He walked to the window and stood with his back to #10.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "B. He stood against a wall with his face turned toward it."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Where was the Foreman when juror #12 decided to follow him for a drink?\n\nA. He was sitting at the head of the table polishing his glasses.\nB. He was standing at the coat rack next to juror #5.\nC. He was in the doorway speaking with the Guard.\nD. He was at the water cooler.\nE. He was standing by the window looking at the rain.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He was sitting at the head of the table polishing his glasses.",
+          "B. He was standing at the coat rack next to juror #5.",
+          "C. He was in the doorway speaking with the Guard.",
+          "D. He was at the water cooler.",
+          "E. He was standing by the window looking at the rain.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. He was at the water cooler."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What was the Foreman's final action recorded before the jurors exited the room?\n\nA. He collected the ballots from the table.\nB. He spoke to the judge on the intercom.\nC. He told juror #3 that he was officially a 'hung jury'.\nD. He stood in the doorway as the others passed him.\nE. He retrieved his belongings and began to walk toward the door.\nF. Cannot infer the Foreman's individual final action based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He collected the ballots from the table.",
+          "B. He spoke to the judge on the intercom.",
+          "C. He told juror #3 that he was officially a 'hung jury'.",
+          "D. He stood in the doorway as the others passed him.",
+          "E. He retrieved his belongings and began to walk toward the door.",
+          "F. Cannot infer the Foreman's individual final action based on the given information."
+        ],
+        "answer": "F. Cannot infer the Foreman's individual final action based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How did #6's memory of the witness change once juror #9 brought up the marks on her nose?\n\nA. He claimed he saw the marks but it never occurred to him what they meant.\nB. He argued that the lawyer should have brought it up if it were true.\nC. He realized she must have been farsighted and wearing sunglasses.\nD. He agreed with #3 that there were no marks on her nose in court.\nE. He immediately remembered seeing her rubbing them in court.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He claimed he saw the marks but it never occurred to him what they meant.",
+          "B. He argued that the lawyer should have brought it up if it were true.",
+          "C. He realized she must have been farsighted and wearing sunglasses.",
+          "D. He agreed with #3 that there were no marks on her nose in court.",
+          "E. He immediately remembered seeing her rubbing them in court.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. He claimed he saw the marks but it never occurred to him what they meant."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Initially, the Guard is described as an impassive uniformed officer who performs his duties methodically. Over the course of the full sequence, what is the Guard's final role regarding his physical presence within the jury room?\n\nA. He remains only at the door, handling evidence and not staying inside the room.\nB. He transitions to standing inside the room, guarding the electric fan.\nC. He replaces the Foreman after a key incident.\nD. He moves freely among jurors, occasionally taking notes.\nE. He becomes a central participant actively engaging with jurors inside the room.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He remains only at the door, handling evidence and not staying inside the room.",
+          "B. He transitions to standing inside the room, guarding the electric fan.",
+          "C. He replaces the Foreman after a key incident.",
+          "D. He moves freely among jurors, occasionally taking notes.",
+          "E. He becomes a central participant actively engaging with jurors inside the room.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. He remains only at the door, handling evidence and not staying inside the room."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Why does the Guard lock the jury room door from the outside after completing his dialogue and exiting, overturning the previous state where the door was unsecured?\n\nA. To maintain strict control and preserve evidence integrity.\nB. Because Juror #5 explicitly requested it for privacy.\nC. To signal the jury that deliberations have officially started.\nD. Because the Foreman directed him to do so due to noise complaints.\nE. To prevent jurors from leaving and violating the trial rules.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. To maintain strict control and preserve evidence integrity.",
+          "B. Because Juror #5 explicitly requested it for privacy.",
+          "C. To signal the jury that deliberations have officially started.",
+          "D. Because the Foreman directed him to do so due to noise complaints.",
+          "E. To prevent jurors from leaving and violating the trial rules.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does the Guard’s physical location and interaction pattern change immediately after delivering his only spoken line, 'Let's go, mister,' to Juror #3?\nA. He walks toward Juror #8 to lead him out.\nB. He walks to the table to retrieve the knife.\nC. He stays inside the jury room doorway and waits there until Juror #3 passes him.\nD. He steps outside of the jury room.\nE. He follows Juror #3 to the coat rack to assist with his coat.\nF. Cannot infer the answer based on the given information.\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He walks toward Juror #8 to lead him out.",
+          "B. He walks to the table to retrieve the knife.",
+          "C. He stays inside the jury room doorway and waits there until Juror #3 passes him.",
+          "D. He steps outside of the jury room.",
+          "E. He follows Juror #3 to the coat rack to assist with his coat.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. He steps outside of the jury room."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What is Juror #3's final stance on the boy's guilt at the end of the deliberation process?\n\nA. He reluctantly agrees to a not guilty vote.\nB. He is convinced of the boy's innocence after discussions.\nC. He remains neutral and does not change his vote.\nD. He continues to believe the boy is guilty.\nE. He stops arguing but refuses to join the final verdict.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He reluctantly agrees to a not guilty vote.",
+          "B. He is convinced of the boy's innocence after discussions.",
+          "C. He remains neutral and does not change his vote.",
+          "D. He continues to believe the boy is guilty.",
+          "E. He stops arguing but refuses to join the final verdict.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. He reluctantly agrees to a not guilty vote."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does #2's opinion regarding the validity of the witnesses' testimony evolve after the second knife is produced, and what does this suggest about his decision-making process?\n\nA. He shifts to suggesting the defense lawyer was incompetent, showing he is looking for scapegoats rather than evaluating evidence.\nB. He demands that they call the storekeeper back, indicating a desire to verify the evidence rather than accept it blindly.\nC. He immediately changes his vote to not guilty, demonstrating a strong reaction to new evidence.\nD. He firmly states that the witnesses could not possibly be wrong, indicating a stubborn adherence to his initial belief.\nE. He angrily confronts #6 for bringing illegal evidence into the jury room, reflecting defensiveness about his earlier decisions.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He shifts to suggesting the defense lawyer was incompetent, showing he is looking for scapegoats rather than evaluating evidence.",
+          "B. He demands that they call the storekeeper back, indicating a desire to verify the evidence rather than accept it blindly.",
+          "C. He immediately changes his vote to not guilty, demonstrating a strong reaction to new evidence.",
+          "D. He firmly states that the witnesses could not possibly be wrong, indicating a stubborn adherence to his initial belief.",
+          "E. He angrily confronts #6 for bringing illegal evidence into the jury room, reflecting defensiveness about his earlier decisions.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "F. Cannot infer the answer based on the given information."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What does #2's behavior during the second vote, together with the way he interacts with the other jurors, suggest about him?\n\nA. He is confidently trying to persuade others with his personal views.\nB. He is deliberately joking to keep the discussion from becoming too serious.\nC. He is hesitant and unsure of himself, suggesting he is easily influenced by stronger personalities.\nD. He is trying to act as the most responsible and authoritative juror.\nE. He wants to dominate the room by speaking more than everyone else.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He is confidently trying to persuade others with his personal views.",
+          "B. He is deliberately joking to keep the discussion from becoming too serious.",
+          "C. He is hesitant and unsure of himself, suggesting he is easily influenced by stronger personalities.",
+          "D. He is trying to act as the most responsible and authoritative juror.",
+          "E. He wants to dominate the room by speaking more than everyone else.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. He is hesitant and unsure of himself, suggesting he is easily influenced by stronger personalities."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does Juror #4's role in the evidence discussion develop over the course of deliberations?\n\nA. He begins as openly dismissive of evidence but later becomes serious about it.\nB. He was very attentive at first but later grew distracted and disinterested.\nC. He completely ignored Juror #8's arguments until the very end.\nD. He initially supported the prosecution but shifted to defending the defendant.\nE. He remains fact-oriented throughout, but becomes more actively engaged as specific pieces of evidence are tested and eventually acknowledges reasonable doubt.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He begins as openly dismissive of evidence but later becomes serious about it.",
+          "B. He was very attentive at first but later grew distracted and disinterested.",
+          "C. He completely ignored Juror #8's arguments until the very end.",
+          "D. He initially supported the prosecution but shifted to defending the defendant.",
+          "E. He remains fact-oriented throughout, but becomes more actively engaged as specific pieces of evidence are tested and eventually acknowledges reasonable doubt.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "E. He remains fact-oriented throughout, but becomes more actively engaged as specific pieces of evidence are tested and eventually acknowledges reasonable doubt."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "Why did Juror #11's initial belief about the prosecuting attorney change during the discussions with Juror #12?\n\nA. He can regard the prosecutor as skillful while still believing the jurors must examine the evidence more deeply.\nB. He realized the attorney had been motivated by personal connections.\nC. He compared the attorney's drive to his own experiences as an immigrant.\nD. He initially thought the attorney was competent but later agreed he was ineffective.\nE. He was persuaded by Juror #12's insistence on the attorney's expertise.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He can regard the prosecutor as skillful while still believing the jurors must examine the evidence more deeply.",
+          "B. He realized the attorney had been motivated by personal connections.",
+          "C. He compared the attorney's drive to his own experiences as an immigrant.",
+          "D. He initially thought the attorney was competent but later agreed he was ineffective.",
+          "E. He was persuaded by Juror #12's insistence on the attorney's expertise.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. He can regard the prosecutor as skillful while still believing the jurors must examine the evidence more deeply."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "What patterns can be identified in Juror #11's contributions to the jury's discussions regarding the reliability of witness testimonies?\n\nA. He consistently supported all witness accounts without question.\nB. He regularly challenged the credibility of witnesses based on personal experiences.\nC. He treated testimony as important but repeatedly emphasized that witnesses and presented facts could still be mistaken or colored by personality.\nD. He shifted from skepticism to acceptance after hearing other jurors' views.\nE. He maintained a neutral stance throughout the discussions without taking sides.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He consistently supported all witness accounts without question.",
+          "B. He regularly challenged the credibility of witnesses based on personal experiences.",
+          "C. He treated testimony as important but repeatedly emphasized that witnesses and presented facts could still be mistaken or colored by personality.",
+          "D. He shifted from skepticism to acceptance after hearing other jurors' views.",
+          "E. He maintained a neutral stance throughout the discussions without taking sides.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "C. He treated testimony as important but repeatedly emphasized that witnesses and presented facts could still be mistaken or colored by personality."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "How does Juror #11's view of the importance of personal responsibility in a jury change through the discussions, and what evidence supports this?\n\nA. He shifted from believing in the jury's collective decision to valuing individual accountability.\nB. He initially believed jurors should be lenient but later argued for strict accountability.\nC. He consistently emphasized the need for a fair trial without changing his stance.\nD. He consistently emphasizes that jurors must take their responsibility seriously and vote only according to conviction, even when others want to rush or trivialize the decision.\nE. He upheld the idea that personal biases should not influence decisions throughout.\nF. Cannot infer the answer based on the given information.\n\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. He shifted from believing in the jury's collective decision to valuing individual accountability.",
+          "B. He initially believed jurors should be lenient but later argued for strict accountability.",
+          "C. He consistently emphasized the need for a fair trial without changing his stance.",
+          "D. He consistently emphasizes that jurors must take their responsibility seriously and vote only according to conviction, even when others want to rush or trivialize the decision.",
+          "E. He upheld the idea that personal biases should not influence decisions throughout.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "D. He consistently emphasizes that jurors must take their responsibility seriously and vote only according to conviction, even when others want to rush or trivialize the decision."
+      },
+      {
+        "qa_type": "single_choice",
+        "question": "At what specific moment did Juror #9's previous reluctance to participate in the deliberation become definitively overturned?\nA. When he expressed a willingness to stay for an hour to discuss the case.\nB. When he realized the deliberation would last until the ball game starts.\nC. When he began to engage in conversation with #8 about the case.\nD. When he voted for guilty before changing his mind.\nE. When he first entered the jury room and went to the water cooler.\nF. Cannot infer the answer based on the given information.\nPlease provide the option corresponding to the only correct answer, enclosed in parentheses, e.g., (X).",
+        "option": [
+          "A. When he expressed a willingness to stay for an hour to discuss the case.",
+          "B. When he realized the deliberation would last until the ball game starts.",
+          "C. When he began to engage in conversation with #8 about the case.",
+          "D. When he voted for guilty before changing his mind.",
+          "E. When he first entered the jury room and went to the water cooler.",
+          "F. Cannot infer the answer based on the given information."
+        ],
+        "answer": "A. When he expressed a willingness to stay for an hour to discuss the case."
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "In the deep plotline where Juror #8 shifts from a lone dissenter to the engine of deliberation, which intermediate moves truly push him from an isolated minority position into the role of agenda-setter?\n\nA. He keeps his lone dissent as a symbolic stance, but does not change how the discussion operates.\nB. He first rewrites the discussion procedure so that dissent can continue to function.\nC. He shifts the dispute from a clash of positions into a layer of physical evidence that can be re-examined.\nD. He upgrades the dispute over testimony into a reenactment framework that can be jointly tested.\nE. He pushes the doubt onto the \"fact-oriented\" side and forces it to respond.\nF. He naturally becomes central by relying on others taking his side and on his opponents losing status.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. He keeps his lone dissent as a symbolic stance, but does not change how the discussion operates.",
+          "B. He first rewrites the discussion procedure so that dissent can continue to function.",
+          "C. He shifts the dispute from a clash of positions into a layer of physical evidence that can be re-examined.",
+          "D. He upgrades the dispute over testimony into a reenactment framework that can be jointly tested.",
+          "E. He pushes the doubt onto the \"fact-oriented\" side and forces it to respond.",
+          "F. He naturally becomes central by relying on others taking his side and on his opponents losing status."
+        ],
+        "answer": [
+          "B. He first rewrites the discussion procedure so that dissent can continue to function.",
+          "C. He shifts the dispute from a clash of positions into a layer of physical evidence that can be re-examined.",
+          "D. He upgrades the dispute over testimony into a reenactment framework that can be jointly tested.",
+          "E. He pushes the doubt onto the \"fact-oriented\" side and forces it to respond."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "In this deep plotline, if we fill in the chain from \"the Foreman asks #8 to explain\" to \"#4 is forced to respond,\" what is the correct order of the key intermediate stages?\n\nA. He then pulls the argument back to the knife as a physical object open to renewed examination.\nB. He pushes the doubt directly onto the fact-oriented side and demands an answer.\nC. He moves the discussion into an experimental reenactment layer built from the diagram and timing.\nD. He first reopens the discussion procedure through a secret ballot.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. He then pulls the argument back to the knife as a physical object open to renewed examination.",
+          "B. He pushes the doubt directly onto the fact-oriented side and demands an answer.",
+          "C. He moves the discussion into an experimental reenactment layer built from the diagram and timing.",
+          "D. He first reopens the discussion procedure through a secret ballot."
+        ],
+        "answer": [
+          "D. He first reopens the discussion procedure through a secret ballot.",
+          "A. He then pulls the argument back to the knife as a physical object open to renewed examination.",
+          "C. He moves the discussion into an experimental reenactment layer built from the diagram and timing.",
+          "B. He pushes the doubt directly onto the fact-oriented side and demands an answer."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "If we work backward from the endpoint \"Juror #8 has become the center who organizes doubt,\" in what order should the key prior causes be placed from nearest to farthest?\n\nA. He begins from an isolated dissenting position.\nB. He pushes the doubt directly onto the fact-oriented side.\nC. He upgrades the dispute into experimental reenactment.\nD. He first completes procedural and evidentiary rewrites.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. He begins from an isolated dissenting position.",
+          "B. He pushes the doubt directly onto the fact-oriented side.",
+          "C. He upgrades the dispute into experimental reenactment.",
+          "D. He first completes procedural and evidentiary rewrites."
+        ],
+        "answer": [
+          "B. He pushes the doubt directly onto the fact-oriented side.",
+          "C. He upgrades the dispute into experimental reenactment.",
+          "D. He first completes procedural and evidentiary rewrites.",
+          "A. He begins from an isolated dissenting position."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "If we complete the missing chain from \"the second not guilty vote\" to \"only #3 is left guarding guilty,\" what is the correct order?\nA. Juror #4's change leaves #3 as the only juror still openly guarding the guilty position.\nB. Juror #11 joins the not-guilty side after the second not-guilty vote, giving the camp of doubt a procedural/rational ally.\nC. Juror #5 changes his vote to not guilty, first making the loosening of the guilty majority visible.\nD. The eyeglasses test undermines the key eyewitness and pushes the vote into a genuine mid-game reversal.\nPlease provide the correct order of options, enclosed in parentheses, e.g., (A, B, C).",
+        "option": [
+          "A. Juror #4's change leaves #3 as the only juror still openly guarding the guilty position.",
+          "B. Juror #11 joins the not-guilty side after the second not-guilty vote, giving the camp of doubt a procedural/rational ally.",
+          "C. Juror #5 changes his vote to not guilty, first making the loosening of the guilty majority visible.",
+          "D. The eyeglasses test undermines the key eyewitness and pushes the vote into a genuine mid-game reversal."
+        ],
+        "answer": [
+          "C. Juror #5 changes his vote to not guilty, first making the loosening of the guilty majority visible.",
+          "B. Juror #11 joins the not-guilty side after the second not-guilty vote, giving the camp of doubt a procedural/rational ally.",
+          "D. The eyeglasses test undermines the key eyewitness and pushes the vote into a genuine mid-game reversal.",
+          "A. Juror #4's change leaves #3 as the only juror still openly guarding the guilty position."
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which compressed paths genuinely support the deep plotline of cascading majority erosion, rather than merely describing isolated vote changes?\n\nA. Earliest crack opens a position -> mid-layer shifts become visible -> a test spreads the movement -> the rational pillar gives way -> only the final holdout remains.\nB. Some people are distracted -> one person changes vote -> therefore the bloc automatically collapses.\nC. The continuous loosening in the middle plus the later collapse of the rational pillar together make unanimity possible.\nD. Since the last vote changes the outcome, all earlier cracks are just noise.\nE. As soon as someone symbolically supports the minority, a cascade is guaranteed.\nF. The more oppressive the environment becomes, the more naturally the majority structure flips.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Earliest crack opens a position -> mid-layer shifts become visible -> a test spreads the movement -> the rational pillar gives way -> only the final holdout remains.",
+          "B. Some people are distracted -> one person changes vote -> therefore the bloc automatically collapses.",
+          "C. The continuous loosening in the middle plus the later collapse of the rational pillar together make unanimity possible.",
+          "D. Since the last vote changes the outcome, all earlier cracks are just noise.",
+          "E. As soon as someone symbolically supports the minority, a cascade is guaranteed.",
+          "F. The more oppressive the environment becomes, the more naturally the majority structure flips."
+        ],
+        "answer": [
+          "A. Earliest crack opens a position -> mid-layer shifts become visible -> a test spreads the movement -> the rational pillar gives way -> only the final holdout remains.",
+          "C. The continuous loosening in the middle plus the later collapse of the rational pillar together make unanimity possible."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "If we trace backward from the endpoint \"unanimous not guilty\" to the earliest structural crack, what is the correct order from nearest to farthest?\n\nA. The earliest crack makes dissent no longer borne by just one person.\nB. The final holdout gives up the position.\nC. The rational pillar loosens before the ending is reached.\nD. A mid-game reversal makes the majority structure truly unstable.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. The earliest crack makes dissent no longer borne by just one person.",
+          "B. The final holdout gives up the position.",
+          "C. The rational pillar loosens before the ending is reached.",
+          "D. A mid-game reversal makes the majority structure truly unstable."
+        ],
+        "answer": [
+          "B. The final holdout gives up the position.",
+          "C. The rational pillar loosens before the ending is reached.",
+          "D. A mid-game reversal makes the majority structure truly unstable.",
+          "A. The earliest crack makes dissent no longer borne by just one person."
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which compressed paths truly support the deep plotline that the jury room changes from a fast-verdict machine into a reasonable-doubt machine?\n\nA. Procedural quick verdict -> re-testable physical evidence -> reenactable testimony -> reconstructible mechanism -> fine reliability scrutiny -> reasonable doubt becomes central.\nB. Procedural quick verdict -> prejudiced speech loses legitimacy -> therefore the evidentiary frame upgrades automatically.\nC. The key is not that the conclusion becomes slower, but that more and more objects are converted into jointly testable sources of doubt.\nD. Procedural quick verdict -> some people emotionally break down -> therefore the room turns to reasonable doubt.\nE. Procedural quick verdict -> once not guilty appears, the room automatically becomes evidence-driven.\nF. Procedural quick verdict -> once someone wants to leave, the original frame naturally fails.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Procedural quick verdict -> re-testable physical evidence -> reenactable testimony -> reconstructible mechanism -> fine reliability scrutiny -> reasonable doubt becomes central.",
+          "B. Procedural quick verdict -> prejudiced speech loses legitimacy -> therefore the evidentiary frame upgrades automatically.",
+          "C. The key is not that the conclusion becomes slower, but that more and more objects are converted into jointly testable sources of doubt.",
+          "D. Procedural quick verdict -> some people emotionally break down -> therefore the room turns to reasonable doubt.",
+          "E. Procedural quick verdict -> once not guilty appears, the room automatically becomes evidence-driven.",
+          "F. Procedural quick verdict -> once someone wants to leave, the original frame naturally fails."
+        ],
+        "answer": [
+          "A. Procedural quick verdict -> re-testable physical evidence -> reenactable testimony -> reconstructible mechanism -> fine reliability scrutiny -> reasonable doubt becomes central.",
+          "C. The key is not that the conclusion becomes slower, but that more and more objects are converted into jointly testable sources of doubt."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "If we work backward from the endpoint \"reasonable doubt has become the center of deliberation,\" what is the correct order of prior causes from nearest to farthest?\n\nA. At the start, the room still prioritized producing a conclusion procedurally.\nB. Witness identification conditions enter detailed scrutiny.\nC. The wound mechanism has already been brought into reconstruction.\nD. Testimony has already been moved into an experimentally testable layer.\nE. Physical evidence had first been brought back into a re-testable layer.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. At the start, the room still prioritized producing a conclusion procedurally.",
+          "B. Witness identification conditions enter detailed scrutiny.",
+          "C. The wound mechanism has already been brought into reconstruction.",
+          "D. Testimony has already been moved into an experimentally testable layer.",
+          "E. Physical evidence had first been brought back into a re-testable layer."
+        ],
+        "answer": [
+          "B. Witness identification conditions enter detailed scrutiny.",
+          "C. The wound mechanism has already been brought into reconstruction.",
+          "D. Testimony has already been moved into an experimentally testable layer.",
+          "E. Physical evidence had first been brought back into a re-testable layer.",
+          "A. At the start, the room still prioritized producing a conclusion procedurally."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "If we trace backward from the endpoint '#4 admits reasonable doubt,' what is the correct order of prior causes from nearest to farthest?\n\nA. He was initially established as an authority centered on facts and details.\nB. He is forced to respond within his own evidentiary standard.\nC. A crack has already opened in the woman's testimony through identification conditions.\nD. That testimony had long functioned as a rational support for guilt.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. He was initially established as an authority centered on facts and details.",
+          "B. He is forced to respond within his own evidentiary standard.",
+          "C. A crack has already opened in the woman's testimony through identification conditions.",
+          "D. That testimony had long functioned as a rational support for guilt."
+        ],
+        "answer": [
+          "B. He is forced to respond within his own evidentiary standard.",
+          "C. A crack has already opened in the woman's testimony through identification conditions.",
+          "D. That testimony had long functioned as a rational support for guilt.",
+          "A. He was initially established as an authority centered on facts and details."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "If we trace backward from the endpoint '#10 has been pushed back into his chair and his discourse has failed,' what is the correct order from nearest to farthest?\n\nA. At first the prejudice entered discussion in a form still usable in judgment.\nB. The failed status is enforced as a marginal position.\nC. The group has already formed a collective state of cancellation.\nD. The prejudice has already escalated into a more naked stigmatizing form.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. At first the prejudice entered discussion in a form still usable in judgment.",
+          "B. The failed status is enforced as a marginal position.",
+          "C. The group has already formed a collective state of cancellation.",
+          "D. The prejudice has already escalated into a more naked stigmatizing form."
+        ],
+        "answer": [
+          "B. The failed status is enforced as a marginal position.",
+          "C. The group has already formed a collective state of cancellation.",
+          "D. The prejudice has already escalated into a more naked stigmatizing form.",
+          "A. At first the prejudice entered discussion in a form still usable in judgment."
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "In the deep plotline of #5's identity reversal, which intermediate supports truly turn his social background from a stigmatized burden into evidentiary advantage?\n\nA. A weak, nervous position marked by slum background is established first.\nB. His stance shifts from passive endurance to explicit movement.\nC. Life experience tied to knife fights and switch-knives is activated as relevant knowledge.\nD. That experience is converted into a publicly shareable explanation and demonstration of knife use.\nE. Regional preferences or personal tastes are transformed into evidentiary authority.\nF. Youth itself directly guarantees the correctness of his judgment.\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. A weak, nervous position marked by slum background is established first.",
+          "B. His stance shifts from passive endurance to explicit movement.",
+          "C. Life experience tied to knife fights and switch-knives is activated as relevant knowledge.",
+          "D. That experience is converted into a publicly shareable explanation and demonstration of knife use.",
+          "E. Regional preferences or personal tastes are transformed into evidentiary authority.",
+          "F. Youth itself directly guarantees the correctness of his judgment."
+        ],
+        "answer": [
+          "A. A weak, nervous position marked by slum background is established first.",
+          "B. His stance shifts from passive endurance to explicit movement.",
+          "C. Life experience tied to knife fights and switch-knives is activated as relevant knowledge.",
+          "D. That experience is converted into a publicly shareable explanation and demonstration of knife use."
+        ]
+      },
+      {
+        "qa_type": "ordering",
+        "question": "If we work backward from the endpoint '#5 has become the key interpreter of knife mechanics,' what is the correct order of prior causes from nearest to farthest?\n\nA. The original weak and stigmatized social position had first been established.\nB. His experience has already been publicly turned into a shareable demonstration.\nC. That experience had first been converted into an explicit judgment about knife use.\nD. Lived experience tied to knife fights and knife-use environments had already been activated.\n\nPlease provide the options in the correct order enclosed in parentheses, separated by commas, e.g., (Y, Z, X, W). No points will be awarded for an incorrect sequence.",
+        "option": [
+          "A. The original weak and stigmatized social position had first been established.",
+          "B. His experience has already been publicly turned into a shareable demonstration.",
+          "C. That experience had first been converted into an explicit judgment about knife use.",
+          "D. Lived experience tied to knife fights and knife-use environments had already been activated."
+        ],
+        "answer": [
+          "B. His experience has already been publicly turned into a shareable demonstration.",
+          "C. That experience had first been converted into an explicit judgment about knife use.",
+          "D. Lived experience tied to knife fights and knife-use environments had already been activated.",
+          "A. The original weak and stigmatized social position had first been established."
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following characters have occupations explicitly described as salesman, advertising man, or head of a messenger service?\n\nA. Juror #7\nB. Juror #4\nC. Juror #12\nD. Juror #3\nE. Juror #5\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Juror #7",
+          "B. Juror #4",
+          "C. Juror #12",
+          "D. Juror #3",
+          "E. Juror #5"
+        ],
+        "answer": [
+          "A. Juror #7",
+          "C. Juror #12",
+          "D. Juror #3"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following characters are individually and explicitly foregrounded as embarrassed, rather than only included in a general 'everyone else' description?\n\nA. Juror #3\nB. Juror #10\nC. Foreman\nD. Juror #8\nE. Juror #5\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Juror #3",
+          "B. Juror #10",
+          "C. Foreman",
+          "D. Juror #8",
+          "E. Juror #5"
+        ],
+        "answer": [
+          "A. Juror #3",
+          "C. Foreman",
+          "D. Juror #8"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following states are explicitly assigned to Juror #3 as emotion or emotional_state?\n\nA. furious\nB. nervous\nC. embarrassed\nD. burning but controlled\nE. anxious\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. furious",
+          "B. nervous",
+          "C. embarrassed",
+          "D. burning but controlled",
+          "E. anxious"
+        ],
+        "answer": [
+          "A. furious",
+          "C. embarrassed",
+          "D. burning but controlled"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following characters have an explicitly marked personal stance of guilty or probably guilty?\n\nA. Juror #8\nB. Juror #6\nC. Juror #9\nD. Juror #4\nE. Juror #5\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Juror #8",
+          "B. Juror #6",
+          "C. Juror #9",
+          "D. Juror #4",
+          "E. Juror #5"
+        ],
+        "answer": [
+          "B. Juror #6",
+          "C. Juror #9",
+          "D. Juror #4"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following are collective vote results or splits that explicitly appear?\n\nA. 10 guilty, 2 not guilty\nB. 8 guilty, 4 not guilty\nC. six to six\nD. 9 not guilty, 3 guilty\nE. 11 not guilty, 1 guilty\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. 10 guilty, 2 not guilty",
+          "B. 8 guilty, 4 not guilty",
+          "C. six to six",
+          "D. 9 not guilty, 3 guilty",
+          "E. 11 not guilty, 1 guilty"
+        ],
+        "answer": [
+          "A. 10 guilty, 2 not guilty",
+          "B. 8 guilty, 4 not guilty",
+          "C. six to six",
+          "D. 9 not guilty, 3 guilty",
+          "E. 11 not guilty, 1 guilty"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following characters or groups explicitly moved to or toward the window?\n\nA. Juror #12\nB. Juror #5\nC. Juror #3\nD. Juror #8\nE. Guard\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Juror #12",
+          "B. Juror #5",
+          "C. Juror #3",
+          "D. Juror #8",
+          "E. Guard"
+        ],
+        "answer": [
+          "A. Juror #12",
+          "C. Juror #3",
+          "D. Juror #8"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following characters explicitly moved to or toward the water cooler?\n\nA. Foreman\nB. Juror #7\nC. Juror #4\nD. Juror #3\nE. Juror #11\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Foreman",
+          "B. Juror #7",
+          "C. Juror #4",
+          "D. Juror #3",
+          "E. Juror #11"
+        ],
+        "answer": [
+          "A. Foreman",
+          "B. Juror #7",
+          "D. Juror #3"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "During the scene where the jurors turn away from Juror #10, which characters explicitly move to or take positions along the wall?\n\nA. Juror #8\nB. Juror #9\nC. Juror #2\nD. Juror #6\nE. Juror #10\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Juror #8",
+          "B. Juror #9",
+          "C. Juror #2",
+          "D. Juror #6",
+          "E. Juror #10"
+        ],
+        "answer": [
+          "A. Juror #8",
+          "C. Juror #2",
+          "D. Juror #6"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following characters explicitly performed knife actions involving inserting it into, sticking it into, landing it in, or taking it out of the table?\n\nA. Juror #8\nB. Juror #4\nC. Juror #6\nD. Juror #12\nE. Juror #9\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Juror #8",
+          "B. Juror #4",
+          "C. Juror #6",
+          "D. Juror #12",
+          "E. Juror #9"
+        ],
+        "answer": [
+          "A. Juror #8",
+          "B. Juror #4",
+          "C. Juror #6"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following characters explicitly have transfer-type knife actions such as giving, handing, or receiving the knife?\n\nA. Foreman\nB. Juror #5\nC. Guard\nD. Juror #6\nE. Juror #10\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Foreman",
+          "B. Juror #5",
+          "C. Guard",
+          "D. Juror #6",
+          "E. Juror #10"
+        ],
+        "answer": [
+          "A. Foreman",
+          "B. Juror #5",
+          "C. Guard",
+          "D. Juror #6"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which statements about Juror #4’s physical or outward characteristics are correct?\n\nA. He is explicitly described as wearing glasses\nB. He is explicitly described as sweating heavily because of the heat\nC. He has deep marks on both sides of his nose left by his glasses\nD. He normally does not wear his glasses to bed\nE. Because of the marks from his glasses, he is further described as having 20/20 vision\nF. He is explicitly described as having a bad cold and repeatedly blowing his nose\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. He is explicitly described as wearing glasses",
+          "B. He is explicitly described as sweating heavily because of the heat",
+          "C. He has deep marks on both sides of his nose left by his glasses",
+          "D. He normally does not wear his glasses to bed",
+          "E. Because of the marks from his glasses, he is further described as having 20/20 vision",
+          "F. He is explicitly described as having a bad cold and repeatedly blowing his nose"
+        ],
+        "answer": [
+          "A. He is explicitly described as wearing glasses",
+          "C. He has deep marks on both sides of his nose left by his glasses",
+          "D. He normally does not wear his glasses to bed"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "In the discussion of the woman across the street’s eyesight and eyeglasses, which of the following inferences are explicitly proposed?\n\nA. She may have had marks on both sides of her nose from long-term glasses use\nB. She probably was not wearing glasses while in bed\nC. She explicitly admitted in court that she was not wearing glasses that night\nD. She may have avoided wearing glasses in order to look younger\nE. Before the lights went out, she may have seen only a blurred image\nF. The prosecutor directly proved in court that she was not wearing glasses\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. She may have had marks on both sides of her nose from long-term glasses use",
+          "B. She probably was not wearing glasses while in bed",
+          "C. She explicitly admitted in court that she was not wearing glasses that night",
+          "D. She may have avoided wearing glasses in order to look younger",
+          "E. Before the lights went out, she may have seen only a blurred image",
+          "F. The prosecutor directly proved in court that she was not wearing glasses"
+        ],
+        "answer": [
+          "A. She may have had marks on both sides of her nose from long-term glasses use",
+          "B. She probably was not wearing glasses while in bed",
+          "D. She may have avoided wearing glasses in order to look younger",
+          "E. Before the lights went out, she may have seen only a blurred image"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which people make key contributions to the issue of whether the woman witness wore glasses and could see clearly?\n\nA. Juror #9: he infers from facial marks that she may need glasses\nB. Juror #8: he adds that she may not have been wearing glasses in bed and that the prosecution may not have noticed\nC. Juror #11: he stresses the difficulty of identifying someone at night from a distance without glasses\nD. Juror #5: based on having seen knife fights, he concludes that she was not wearing glasses\nE. Juror #4: he treats her testimony as important and solid evidence\nF. Juror #10: from his own bad cold, he infers that she could not see clearly that night\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Juror #9: he infers from facial marks that she may need glasses",
+          "B. Juror #8: he adds that she may not have been wearing glasses in bed and that the prosecution may not have noticed",
+          "C. Juror #11: he stresses the difficulty of identifying someone at night from a distance without glasses",
+          "D. Juror #5: based on having seen knife fights, he concludes that she was not wearing glasses",
+          "E. Juror #4: he treats her testimony as important and solid evidence",
+          "F. Juror #10: from his own bad cold, he infers that she could not see clearly that night"
+        ],
+        "answer": [
+          "A. Juror #9: he infers from facial marks that she may need glasses",
+          "B. Juror #8: he adds that she may not have been wearing glasses in bed and that the prosecution may not have noticed",
+          "C. Juror #11: he stresses the difficulty of identifying someone at night from a distance without glasses",
+          "E. Juror #4: he treats her testimony as important and solid evidence"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following pieces of information serve as background support for the eyeglasses line of reasoning?\n\nA. Juror #9 himself has 20/20 vision without glasses\nB. Juror #10 has a bad cold and repeatedly blows his nose\nC. Juror #4 has marks on both sides of his nose from wearing glasses\nD. Juror #5 has seen knife fights and knows the usual way a switchblade is used\nE. Juror #4 normally does not wear glasses to bed\nF. The fact that Juror #9 takes pills directly proves that the woman witness was not wearing glasses\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Juror #9 himself has 20/20 vision without glasses",
+          "B. Juror #10 has a bad cold and repeatedly blows his nose",
+          "C. Juror #4 has marks on both sides of his nose from wearing glasses",
+          "D. Juror #5 has seen knife fights and knows the usual way a switchblade is used",
+          "E. Juror #4 normally does not wear glasses to bed",
+          "F. The fact that Juror #9 takes pills directly proves that the woman witness was not wearing glasses"
+        ],
+        "answer": [
+          "A. Juror #9 himself has 20/20 vision without glasses",
+          "C. Juror #4 has marks on both sides of his nose from wearing glasses",
+          "E. Juror #4 normally does not wear glasses to bed"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following statements correctly capture the contrast in positions about the woman witness’s testimony?\n\nA. Juror #4 treats her testimony as very solid and important evidence\nB. Juror #9 questions whether she may need glasses based on visual details of her appearance\nC. Juror #8 suggests that the prosecution may not have noticed that she needed glasses\nD. Juror #11 supports Juror #4 by arguing that the woman witness’s testimony is unshakable\nE. Juror #8 argues that she was wearing glasses in bed, so she must have seen clearly\nF. Juror #9 argues that she wore glasses in court in order to look younger\n\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Juror #4 treats her testimony as very solid and important evidence",
+          "B. Juror #9 questions whether she may need glasses based on visual details of her appearance",
+          "C. Juror #8 suggests that the prosecution may not have noticed that she needed glasses",
+          "D. Juror #11 supports Juror #4 by arguing that the woman witness’s testimony is unshakable",
+          "E. Juror #8 argues that she was wearing glasses in bed, so she must have seen clearly",
+          "F. Juror #9 argues that she wore glasses in court in order to look younger"
+        ],
+        "answer": [
+          "A. Juror #4 treats her testimony as very solid and important evidence",
+          "B. Juror #9 questions whether she may need glasses based on visual details of her appearance",
+          "C. Juror #8 suggests that the prosecution may not have noticed that she needed glasses"
+        ]
+      },
+      {
+        "qa_type": "multi_select",
+        "question": "Which of the following characters explicitly moved to or toward the wall?\nA. Juror #8\nB. Juror #9\nC. Juror #2\nD. Juror #6\nE. Juror #10\nPlease provide all correct options enclosed in parentheses, separated by commas, e.g., (X, Y, Z). No points will be awarded for incomplete or incorrect selections.",
+        "option": [
+          "A. Juror #8",
+          "B. Juror #9",
+          "C. Juror #2",
+          "D. Juror #6",
+          "E. Juror #10"
+        ],
+        "answer": [
+          "A. Juror #8",
+          "C. Juror #2",
+          "D. Juror #6"
+        ]
+      }
+    ],
+    "conversation": {
+      "format_example": {
+        "speakers": [
+          "Speaker A",
+          "Speaker B"
+        ],
+        "session_1_date_time": "Unknown",
+        "session_1": [
+          {
+            "type": "dialogue",
+            "speaker": "Speaker A",
+            "dia_id": "D1:1",
+            "text": "Synthetic example utterance showing the dialogue schema."
+          },
+          {
+            "type": "narration",
+            "speaker": null,
+            "dia_id": "D1:2",
+            "text": "Synthetic non-dialogue scene description showing the narration schema."
+          }
+        ]
+      }
+    },
+    "sample_id": "conv-0"
+  }
+]

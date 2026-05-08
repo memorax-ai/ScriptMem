@@ -1,0 +1,75 @@
+ScriptMem Attribution and Good-Faith Notice
+
+This benchmark is prepared as a research-oriented long-context multiple-choice
+benchmark for long-term agent memory. It follows a lightweight benchmark
+release layout and is intended for non-commercial academic research,
+benchmark evaluation, and reproducibility.
+
+License Scope
+-------------
+
+The original benchmark materials created for ScriptMem, including task design,
+questions, reference answers, annotations, evaluation metadata, evaluation
+protocol, documentation, and project-created figures, are provided under the
+Creative Commons Attribution-NonCommercial 4.0 International License
+(CC BY-NC 4.0). See LICENSE.txt.
+
+This license applies only to the original benchmark materials created for
+ScriptMem. It does not apply to any third-party copyrighted materials,
+including but not limited to scripts, transcripts, subtitles, dialogue,
+source texts, characters, titles, episodes, film or television content, or
+other third-party source materials. Such materials remain the property of
+their respective rightsholders and are not licensed by us.
+
+The accompanying evaluation code under `src/` and `scripts/` is provided to
+support non-commercial academic and research evaluation of this benchmark.
+If the code is intended to be licensed independently from the benchmark
+materials, a separate CODE_LICENSE file should be added before public release.
+
+Source Materials and Attribution
+--------------------------------
+
+This repository does not include, host, or distribute any third-party scripts,
+transcripts, subtitles, dialogue, or original conversation text.
+
+Some benchmark items may refer to, summarize, paraphrase, or be inspired by
+narrative events, character relations, temporal developments, or dialogue
+situations from third-party source works. Released questions, options, and
+answers are intended to be task-specific annotations, summaries, paraphrases,
+or labels. They are not intended to reproduce, substitute for, or redistribute
+the original source works or their expressive content.
+
+The benchmark-specific contribution consists of curation, formatting,
+question-answer construction, option construction, consistency correction,
+evaluation protocol design, export scripts, summary scripts, and evaluation
+tooling.
+
+Third-Party Rights and Good-Faith Review
+----------------------------------------
+
+This release is intended for non-commercial academic research, benchmark
+evaluation, and reproducibility. No endorsement by any original creator,
+publisher, studio, platform, institution, or rightsholder is implied.
+
+Reported results, if any, were obtained using source materials accessed and
+processed locally for research and evaluation purposes. These source materials
+are not included in this repository. Users who wish to reproduce or extend the
+benchmark are responsible for independently obtaining any required source
+materials and ensuring that their use complies with applicable laws, licenses,
+exceptions, limitations, and institutional policies.
+
+If you are a rightsholder and believe that any material in this release should
+not be included, please contact the repository maintainers at [CONTACT_EMAIL]
+with enough detail to identify the relevant file and item. We will review
+good-faith requests and remove, replace, or further transform disputed
+material where appropriate.
+
+Redistribution
+--------------
+
+If you share the licensed ScriptMem benchmark materials or adapted materials,
+retain this NOTICE, retain LICENSE.txt, preserve attribution to the ScriptMem
+benchmark curation effort, and clearly mark any modifications you make.
+
+This NOTICE is intended to clarify the scope of the release and attribution
+expectations. It does not modify the terms of LICENSE.txt.

@@ -1,0 +1,59 @@
+{
+  "dataset_name": "scriptmem",
+  "dataset_file_name": "data/raw/*.json",
+  "conversation_count": 4,
+  "question_count": 457,
+  "qa_type_counts": {
+    "multi_select": 123,
+    "ordering": 36,
+    "single_choice": 298
+  },
+  "files": {
+    "raw": "data/raw",
+    "conversations": "data/public/conversations.jsonl",
+    "questions": "data/public/questions.jsonl",
+    "submission_template": "data/public/submission_template.json"
+  },
+  "datasets": {
+    "angry": {
+      "file": "data/raw/angry.json",
+      "question_count": 99,
+      "qa_type_counts": {
+        "multi_select": 20,
+        "ordering": 8,
+        "single_choice": 71
+      },
+      "sha256": "352a28686c4b44b3d144e196a2731a738bb86a3dc0c2f8f295f81357ff37e2fe"
+    },
+    "enemy": {
+      "file": "data/raw/enemy.json",
+      "question_count": 94,
+      "qa_type_counts": {
+        "multi_select": 27,
+        "ordering": 8,
+        "single_choice": 59
+      },
+      "sha256": "463340d230efb948420cea5ce39b885eca01818e0f1da0013e206fe9578d72ea"
+    },
+    "friends": {
+      "file": "data/raw/friends.json",
+      "question_count": 174,
+      "qa_type_counts": {
+        "multi_select": 61,
+        "ordering": 14,
+        "single_choice": 99
+      },
+      "sha256": "f85f27305a1c29c71a48d2fc4ca397e61cfe9ed4fe5ffb80446928600b07827b"
+    },
+    "man_earth": {
+      "file": "data/raw/man_earth.json",
+      "question_count": 90,
+      "qa_type_counts": {
+        "multi_select": 15,
+        "ordering": 6,
+        "single_choice": 69
+      },
+      "sha256": "2fa83626304772ed54de9cc9ffe9949d5522c2535b4e0f77ef539c484ef77980"
+    }
+  }
+}
