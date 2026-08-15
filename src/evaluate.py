@@ -71,16 +71,20 @@ def load_submission(path: Path) -> dict[str, str]:
                 if field in item:
                     return str(item.get(field) or "")
         return ""
-
+    def add_prediction(qa_id: str, item: Any) -> None:
+        if qa_id in predictions:
+            raise ValueError(f"duplicate prediction for qa_id: {qa_id}")
+        predictions[qa_id] = prediction_text(item)
+      
     def add_result(item: Any, *, dataset: str | None = None, index: int | None = None) -> None:
         if isinstance(item, dict):
             qa_id = item.get("qa_id") or item.get("question_id")
             if not qa_id and dataset is not None and index is not None:
                 qa_id = f"{dataset}:conv-0#q{index:04d}"
             if qa_id:
-                predictions[str(qa_id)] = prediction_text(item)
+                add_prediction(str(qa_id), item)
         elif dataset is not None and index is not None:
-            predictions[f"{dataset}:conv-0#q{index:04d}"] = prediction_text(item)
+            add_prediction(f"{dataset}:conv-0#q{index:04d}", item)
 
     if isinstance(payload, list):
         for group in payload:
