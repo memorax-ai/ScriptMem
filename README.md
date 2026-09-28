@@ -94,8 +94,10 @@ For copyright and attribution reasons, the released data does not include the or
 No third-party Python package is required.
 
 ```bash
+# 1. Create a submission file and fill in each predicted_answer field
+cp data/public/submission_template.json your_submission.json
 
-# 1. Run evaluation on your submission
+# 2. Run evaluation on your submission
 python scripts/run_eval.py \
   --data-dir data/raw \
   --submission your_submission.json \
@@ -103,7 +105,7 @@ python scripts/run_eval.py \
   --details eval_details.json
 
 
-# 2. Build per-question diagnostic report
+# 3. Build per-question diagnostic report
 python scripts/summarize.py \
   --input-path eval_details.json \
   --output-path eval_details_summary.json \
