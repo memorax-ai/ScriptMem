@@ -167,7 +167,9 @@ def main() -> None:
         )
 
     if args.details:
-        Path(args.details).write_text(json.dumps(details, ensure_ascii=False, indent=2), encoding="utf-8")
+        details_path = Path(args.details)
+        details_path.parent.mkdir(parents=True, exist_ok=True)
+        details_path.write_text(json.dumps(details, ensure_ascii=False, indent=2), encoding="utf-8")
 
     count = len(qas)
     print(json.dumps({"count": count, "total": total, "accuracy": total / count if count else 0.0}, ensure_ascii=False, indent=2))
