@@ -23,7 +23,7 @@
         "ordering": 8,
         "single_choice": 71
       },
-      "sha256": "352a28686c4b44b3d144e196a2731a738bb86a3dc0c2f8f295f81357ff37e2fe"
+      "sha256": "f9234a9d4bbd48e5d74fa94f22031ad4867a90756d285afeb1cf3bd039a11b88"
     },
     "enemy": {
       "file": "data/raw/enemy.json",
@@ -33,7 +33,7 @@
         "ordering": 8,
         "single_choice": 59
       },
-      "sha256": "463340d230efb948420cea5ce39b885eca01818e0f1da0013e206fe9578d72ea"
+      "sha256": "459f7d91a2af8f23cf01954f4bdd8afc2f5a9ab32c596571249f85e5b918294c"
     },
     "friends": {
       "file": "data/raw/friends.json",
@@ -43,7 +43,7 @@
         "ordering": 14,
         "single_choice": 99
       },
-      "sha256": "f85f27305a1c29c71a48d2fc4ca397e61cfe9ed4fe5ffb80446928600b07827b"
+      "sha256": "58da6f3dc20644aa35ee17b427e9cab3b6596b97171c6bf28ffc5889c1d0cf04"
     },
     "man_earth": {
       "file": "data/raw/man_earth.json",
@@ -53,7 +53,7 @@
         "ordering": 6,
         "single_choice": 69
       },
-      "sha256": "2fa83626304772ed54de9cc9ffe9949d5522c2535b4e0f77ef539c484ef77980"
+      "sha256": "4d2f51bcc5a817ab38d2195845458fdb379b593928efa844032911580b2b070b"
     }
   }
 }
